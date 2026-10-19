@@ -1,0 +1,252 @@
+﻿1
+00:00:00,120 --> 00:00:03,770
+He's asking, 'Will going to grad school help me get a higher salary?'
+
+2
+00:00:03,770 --> 00:00:06,370
+So, will taking the National Postgraduate Entrance Examination after I start working help me get a higher salary?
+
+3
+00:00:06,370 --> 00:00:08,130
+If you're taking the National Postgraduate Entrance Examination for a 985/211 university,
+
+4
+00:00:08,130 --> 00:00:09,590
+Of course, it definitely helps.
+
+5
+00:00:09,590 --> 00:00:11,150
+Getting into a 985/211 university is definitely a plus.
+
+6
+00:00:11,150 --> 00:00:12,860
+But if it's not a 985/211, it's useless.
+
+7
+00:00:12,860 --> 00:00:15,660
+If it's not a '92 university, you might as well just hire someone with a bachelor's degree.
+
+8
+00:00:15,660 --> 00:00:18,730
+Okay, so is it useful to pursue a part-time master's in Amorphous metal after you've started working?
+
+9
+00:00:18,730 --> 00:00:20,530
+For a part-time master's, like the 'Fei Quan' one, you don't even need to bother taking the exam.
+
+10
+00:00:20,530 --> 00:00:21,329
+It's a real waste of time.
+
+11
+00:00:21,329 --> 00:00:24,000
+Well, unless... I mean, you can't just say it's a waste of time.
+
+12
+00:00:24,000 --> 00:00:25,239
+If you want to improve yourself, then sure, that's a different story.
+
+13
+00:00:25,239 --> 00:00:26,760
+But if your only goal is to get a job,
+
+14
+00:00:26,760 --> 00:00:29,080
+or especially for integrated/embedded systems, it's not that significant.
+
+15
+00:00:29,080 --> 00:00:31,300
+So, what do employers value most when hiring recent graduates?
+
+16
+00:00:31,300 --> 00:00:34,440
+One thing is their verbal communication skills.
+
+17
+00:00:34,440 --> 00:00:36,659
+That's something I'd also pay attention to.
+
+18
+00:00:36,659 --> 00:00:40,979
+Then, what kind of competitions they've participated in during their time at school.
+
+19
+00:00:40,979 --> 00:00:42,900
+That's the kind of thing that would pique my interest.
+
+20
+00:00:42,900 --> 00:00:48,900
+And also, has he written anything on his own?
+
+21
+00:00:48,900 --> 00:00:49,780
+Yeah, things like having written a blog, that would also catch my eye.
+
+22
+00:00:49,780 --> 00:00:51,220
+Sometimes, that piques my interest as well.
+
+23
+00:00:51,220 --> 00:00:52,659
+Basically, in any area, as long as it's tech-related,
+
+24
+00:00:52,659 --> 00:00:53,680
+I'll be interested in it.
+
+25
+00:00:53,680 --> 00:00:55,560
+I'm not limited to just one thing.
+
+26
+00:00:55,560 --> 00:00:59,440
+Well, as a fresh graduate, you'll always have your own unique strengths to showcase.
+
+27
+00:00:59,440 --> 00:01:02,080
+You can't just expect it to stay in one place.
+
+28
+00:01:02,610 --> 00:01:04,090
+Does MCU still have a future?
+
+29
+00:01:05,370 --> 00:01:05,890
+MCU...
+
+30
+00:01:05,890 --> 00:01:10,860
+For MCU, you definitely need to move on from just messing around like I mentioned earlier. You've got to develop in those kinds of industries.
+
+31
+00:01:10,860 --> 00:01:13,780
+The automotive industry is definitely one of them.
+
+32
+00:01:13,780 --> 00:01:18,850
+I mean, I can't just say you can do it like before, you know, with nothing to show for it.
+
+33
+00:01:18,850 --> 00:01:20,490
+You definitely need to be compliant with industry standards.
+
+34
+00:01:20,490 --> 00:01:24,260
+Yeah, and it's developing in a way that's very industry-specific.
+
+35
+00:01:24,260 --> 00:01:26,080
+If you really just want to stick with MCU development,
+
+36
+00:01:26,080 --> 00:01:28,800
+And what do you mean by 'industry standards'?
+
+37
+00:01:28,800 --> 00:01:31,640
+Take the automotive industry for example, with its Functional safety standards.
+
+38
+00:01:31,640 --> 00:01:32,959
+The kind that are really strict in their standards.
+
+39
+00:01:32,959 --> 00:01:37,400
+It's not the kind of thing where you can just hire anyone off the street and expect them to get started, you know?
+
+40
+00:01:37,400 --> 00:01:39,760
+So, for example, their coding standards,
+
+41
+00:01:39,760 --> 00:01:40,520
+or testing standards,
+
+42
+00:01:40,520 --> 00:01:43,780
+And the development processes are also very rigorous. Right.
+
+43
+00:01:44,060 --> 00:01:49,280
+So, what that means is, all these processes are a plus when it comes to getting a job.
+
+44
+00:01:49,280 --> 00:01:55,370
+Right. Yeah, so if you're applying for a job in the automotive industry, you might be able to get in.
+
+45
+00:01:55,370 --> 00:01:57,940
+They're looking for those elite candidates with 1-3 years of experience.
+
+46
+00:01:57,940 --> 00:01:58,860
+You might still have a shot at getting in.
+
+47
+00:01:58,860 --> 00:02:01,300
+But for those 5-10 year roles? You're pretty much not getting in, yeah.
+
+48
+00:02:01,300 --> 00:02:02,680
+Uh, so what do you think? Your classmate is asking you...
+
+49
+00:02:02,680 --> 00:02:04,320
+So, do you think you have the Curse of 35?
+
+50
+00:02:04,320 --> 00:02:07,330
+How much longer can I keep this up?
+
+51
+00:02:08,010 --> 00:02:09,250
+Well, anyway, just try not to worry about it too much.
+
+52
+00:02:09,250 --> 00:02:10,450
+If you love what you do, that's all that matters.
+
+53
+00:02:10,450 --> 00:02:11,490
+Don't even worry about that kind of crisis.
+
+54
+00:02:11,490 --> 00:02:14,690
+Anyway, when the time comes, what will be, will be.
+
+55
+00:02:14,690 --> 00:02:16,550
+I'm the kind of person who just rolls with the punches.
+
+56
+00:02:16,550 --> 00:02:17,430
+So, in your company, you have positions...
+
+57
+00:02:17,430 --> 00:02:22,190
+What about engineers over 35?
+
+58
+00:02:22,190 --> 00:02:26,090
+Yes. Are there a lot of them?
+
+59
+00:02:26,090 --> 00:02:30,669
+Not many. But at my previous company, there were a ton of them.
+
+60
+00:02:32,200 --> 00:02:34,460
+I mean, the chip-maker itself.
+
+61
+00:02:34,460 --> 00:02:39,930
+They're actually pretty flexible when it comes to, uh, the age of engineers.
+
+62
+00:02:39,930 --> 00:02:42,050
+Yeah, it's true. If you're technically strong,
+
+63
+00:02:42,050 --> 00:02:43,880
+You'll never have to worry about finding a job.
+

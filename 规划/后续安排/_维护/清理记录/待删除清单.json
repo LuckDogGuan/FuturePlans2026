@@ -1,0 +1,799 @@
+[
+  {
+    "path": "01_方向选择\\成本与收入检查.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 4979,
+    "sha256": "b2345d27f9122850aab951c35ba58daece90b76e3b3089f3ea43a1f332e79116"
+  },
+  {
+    "path": "01_方向选择\\长期机会与风险.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 6339,
+    "sha256": "09724e0dc9e5358e0d1ea9326e4db2fe2b111676d205a439b6ec7fb5560a3573"
+  },
+  {
+    "path": "01_方向选择\\当前结论与进度.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 3340,
+    "sha256": "156bd001cfe5d60e0ea5668a04b44dfaaeeaf97bf419deb77de826c761b8ba32"
+  },
+  {
+    "path": "01_方向选择\\未来方向对比.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 6303,
+    "sha256": "4d30620d1f8f2895dfebc3f9c36a14b3750d98df6bf90fae3a1e7adbaf59918d"
+  },
+  {
+    "path": "01_方向选择\\一页方向判断卡.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 1700,
+    "sha256": "be891bb88365adb7fd115f005cf1e782308709dcf289f33d745df01ba4bc5256"
+  },
+  {
+    "path": "02_体验项目\\第一次体验怎么开始.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 1656,
+    "sha256": "7e92396a6dacebb6b30d03fcd8ee86b3e6171e9ee7169f99301b02f4511f08a0"
+  },
+  {
+    "path": "02_体验项目\\小项目体验与选择.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 7919,
+    "sha256": "ec43ea23a7a3dfe95b700404d901a50786071791c16b630d364aee83e321b006"
+  },
+  {
+    "path": "03_学习路线\\基础与代码质量_干中学.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 8642,
+    "sha256": "1d46a74dc19759d41220684e82b8a4395eeeeebb88d202eec88fa4178ddab2a5"
+  },
+  {
+    "path": "03_学习路线\\四个方向的对应路线.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 5476,
+    "sha256": "57479180ea16bbcea7cb06b3d02f18a889eac63d687b6bfeef83a11f23c8bcec"
+  },
+  {
+    "path": "04_参考资料\\先看这份_具体岗位收入课程与体验.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 18821,
+    "sha256": "bfb816c41398782cec53c31ff1a52c374457c3e27ed5fb2f2017fcf9f9c42aae"
+  },
+  {
+    "path": "04_参考资料\\研究附录_具体岗位与薪资样本.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 12927,
+    "sha256": "0c92cddceb999f9106e0f830197e98d760a16888277fb3c6e31e87d767aace02"
+  },
+  {
+    "path": "04_参考资料\\研究附录_岗位名与长期项目.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 16340,
+    "sha256": "7e4691139243466f1968a31d5f88fd4b3cb84135864cf3698cc267d7755fd3d4"
+  },
+  {
+    "path": "04_参考资料\\第一轮市场资料说明.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 3422,
+    "sha256": "939128b40d2ed339be5ad5faa82fbc2e2c638fa86aad38b91e06b3f2d3977cda"
+  },
+  {
+    "path": "04_参考资料\\官方岗位与技术依据.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 8587,
+    "sha256": "26c4a40ef679f3b2c7816425bfb7f16bc63670fb49c4f98965ca6168c1d814d0"
+  },
+  {
+    "path": "04_参考资料\\长期研究与证据边界.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 16588,
+    "sha256": "45defad936606058da82ad5af5250255bb2c12a71514da1ad8b094ab683b4aa8"
+  },
+  {
+    "path": "04_参考资料\\重要参考网页.md",
+    "category": "冲突或替代旧文档",
+    "reason": "已退役并标注；独有内容已合并，清理前未标注原文在清理前文档.zip",
+    "bytes": 9344,
+    "sha256": "12c0419c4d244ff74963fe058f5332cb88cff57f19631b48e34a02bbaea80ba2"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 10284253,
+    "sha256": "551e5fe617b976b26d64c27631a21ac4a8d4659c0c16ff4ec82a7c4edf19d445"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 7403288,
+    "sha256": "3244d163e92627bd94cc718214c0d1d8fa9ade3e470846d26241a17ac58adb2e"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 8605919,
+    "sha256": "2f99d952e257ff851616215c27c5595deedfc3b878a2776c48ad9978eac92039"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 8667199,
+    "sha256": "eb180c0567ad7966efe1107d0b7eaa66508fc29d9af575854535c383f47e7025"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 8458644,
+    "sha256": "213c731bf741e9881e0dde361d40814d1badd0fdf258f58437d55103c4809e56"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 7597490,
+    "sha256": "22537c4de1d9b70651aa0df68add6a92d86ca3606227c5b66025e1576a0ef0ea"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parse-cache\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 7078683,
+    "sha256": "871ff10e0c84ee7337938d44fd89ac2e08e8a27f353b23d5c2d393953f6514d9"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d-w1-26.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 4156432,
+    "sha256": "592bc8fd7816ab7580be87a26f39b96cd81464e1d1e850ad80fbff3193d59ec0"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d-w2-0.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 711141,
+    "sha256": "8b278420ec988264aed48c539c6f7531b8d934027cfc406df1835caef0449f25"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d-w4-0.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 1021983,
+    "sha256": "1b553624da10205bedcc2bd8654a8a3750f953a5c0f8fb72f6b1bc49e94112a2"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d\\262797ad16875028e68f70300a77dac95bfa3b5f5ff4e9c0d2d522bb64bfd91d-w4-1.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3425801,
+    "sha256": "db387704862cbd05bba580ff790065733baf1890ce309a90256490fff482eb23"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd-w1-0.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3890473,
+    "sha256": "30ae259ea0c63bc3cf18427ff9c3d9550055ba201a15d2e181a7da1f0012aea2"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd-w1-1.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 2054126,
+    "sha256": "81efc5aa7da1275191ff8dff4976ae3819d9f779d23d70ca25bfc5a5a5b219cf"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd-w1-2.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 5796952,
+    "sha256": "583afb1d0dcf57a9c8faa15602973a6acbd7c8f000b1b19309072ced11f2900d"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd\\30d78fc663def490b6192fb2d1fcfa906fe65fb058e63041408c6b14af8e4fbd-w1-3.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 1187545,
+    "sha256": "9dc296e2c09c5ed354f1e740100fe09386e3b73d29671f74bcdb8d2dd6dac603"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1-w1-23.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 2957850,
+    "sha256": "efdfc0dd010123b326f345d18cd8cc89ce5ea7ee58c2278af48e3688691d6384"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1-w1-24.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 2521987,
+    "sha256": "5a5bfe82418b73d75f4e0a84bc082be365b528ed494203bacbba242b081b6f97"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1\\6914e2ecca7580e60c59a1a67842234afcaaa2be504300ccc4a8854c0c5af5a1-w1-25.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3022685,
+    "sha256": "b9ad4f7c5df782741c13e26a1ac7b4e81d8cd025595399f470fbe1f17fdfbcec"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8-w1-15.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3090341,
+    "sha256": "c87ad881a74617517dfcef7cb02432c178031e6cfabab5abf8011ac2986f121d"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8-w1-16.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3031457,
+    "sha256": "a983c7a74282667fc9c4a5809d00ff4593e5e7078c023a7f19ac3dc313dcca80"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8-w1-17.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3063432,
+    "sha256": "8c843592472147f8b51ad26d66ae38180ea2028c0c64f9356137dd0537e9c460"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8\\7f2bf188445ea44c729c3077734969baa757f5af465a479c7708fcbf5d6661a8-w1-18.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 174682,
+    "sha256": "57b182822407b479caa08bd5c96dc613f704ab9aa25b8efd1869ce9fd3daf910"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8-w1-11.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3142449,
+    "sha256": "cc323b7028753b756e3fa1e3244dcb386d933d55d92703d1cedc44e58b74394a"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8-w1-12.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3191841,
+    "sha256": "2a33390ca04cf900a795b98bc15905d65c36b2e9ee938ec50ec9638697b093b3"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8-w1-13.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3021825,
+    "sha256": "15a929e028ba4fe2e7f785e31a7396b4dd4af3ddb334371d3aec4c8f2f6f1c6e"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8\\8bfc9b7b73db920b27fea0f0a3393e0eea088a9eac53a7fe8e23aa3687c39bd8-w1-14.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 112906,
+    "sha256": "3e34743c6174a8899dcd09ac56aa63e92e3b30fa6aa1e004fe02fd1a31ea32af"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8-w1-19.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3091599,
+    "sha256": "3b8ce2279b78ccdaf88acd7f7878842f918ba8311635cd4cfa73d892b789b186"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8-w1-20.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3035928,
+    "sha256": "edfe917a0fc9d91c45f73b6c04ff3d77d256c1c32d7b466f2d3b8b40adc34864"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8-w1-21.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3075681,
+    "sha256": "45c585e45c1455f5decb3fc103543d82729d6b1f0b18e1681f99deecc7227b6a"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8\\9bacba0859f36b95e4fdaa7ed1da56155f416b277cb4a84d6a0616ab90185ba8-w1-22.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 59997,
+    "sha256": "1b9b954a7e284953a51afe27a24c0dd67f45407d8ea57b21f5b15e4d8edc6820"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618-w1-10.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3106931,
+    "sha256": "d82dbacc1e2a412b638b827ec71b9cac6cd574fa5878e973a7e9b1fb4c6243c4"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618-w1-8.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3140920,
+    "sha256": "10a6c3a67b6b71fdc3e550e4eeb159fbc560609c0e8f458b239c07b1f7a21d82"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618\\cdf44e59574e26f117d1e57ff1088a532cda64abba584a1761b957093c756618-w1-9.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3031344,
+    "sha256": "1340ec86384ce4a3de8f19fb1aa0f6f1a888005cb28292519d469380d281ce4c"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179-w1-4.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3118072,
+    "sha256": "c1ab1f9c8535e5b4d10a63f9a3f2030804cbe9e3b41ea0317bc834169a1924b0"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179-w1-5.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3714306,
+    "sha256": "1a40601792cc595dd3f8885f5776f7270461875aabfd245d709799ed77b1782c"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179-w1-6.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 4568933,
+    "sha256": "a33024b02cb30c451f7aae20f44617d232410be2142faaccc4f47ef8ed06dd20"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-cache\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179\\f4d44526e31fbb03c9cd2b9b0fa16bfca7933e3bb384095b93d476a2fb00c179-w1-7.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 78647,
+    "sha256": "6b60678b089c71dfee524dda2dd2a898dede4518d04b7a14cf90fa95c9ca8bad"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-10.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3106931,
+    "sha256": "d82dbacc1e2a412b638b827ec71b9cac6cd574fa5878e973a7e9b1fb4c6243c4"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-11.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3142449,
+    "sha256": "cc323b7028753b756e3fa1e3244dcb386d933d55d92703d1cedc44e58b74394a"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-12.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3191841,
+    "sha256": "2a33390ca04cf900a795b98bc15905d65c36b2e9ee938ec50ec9638697b093b3"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-13.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3021825,
+    "sha256": "15a929e028ba4fe2e7f785e31a7396b4dd4af3ddb334371d3aec4c8f2f6f1c6e"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-14.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 112906,
+    "sha256": "3e34743c6174a8899dcd09ac56aa63e92e3b30fa6aa1e004fe02fd1a31ea32af"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-15.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3090341,
+    "sha256": "c87ad881a74617517dfcef7cb02432c178031e6cfabab5abf8011ac2986f121d"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-16.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3031457,
+    "sha256": "a983c7a74282667fc9c4a5809d00ff4593e5e7078c023a7f19ac3dc313dcca80"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-17.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3063432,
+    "sha256": "8c843592472147f8b51ad26d66ae38180ea2028c0c64f9356137dd0537e9c460"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-18.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 174682,
+    "sha256": "57b182822407b479caa08bd5c96dc613f704ab9aa25b8efd1869ce9fd3daf910"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-19.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3091599,
+    "sha256": "3b8ce2279b78ccdaf88acd7f7878842f918ba8311635cd4cfa73d892b789b186"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-20.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3035928,
+    "sha256": "edfe917a0fc9d91c45f73b6c04ff3d77d256c1c32d7b466f2d3b8b40adc34864"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-21.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3075681,
+    "sha256": "45c585e45c1455f5decb3fc103543d82729d6b1f0b18e1681f99deecc7227b6a"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-22.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 59997,
+    "sha256": "1b9b954a7e284953a51afe27a24c0dd67f45407d8ea57b21f5b15e4d8edc6820"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-23.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 2957850,
+    "sha256": "efdfc0dd010123b326f345d18cd8cc89ce5ea7ee58c2278af48e3688691d6384"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-24.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 2521987,
+    "sha256": "5a5bfe82418b73d75f4e0a84bc082be365b528ed494203bacbba242b081b6f97"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-25.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3022685,
+    "sha256": "b9ad4f7c5df782741c13e26a1ac7b4e81d8cd025595399f470fbe1f17fdfbcec"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-26.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 4156432,
+    "sha256": "592bc8fd7816ab7580be87a26f39b96cd81464e1d1e850ad80fbff3193d59ec0"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-3.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 1187545,
+    "sha256": "9dc296e2c09c5ed354f1e740100fe09386e3b73d29671f74bcdb8d2dd6dac603"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-4.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3118072,
+    "sha256": "c1ab1f9c8535e5b4d10a63f9a3f2030804cbe9e3b41ea0317bc834169a1924b0"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-5.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3714306,
+    "sha256": "1a40601792cc595dd3f8885f5776f7270461875aabfd245d709799ed77b1782c"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-6.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 4568933,
+    "sha256": "a33024b02cb30c451f7aae20f44617d232410be2142faaccc4f47ef8ed06dd20"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-7.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 78647,
+    "sha256": "6b60678b089c71dfee524dda2dd2a898dede4518d04b7a14cf90fa95c9ca8bad"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-8.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3140920,
+    "sha256": "10a6c3a67b6b71fdc3e550e4eeb159fbc560609c0e8f458b239c07b1f7a21d82"
+  },
+  {
+    "path": "05_历史记录\\历史备份\\Bone_GitNexus失败生成缓存\\.gitnexus\\parsedfile-store\\w1-9.json",
+    "category": "历史生成缓存",
+    "reason": "Bone索引失败生成物，不是业务源码；当前项目索引另存.gitnexus",
+    "bytes": 3031344,
+    "sha256": "1340ec86384ce4a3de8f19fb1aa0f6f1a888005cb28292519d469380d281ce4c"
+  },
+  {
+    "path": "05_历史记录\\工具索引记录\\Bone_GitNexus初始化前.zip",
+    "category": "历史生成缓存",
+    "reason": "纯.gitnexus历史索引压缩包，已核无业务源文件",
+    "bytes": 14580235,
+    "sha256": "b061545c5f10fbae4dd285d7e1b318c477aec4f7ba09170f0e43235cc2049f35"
+  },
+  {
+    "path": "规划\\字幕下载\\28岁68W年薪很迷茫，嵌入式人该何去何从？ [BV1pdto6uEcR].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 5893,
+    "sha256": "eafbd76030b9be233627316737e275266cdb63b23daa597687f1bbe825bad15c",
+    "retained": "规划\\保留字幕\\28岁68W年薪很迷茫，嵌入式人该何去何从？ [BV1pdto6uEcR].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\28岁68W年薪很迷茫，嵌入式人该何去何从？ [BV1pdto6uEcR].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 2915,
+    "sha256": "d23b8d0c577013eee2e681c40068d22229bdc28f31c302469168e5957054ab29",
+    "retained": "规划\\保留字幕\\28岁68W年薪很迷茫，嵌入式人该何去何从？ [BV1pdto6uEcR].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\29岁双非本68W年薪大佬说出嵌入式薪资顶尖 的三个方向，内容太硬核必须看完！ [BV1yFtE6AE6o].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 12744,
+    "sha256": "899deb2866c5b20a5bf7f9eab0acbcf33bee097549ac200806ebbf753b0630aa",
+    "retained": "规划\\保留字幕\\29岁双非本68W年薪大佬说出嵌入式薪资顶尖 的三个方向，内容太硬核必须看完！ [BV1yFtE6AE6o].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\29岁双非本68W年薪大佬说出嵌入式薪资顶尖 的三个方向，内容太硬核必须看完！ [BV1yFtE6AE6o].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 6219,
+    "sha256": "0686d61102c21eb1e14423313d024e31f4f3ce4827a6095eaace2eac59d8af96",
+    "retained": "规划\\保留字幕\\29岁双非本68W年薪大佬说出嵌入式薪资顶尖 的三个方向，内容太硬核必须看完！ [BV1yFtE6AE6o].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非68年薪大佬道破现在最高薪学习技术栈必看 [BV1PCbP6hEXF].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 7744,
+    "sha256": "db3806901a8cac753849d910c3db7a72014b693032d0cf8ee232dbe3668e4fb8",
+    "retained": "规划\\保留字幕\\双非68年薪大佬道破现在最高薪学习技术栈必看 [BV1PCbP6hEXF].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非68年薪大佬道破现在最高薪学习技术栈必看 [BV1PCbP6hEXF].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 4216,
+    "sha256": "97e861d0e3cead4967721a68e8430b85a7f5bebbb3beec17212d95b12a708023",
+    "retained": "规划\\保留字幕\\双非68年薪大佬道破现在最高薪学习技术栈必看 [BV1PCbP6hEXF].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非大佬实习一天300简历怎么写，AI这么强，嵌入式怎么学？ [BV12nhb6gE3Y].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 12188,
+    "sha256": "e6b65224694d24e5cc5da22413af3d21543dbda8a4f4e4f441e279689f0695a4",
+    "retained": "规划\\保留字幕\\双非大佬实习一天300简历怎么写，AI这么强，嵌入式怎么学？ [BV12nhb6gE3Y].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非大佬实习一天300简历怎么写，AI这么强，嵌入式怎么学？ [BV12nhb6gE3Y].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 5904,
+    "sha256": "a6721c861fb8bdb23ae24178f592c65a7c0dcd1d070d2b3e2eaf82a207fb3324",
+    "retained": "规划\\保留字幕\\双非大佬实习一天300简历怎么写，AI这么强，嵌入式怎么学？ [BV12nhb6gE3Y].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非本五年拿68W年薪！嵌入式靠技术能破学历歧视吗？ [BV1gJ4Q6vEnM].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 14493,
+    "sha256": "a50354130a66a29f3b0f8a6ef07b4e0d3ccbfcb8c6fc58c37ec218d72c3561f0",
+    "retained": "规划\\保留字幕\\双非本五年拿68W年薪！嵌入式靠技术能破学历歧视吗？ [BV1gJ4Q6vEnM].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非本五年拿68W年薪！嵌入式靠技术能破学历歧视吗？ [BV1gJ4Q6vEnM].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 6985,
+    "sha256": "de3ec6f964ca039b873c364ea393935393e2b9f11e8becdbcb2ab4e295e7c5a5",
+    "retained": "规划\\保留字幕\\双非本五年拿68W年薪！嵌入式靠技术能破学历歧视吗？ [BV1gJ4Q6vEnM].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非本五年经验月43K被质疑吹牛结果是真大佬 [BV1tFtF6nECV].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 12866,
+    "sha256": "fb018e6b5f7ec2b3a5c6e401bc1a310ff6dd270f40027860734d05cbfd13712d",
+    "retained": "规划\\保留字幕\\双非本五年经验月43K被质疑吹牛结果是真大佬 [BV1tFtF6nECV].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\双非本五年经验月43K被质疑吹牛结果是真大佬 [BV1tFtF6nECV].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 5726,
+    "sha256": "460424adb94e813cd5200326f8b6a341cc6875c510029b6bc12b2a4ef3d73456",
+    "retained": "规划\\保留字幕\\双非本五年经验月43K被质疑吹牛结果是真大佬 [BV1tFtF6nECV].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\嵌入式做技术做不到五十万？5年双非本的68w年薪大佬感觉被侮辱 [BV1Hr4k6bEpv].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 9957,
+    "sha256": "2bd07767d5fbb60fab15da7a2a7c0e28f67d3bc53a43bbc2fef309c54929cbda",
+    "retained": "规划\\保留字幕\\嵌入式做技术做不到五十万？5年双非本的68w年薪大佬感觉被侮辱 [BV1Hr4k6bEpv].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\嵌入式做技术做不到五十万？5年双非本的68w年薪大佬感觉被侮辱 [BV1Hr4k6bEpv].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 4818,
+    "sha256": "3439b9d93ddd1b4e953adbe14e1aa93d7d8dde3e99bf894e216a7b076485c0f6",
+    "retained": "规划\\保留字幕\\嵌入式做技术做不到五十万？5年双非本的68w年薪大佬感觉被侮辱 [BV1Hr4k6bEpv].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\嵌入式双非本29岁68w年薪直播间300人分享学习路线 [BV1eHt86mEQe].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 13305,
+    "sha256": "4ab378370d430143a2bf0a3c664ea953442e42ea23cf4c4ce3a205a9b8b5d2c8",
+    "retained": "规划\\保留字幕\\嵌入式双非本29岁68w年薪直播间300人分享学习路线 [BV1eHt86mEQe].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\嵌入式双非本29岁68w年薪直播间300人分享学习路线 [BV1eHt86mEQe].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 6398,
+    "sha256": "51c214034c0096c2f3fe41b68a5f9d5f1c1c3c11048f4b55dd289cf667ee1457",
+    "retained": "规划\\保留字幕\\嵌入式双非本29岁68w年薪直播间300人分享学习路线 [BV1eHt86mEQe].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\嵌入式双非本应届25k已经嫌低，具身智能已经魔幻 [BV1JWhe6CERk].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 11004,
+    "sha256": "86ddb2965cb9fcc617af16c8feaa0175ed7c3197c8d4c9fd76264c3d11cf7ae4",
+    "retained": "规划\\保留字幕\\嵌入式双非本应届25k已经嫌低，具身智能已经魔幻 [BV1JWhe6CERk].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\嵌入式双非本应届25k已经嫌低，具身智能已经魔幻 [BV1JWhe6CERk].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 4972,
+    "sha256": "a275d41901196e2d01e4d3bb2af4de412962d650916bfccf0a7c945a3b13a6ba",
+    "retained": "规划\\保留字幕\\嵌入式双非本应届25k已经嫌低，具身智能已经魔幻 [BV1JWhe6CERk].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载\\考研是否有用_应届生看重什么_35岁危机、双非本68W年薪大佬全说透了 [BV1UMbG64EZa].ai-zh.srt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 4638,
+    "sha256": "61e09e93ed22d4ab20fcf5c1214cb716723974d73735f26e1120c95224fa680b",
+    "retained": "规划\\保留字幕\\考研是否有用_应届生看重什么_35岁危机、双非本68W年薪大佬全说透了 [BV1UMbG64EZa].ai-zh.srt"
+  },
+  {
+    "path": "规划\\字幕下载\\考研是否有用_应届生看重什么_35岁危机、双非本68W年薪大佬全说透了 [BV1UMbG64EZa].ai-zh.txt",
+    "category": "精确重复字幕",
+    "reason": "SHA256与保留字幕原件相同；技能包另有自包含副本",
+    "bytes": 2435,
+    "sha256": "62fb090899e03bf95da6088063a9777bc740e01c1a9cc24ca11c2734a2f3f3a4",
+    "retained": "规划\\保留字幕\\考研是否有用_应届生看重什么_35岁危机、双非本68W年薪大佬全说透了 [BV1UMbG64EZa].ai-zh.txt"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非大佬_大二全力搞实习_进入嵌入式风口_实习1W一个月_路线分享 [BV1S7eK69Eb3].ai-id.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 14065,
+    "sha256": "0f6ce3d94ba5517f0912fb9f6f684f7ca35d6134df7ea12df30af517095f5be1"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非大佬_大二全力搞实习_进入嵌入式风口_实习1W一个月_路线分享 [BV1S7eK69Eb3].ai-th.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 24963,
+    "sha256": "a59d2631286f3658a52d7d72269ee4f0f07a1b55756b4482dba8e6b4a3aaa8a9"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非大佬_大二全力搞实习_进入嵌入式风口_实习1W一个月_路线分享 [BV1S7eK69Eb3].ai-zh.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 11349,
+    "sha256": "3e559f71f7430c8b02a5192df459e756bec2a8caaaba5ed35d1d92991c10052f"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非大佬实习1W分享大二开始实习高薪路线 [BV1krey6QEDJ].ai-zh.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 8533,
+    "sha256": "7068f551fd0456f8b7800505a87133e02881623c2241e07c27796b3832cf3753"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-ar.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 27886,
+    "sha256": "553e04760ee82d32f318b8bf72a98ae0db6c032382dd06cbd4b0f0551eb46e8e"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-en.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 21624,
+    "sha256": "910a27ce93a0728ebc01b006d7ac771c8e7c8ba329cf6e7b1cfe58d87c0a5b65"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-es.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 21917,
+    "sha256": "ecf0a981f5db797531a796bec07c80c048bd511bf52701fa74d4ca5b840c70a8"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-id.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 20495,
+    "sha256": "902024a305e4f986c2d6f5294e12377755876dac6a90211d0decf6a4f7673c3f"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-ja.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 26415,
+    "sha256": "b61a9b51ac857b72678dab74244c8dddea4203bf5efa132d4a422d09a2d3cd23"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-pt.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 21733,
+    "sha256": "8bbd3efa0134a08ebc34ad8e2cf180c3d215afbaea1b2f651b285872271ace34"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-th.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 35551,
+    "sha256": "23df855d42e86bcd5c2791926d313d1558f483efd9095e97ae06c886614e7ed7"
+  },
+  {
+    "path": "规划\\字幕下载_排除项暂存\\双非实习1w简历，具身机器人嵌入式技术栈全解析 [BV1JuhU6JEY2].ai-zh.srt",
+    "category": "已明确排除字幕",
+    "reason": "下载清单已明确按大二/1W关键词排除，不属于本轮保留语料",
+    "bytes": 18278,
+    "sha256": "fccddade479e7aa34c2261df67b8c0e3acb6007b162e65ba4f56d5c8773221f6"
+  },
+  {
+    "path": "规划\\字幕下载\\_工具\\bilinote\\__pycache__\\transcriber_model.cpython-312.pyc",
+    "category": "临时字节码",
+    "reason": "Python可再生缓存",
+    "bytes": 951,
+    "sha256": "92f17fba5f8b804e3b9d17a85459367250f05e8fd911491e1671d5fb523b6fd2"
+  }
+]

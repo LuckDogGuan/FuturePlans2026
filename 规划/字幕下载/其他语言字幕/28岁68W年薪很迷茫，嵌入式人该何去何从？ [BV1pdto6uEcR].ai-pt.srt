@@ -1,0 +1,316 @@
+﻿1
+00:00:00,080 --> 00:00:01,880
+Eu tenho quase 29 anos agora.
+
+2
+00:00:01,880 --> 00:00:05,519
+Com quase 29 anos, 43 mil por mês e 16 salários por ano.
+
+3
+00:00:05,519 --> 00:00:07,960
+O pessoal aqui na live não acredita que você ganha um salário tão alto.
+
+4
+00:00:07,960 --> 00:00:09,520
+Porque eles acham que, na área de sistemas embarcados...
+
+5
+00:00:09,520 --> 00:00:17,720
+Para alguém com 29 anos como você, o máximo seria uns 20K. Sendo sincero, se você tivesse aproveitado aquela onda de troca de empregos em 2022 ou 2023...
+
+6
+00:00:18,040 --> 00:00:20,680
+Com certeza você ganharia mais de 20 mil.
+
+7
+00:00:20,680 --> 00:00:22,360
+Ele trabalha em uma fabricante de chips.
+
+8
+00:00:22,360 --> 00:00:24,440
+O que você acha de tantas pessoas duvidando de você?
+
+9
+00:00:24,440 --> 00:00:25,739
+Seu salário é tão alto assim?
+
+10
+00:00:25,739 --> 00:00:28,540
+As pessoas ao seu redor têm salários tão altos assim?
+
+11
+00:00:28,540 --> 00:00:31,200
+Mas, espera aí, você não acabou de abrir o Boss Zhipin?
+
+12
+00:00:31,200 --> 00:00:32,000
+ou no LinkedIn.
+
+13
+00:00:32,000 --> 00:00:33,920
+Dá uma olhada. Você acha que o setor é muito...
+
+14
+00:00:33,920 --> 00:00:35,020
+É que eu não entrei na minha conta.
+
+15
+00:00:35,020 --> 00:00:37,340
+Você acha que o setor na verdade agrega muito valor a você.
+
+16
+00:00:37,340 --> 00:00:38,680
+O setor... sim, o setor, porque...
+
+17
+00:00:38,680 --> 00:00:42,070
+Se você for trabalhar com produtos de automação industrial,
+
+18
+00:00:42,070 --> 00:00:44,470
+Eu acho que fica basicamente entre 15 e 20.
+
+19
+00:00:44,470 --> 00:00:46,890
+Se for para comparar com motores elétricos, a área de motores elétricos é um pouco melhor.
+
+20
+00:00:46,890 --> 00:00:48,879
+Já para motores, o principal é a experiência.
+
+21
+00:00:48,879 --> 00:00:52,950
+Para quem trabalha com algoritmos, o salário pode chegar a uns 300 ou 400 mil.
+
+22
+00:00:52,950 --> 00:00:55,270
+E quem trabalha com avaliação de desempenho também está um pouco melhor.
+
+23
+00:00:55,270 --> 00:00:57,590
+Você acha que o setor de chips esfriou agora?
+
+24
+00:00:57,590 --> 00:01:00,710
+Comparado a dois ou três anos atrás, com certeza esfriou.
+
+25
+00:01:00,710 --> 00:01:03,610
+Mas os salários dos estagiários realmente são um pouco absurdos.
+
+26
+00:01:03,610 --> 00:01:07,430
+O salário de estagiário hoje em dia chega a 700, 800 ou 900 por dia?
+
+27
+00:01:07,430 --> 00:01:09,150
+Eu não tenho isso agora.
+
+28
+00:01:09,150 --> 00:01:10,310
+Pois é, olha o caso da ByteDance, por exemplo.
+
+29
+00:01:10,310 --> 00:01:12,660
+A ByteDance paga só de 300 a 600, né?
+
+30
+00:01:12,660 --> 00:01:15,400
+Sua empresa atual é uma daquelas gigantes do mercado?
+
+31
+00:01:15,400 --> 00:01:18,000
+Ou é uma empresa comum, prestes a abrir o capital?
+
+32
+00:01:18,000 --> 00:01:19,240
+Eu estou em uma startup bem comum.
+
+33
+00:01:19,240 --> 00:01:21,330
+É como se eu...
+
+34
+00:01:21,330 --> 00:01:22,810
+Eu estou justamente esperando por essa onda.
+
+35
+00:01:22,810 --> 00:01:24,610
+O que eu posso dizer é que... eu estou querendo esperar.
+
+36
+00:01:24,610 --> 00:01:26,699
+Mas, ao mesmo tempo, eu quero ver as oportunidades que surgem.
+
+37
+00:01:26,699 --> 00:01:27,899
+Mas ainda estou de olho no mercado.
+
+38
+00:01:27,899 --> 00:01:29,039
+É o jeito.
+
+39
+00:01:29,039 --> 00:01:31,659
+Você acha que agora áreas como robótica estão em alta?
+
+40
+00:01:31,659 --> 00:01:33,650
+Você já pensou em robótica?
+
+41
+00:01:33,650 --> 00:01:35,350
+Robótica não é pra mim.
+
+42
+00:01:35,350 --> 00:01:38,580
+Robótica é mais para quem mexe com algoritmos.
+
+43
+00:01:38,580 --> 00:01:43,180
+Então, com 5 anos e meio de casa, você já está ganhando 43 mil vezes 16?
+
+44
+00:01:43,180 --> 00:01:45,640
+Quais são seus objetivos de carreira para o futuro?
+
+45
+00:01:45,640 --> 00:01:46,980
+Em qual área você tem mais interesse em atuar?
+
+46
+00:01:46,980 --> 00:01:48,660
+Agora eu já não tenho mais uma direção.
+
+47
+00:01:48,660 --> 00:01:49,980
+Na verdade, o que eu mais queria seguir...
+
+48
+00:01:49,980 --> 00:01:52,200
+O que eu mais quero seguir é a área de arquitetura de sistemas.
+
+49
+00:01:52,200 --> 00:01:55,140
+Mas agora, você quer seguir a área de arquitetura de sistemas.
+
+50
+00:01:55,140 --> 00:01:56,940
+Por quê?
+
+51
+00:01:57,070 --> 00:01:58,950
+Porque eu sou muito fascinado pela parte técnica.
+
+52
+00:01:58,950 --> 00:02:01,630
+Então, por que isso entraria em conflito com a arquitetura de sistemas?
+
+53
+00:02:01,630 --> 00:02:02,550
+Você precisa ter o ambiente certo.
+
+54
+00:02:02,550 --> 00:02:05,290
+É preciso que alguém te coloque nessa posição de arquitetura de software.
+
+55
+00:02:05,290 --> 00:02:07,490
+para então ele poder se tornar um arquiteto de sistemas.
+
+56
+00:02:07,490 --> 00:02:10,590
+Isso, para coordenar o software e o hardware.
+
+57
+00:02:10,590 --> 00:02:16,130
+Exato. E o salário de uma pessoa assim, além da profundidade e abrangência técnica, também é muito alta.
+
+58
+00:02:16,130 --> 00:02:19,090
+Geralmente, essa pessoa é o CTO mais incrível da empresa.
+
+59
+00:02:19,090 --> 00:02:22,490
+Geralmente, em uma empresa, mesmo que não seja daquelas com milhares de funcionários,
+
+60
+00:02:22,490 --> 00:02:25,605
+Se a sua empresa tiver apenas umas trezentas ou quatrocentas pessoas,
+
+61
+00:02:25,620 --> 00:02:27,860
+Geralmente, uma empresa contrata apenas uma pessoa para essa função.
+
+62
+00:02:27,860 --> 00:02:31,120
+Então, qual é a faixa salarial anual para esse tipo de profissional?
+
+63
+00:02:31,120 --> 00:02:35,200
+O mais alto que eu já vi foi na faixa de 1,5 a 2 milhões.
+
+64
+00:02:35,200 --> 00:02:37,320
+Bom, sobre outros casos, eu não cheguei a pesquisar, de qualquer forma.
+
+65
+00:02:37,320 --> 00:02:41,639
+Quantos anos ele tinha? Naquela época, ele devia ter, pelo menos, uns 58 ou 59 anos, né?
+
+66
+00:02:41,639 --> 00:02:43,050
+Ou por volta dos 50 anos.
+
+67
+00:02:43,050 --> 00:02:45,130
+Quarenta, cinquenta anos.
+
+68
+00:02:45,130 --> 00:02:48,740
+Isso, então a arquitetura de software é realmente essa a direção.
+
+69
+00:02:48,740 --> 00:02:51,780
+O encapsulamento do SDK de software da sua fábrica de chips...
+
+70
+00:02:51,780 --> 00:02:54,270
+Isso também é projetado por essas pessoas de arquitetura de software?
+
+71
+00:02:54,270 --> 00:02:56,490
+Você está falando do encapsulamento do chip?
+
+72
+00:02:56,490 --> 00:02:58,510
+Isso, o SDK. Não o encapsulamento do chip.
+
+73
+00:02:58,510 --> 00:03:00,110
+Como se escreve um SDK de software?
+
+74
+00:03:00,110 --> 00:03:01,389
+É para o cliente usar?
+
+75
+00:03:01,389 --> 00:03:03,790
+Isso também é uma versão que o departamento de BSP escreve.
+
+76
+00:03:03,790 --> 00:03:07,300
+O arquiteto de software vai definir algumas regras, sabe?
+
+77
+00:03:07,300 --> 00:03:08,160
+Como você vai fazer isso?
+
+78
+00:03:08,160 --> 00:03:12,180
+O resto, na verdade, fica a cargo dos responsáveis de cada módulo para escreverem por conta própria.
+
+79
+00:03:12,180 --> 00:03:13,580
+Durante a revisão de código entre todos,
+

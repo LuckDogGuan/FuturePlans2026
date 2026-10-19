@@ -1,0 +1,788 @@
+﻿1
+00:00:00,040 --> 00:00:02,900
+En tu trabajo, ¿alguien ha discriminado tu formación académica?
+
+2
+00:00:02,900 --> 00:00:05,680
+Tu Universidad no 985/211 no será una como la de los Vestigios del Laboratorio Central, ¿verdad?
+
+3
+00:00:05,680 --> 00:00:07,960
+No, es que en ese momento yo era un completo novato.
+
+4
+00:00:07,960 --> 00:00:09,539
+Para ustedes puede que sea una basura.
+
+5
+00:00:09,539 --> 00:00:10,200
+A ver, ¿cómo te digo?
+
+6
+00:00:10,200 --> 00:00:11,800
+Mi primera impresión al entrar en una empresa de semiconductores.
+
+7
+00:00:11,800 --> 00:00:13,400
+Es que, en realidad, no existe ningún tipo de discriminación.
+
+8
+00:00:13,400 --> 00:00:15,880
+Incluso el jefe te hablará de muy buena manera.
+
+9
+00:00:15,880 --> 00:00:18,440
+Sobre todo, aquellos que han trabajado en empresas extranjeras.
+
+10
+00:00:18,440 --> 00:00:19,660
+Son gente muy abierta.
+
+11
+00:00:19,660 --> 00:00:21,000
+Solo se fijan en
+
+12
+00:00:21,000 --> 00:00:24,280
+Incluso si no sabes algo, en ese momento, por ejemplo, cuando desarrollábamos un chip...
+
+13
+00:00:24,280 --> 00:00:26,180
+Sobre todo al desarrollar ese tipo de SoC para vehículos.
+
+14
+00:00:26,180 --> 00:00:27,920
+En un solo chip, básicamente, participan unas trescientas o cuatrocientas personas.
+
+15
+00:00:27,920 --> 00:00:29,260
+Todos están en el mismo equipo de I+D.
+
+16
+00:00:29,260 --> 00:00:31,260
+Quizás unos doscientos o trescientos, y todos están en el mismo grupo de chat, porque...
+
+17
+00:00:31,260 --> 00:00:33,670
+Al fin y al cabo, todos estamos desarrollando el mismo producto.
+
+18
+00:00:33,670 --> 00:00:34,670
+Si tienes alguna duda, la planteas.
+
+19
+00:00:34,670 --> 00:00:36,030
+y la gente estará encantada de responderte.
+
+20
+00:00:36,030 --> 00:00:37,150
+No es que la gente vaya a decir...
+
+21
+00:00:37,150 --> 00:00:39,150
+Es que tengo algunos compañeros que también se dedican a ese tipo de trabajo.
+
+22
+00:00:39,150 --> 00:00:40,830
+Como los que se fueron a empresas como Inovance, por ejemplo.
+
+23
+00:00:40,830 --> 00:00:41,990
+Pero su situación es diferente.
+
+24
+00:00:41,990 --> 00:00:43,930
+Con esto no quiero criticar a Inovance.
+
+25
+00:00:43,930 --> 00:00:46,409
+Lo que quiero decir es que cada persona y cada empresa tiene una cultura diferente.
+
+26
+00:00:46,409 --> 00:00:48,729
+Es que la comunicación entre las personas es un poco diferente.
+
+27
+00:00:48,729 --> 00:00:50,420
+En fin, hay gente que sí trata a las personas como personas.
+
+28
+00:00:50,420 --> 00:00:51,540
+y a otros los tratan como si fueran máquinas.
+
+29
+00:00:51,540 --> 00:00:52,560
+En fin, a eso me refiero.
+
+30
+00:00:52,560 --> 00:00:53,760
+Entonces, en tu opinión...
+
+31
+00:00:53,760 --> 00:00:57,690
+En realidad, conseguir un salario anual de 500.000 yuanes en el sector de los sistemas embebidos no es nada difícil.
+
+32
+00:00:57,690 --> 00:00:59,270
+Es solo un nivel de iniciación.
+
+33
+00:00:59,270 --> 00:01:01,710
+Si tienes una titulación de una universidad de segundo nivel o superior,
+
+34
+00:01:01,710 --> 00:01:03,070
+Claro que no es difícil.
+
+35
+00:01:03,070 --> 00:01:04,729
+Si de verdad quieres aprender,
+
+36
+00:01:04,729 --> 00:01:07,049
+Entonces, ¿crees que con una licenciatura de tercera categoría todo depende un poco de la suerte?
+
+37
+00:01:07,049 --> 00:01:09,069
+Porque con una de esas universidades, el filtro de los currículums es un poco más estricto.
+
+38
+00:01:09,069 --> 00:01:10,700
+Para los de universidades de tercer nivel es un poco más difícil.
+
+39
+00:01:10,700 --> 00:01:11,740
+Es un poco para cumplir con el trámite del currículum.
+
+40
+00:01:11,740 --> 00:01:12,980
+El problema no es que su nivel técnico sea bajo.
+
+41
+00:01:12,980 --> 00:01:13,660
+Es que se queda en el filtro de los currículums.
+
+42
+00:01:13,660 --> 00:01:16,300
+Lo hace para mejorar su currículum. Porque, en realidad, para los sistemas embebidos no se necesita un conocimiento muy avanzado.
+
+43
+00:01:16,300 --> 00:01:17,240
+Ahora tenemos la IA.
+
+44
+00:01:17,240 --> 00:01:17,860
+Si no se te da bien el inglés, tienes la IA.
+
+45
+00:01:17,860 --> 00:01:20,500
+Todos esos documentos de un nodo a otro están en inglés.
+
+46
+00:01:20,500 --> 00:01:21,940
+Léelo como quieras.
+
+47
+00:01:21,940 --> 00:01:23,380
+Después de uno o dos años leyendo, tu propio nivel de inglés...
+
+48
+00:01:23,380 --> 00:01:25,289
+y de repente tu nivel habrá subido.
+
+49
+00:01:25,289 --> 00:01:27,089
+Pero sí, la titulación puede ser un obstáculo.
+
+50
+00:01:27,089 --> 00:01:27,909
+Solo puedo decir que...
+
+51
+00:01:27,909 --> 00:01:29,390
+¿Y qué tal una universidad de segundo nivel?
+
+52
+00:01:29,390 --> 00:01:30,630
+Los de universidades menos prestigiosas también tienen muchas oportunidades.
+
+53
+00:01:30,630 --> 00:01:31,910
+De hecho, he contratado a varias personas que se graduaron en universidades de segundo nivel.
+
+54
+00:01:31,910 --> 00:01:32,870
+Pero son muy capaces.
+
+55
+00:01:32,870 --> 00:01:35,980
+Me preguntó si tenía algún consejo para la gente común.
+
+56
+00:01:35,980 --> 00:01:37,220
+Bueno, a él le dije...
+
+57
+00:01:37,220 --> 00:01:39,120
+Yo te recomiendo que cambies de trabajo en los primeros 5 años después de graduarte.
+
+58
+00:01:39,120 --> 00:01:40,900
+A menos que de verdad vayas a un lugar como Huang Zitao.
+
+59
+00:01:40,900 --> 00:01:43,150
+Porque la paga por las horas extra es realmente una locura.
+
+60
+00:01:43,150 --> 00:01:45,190
+Además, tienen una política muy buena.
+
+61
+00:01:45,190 --> 00:01:46,290
+Cuando entras,
+
+62
+00:01:46,290 --> 00:01:48,110
+Siempre y cuando no seas un caso extremo,
+
+63
+00:01:48,110 --> 00:01:49,270
+Si trabajas unos diez años en esto,
+
+64
+00:01:49,270 --> 00:01:52,230
+El sueldo puede llegar a ser realmente exagerado.
+
+65
+00:01:52,230 --> 00:01:53,870
+Cien o doscientos mil, seguro que sí.
+
+66
+00:01:53,870 --> 00:01:54,750
+Me dedico a los chips.
+
+67
+00:01:54,750 --> 00:01:55,630
+No sé cómo será en el área de desarrollo de productos.
+
+68
+00:01:55,630 --> 00:01:56,470
+Yo me dedico a los chips.
+
+69
+00:01:56,470 --> 00:01:59,070
+Porque recuerdo que a mi alrededor, en mi empresa, hay gente que viene de Huang Zitao.
+
+70
+00:01:59,070 --> 00:02:00,480
+En fin, básicamente todos ganan entre doscientos y trescientos mil.
+
+71
+00:02:00,480 --> 00:02:02,560
+Me refiero a unos doscientos o trescientos mil, por ahí del 2015.
+
+72
+00:02:02,560 --> 00:02:03,920
+La frecuencia con la que cambias de trabajo
+
+73
+00:02:03,920 --> 00:02:07,570
+Mmm, yo recomiendo cambiar de trabajo al menos tres veces en cinco años.
+
+74
+00:02:07,570 --> 00:02:08,510
+Sí.
+
+75
+00:02:08,510 --> 00:02:10,490
+Claro, la condición para cambiar de trabajo es que tengas que aprender.
+
+76
+00:02:10,490 --> 00:02:11,570
+Mis primeros tres años después de graduarme...
+
+77
+00:02:11,570 --> 00:02:13,110
+Recuerdo que mi primer año después de graduarme...
+
+78
+00:02:13,110 --> 00:02:14,990
+En fin, durante los tres primeros años después de graduarse, lo importante es aprender.
+
+79
+00:02:14,990 --> 00:02:15,910
+Bueno, en cualquier caso, aprendes hasta cierto punto...
+
+80
+00:02:15,910 --> 00:02:19,430
+y sientes que has crecido como un 30% más que el año anterior.
+
+81
+00:02:19,430 --> 00:02:20,230
+ya puedes cambiar de trabajo.
+
+82
+00:02:20,230 --> 00:02:22,270
+Yo lo entiendo así.
+
+83
+00:02:22,270 --> 00:02:25,389
+Y tú, en el fabricante de chips, ¿ahora tienes dos días libres a la semana?
+
+84
+00:02:25,710 --> 00:02:27,830
+Llevo mucho tiempo sin tener que trabajar los sábados.
+
+85
+00:02:27,830 --> 00:02:28,930
+Solo puedo decir que...
+
+86
+00:02:28,930 --> 00:02:32,169
+Vale, entonces normalmente empiezan a trabajar a las 9 de la mañana.
+
+87
+00:02:32,169 --> 00:02:33,210
+¿Y a qué hora salen por la tarde?
+
+88
+00:02:33,210 --> 00:02:34,450
+Yo, por ejemplo...
+
+89
+00:02:34,450 --> 00:02:36,010
+Es que vivo un poco lejos de la oficina.
+
+90
+00:02:36,010 --> 00:02:38,690
+Normalmente llego a la empresa entre las 9:00 y las 9:30.
+
+91
+00:02:38,690 --> 00:02:40,389
+Por la noche, si no tengo nada que hacer, salgo a las seis y media.
+
+92
+00:02:40,389 --> 00:02:41,508
+me voy a las 6:30.
+
+93
+00:02:41,508 --> 00:02:43,269
+Si tengo algo que hacer, me quedo hasta las 9.
+
+94
+00:02:43,269 --> 00:02:45,749
+Así que en tu empresa el ambiente es más bien como el de una multinacional.
+
+95
+00:02:45,749 --> 00:02:49,549
+Las empresas de semiconductores en las que he trabajado, en general, todas tienen un poco de eso.
+
+96
+00:02:49,549 --> 00:02:51,389
+De todas formas, yo nunca he trabajado en una empresa extranjera.
+
+97
+00:02:51,389 --> 00:02:52,660
+A mí me parece que está bastante bien.
+
+98
+00:02:52,660 --> 00:02:54,780
+Por ejemplo, para mis colegas que trabajan en desarrollo de productos,
+
+99
+00:02:54,780 --> 00:02:55,340
+y en cuanto a mis compañeros,
+
+100
+00:02:55,340 --> 00:02:56,740
+Cuando sientes que estás pidiendo un aumento salarial,
+
+101
+00:02:56,740 --> 00:03:00,389
+¿Crees que tu jefe te menospreciará por tener una licenciatura de una universidad que no es de élite, de un libro? Ya han pasado 5 años.
+
+102
+00:03:00,389 --> 00:03:01,350
+Cuando entré en la empresa,
+
+103
+00:03:01,350 --> 00:03:03,190
+Bueno, en los trabajos que he tenido hasta ahora,
+
+104
+00:03:03,190 --> 00:03:05,740
+Nunca nadie me ha preguntado por mis títulos académicos.
+
+105
+00:03:05,740 --> 00:03:06,980
+Para que me den el puesto, lo que cuenta al final es la entrevista.
+
+106
+00:03:06,980 --> 00:03:07,700
+y ya está.
+
+107
+00:03:07,700 --> 00:03:09,020
+Es de esos en los que yo solo respondo a lo que me preguntan.
+
+108
+00:03:09,020 --> 00:03:10,620
+Y tú, ¿cómo te sentiste durante la entrevista?
+
+109
+00:03:10,620 --> 00:03:12,780
+¿El examinador te intimida?
+
+110
+00:03:13,010 --> 00:03:14,410
+En la segunda entrevista sí que me superó.
+
+111
+00:03:14,410 --> 00:03:15,810
+Es que, para ser sincero, en aquel entonces...
+
+112
+00:03:15,810 --> 00:03:19,480
+Yo sabía desarrollar para el núcleo de Linux, sí, sabía cómo hacerlo.
+
+113
+00:03:19,480 --> 00:03:22,840
+Pero en ese momento, solo sabía desarrollar algunos módulos de forma sencilla.
+
+114
+00:03:22,840 --> 00:03:23,960
+Porque en mi primera empresa...
+
+115
+00:03:23,960 --> 00:03:26,020
+Solo desarrollé el UART.
+
+116
+00:03:26,020 --> 00:03:27,120
+y también el CAN.
+
+117
+00:03:27,120 --> 00:03:31,220
+En cuanto a lo demás, me dedicaba a probar un IP de una plataforma de Arm.
+
+118
+00:03:31,220 --> 00:03:33,300
+para verificar sus
+
+119
+00:03:33,300 --> 00:03:35,420
+si las funciones y las señales cumplen con las expectativas.
+
+120
+00:03:35,420 --> 00:03:37,880
+y también el rendimiento, para ver si cumple con los requisitos de rendimiento.
+
+121
+00:03:37,880 --> 00:03:39,060
+pero rara vez se profundiza en ello.
+
+122
+00:03:39,060 --> 00:03:40,520
+También he trabajado en el desarrollo de UBOOT.
+
+123
+00:03:40,520 --> 00:03:42,320
+Pero en cuanto a Linux, no me he metido mucho, solo lo he mencionado.
+
+124
+00:03:42,320 --> 00:03:44,310
+Eh... hay algunos de esos IP...
+
+125
+00:03:44,310 --> 00:03:45,030
+Porque fui yo quien se encargó del proyecto.
+
+126
+00:03:45,030 --> 00:03:46,910
+Así que, al mismo tiempo, también me encargo de portar su driver.
+
+127
+00:03:46,910 --> 00:03:49,110
+Porque hoy en día, en el mercado, para el desarrollo de SoC,
+
+128
+00:03:49,110 --> 00:03:50,820
+La mayoría de sus IPs no son de desarrollo propio.
+
+129
+00:03:50,820 --> 00:03:52,300
+Básicamente, o bien se compra a Synopsys,
+
+130
+00:03:52,300 --> 00:03:53,180
+o compran las de Kenneth, de estas dos empresas.
+
+131
+00:03:53,180 --> 00:03:55,620
+Así que lo único que tienes que hacer es modificar el número de dispositivos.
+
+132
+00:03:55,620 --> 00:03:57,030
+Solo tienes que cambiar la dirección base y listo.
+
+133
+00:03:57,030 --> 00:03:58,950
+No profundicé en el estudio de estas cosas.
+
+134
+00:03:58,950 --> 00:04:00,150
+Pero en la segunda empresa fue diferente.
+
+135
+00:04:00,150 --> 00:04:02,810
+En la segunda empresa, cuando entré, me dedicaba a la parte de seguridad funcional y a los aspectos más complejos.
+
+136
+00:04:02,810 --> 00:04:06,370
+Así que empecé a estudiar el manual de ARMv8, ese de más de 10.000 páginas.
+
+137
+00:04:06,370 --> 00:04:07,950
+Me puse a devorar ese manual de más de 12.000 páginas.
+
+138
+00:04:07,950 --> 00:04:09,610
+En esa época, mi progreso fue enorme.
+
+139
+00:04:09,610 --> 00:04:12,840
+En esa época empecé a estudiar el código abierto que escribían otros
+
+140
+00:04:12,840 --> 00:04:14,900
+Mientras, con el manual en mano, iba probando cada cosa una por una.
+
+141
+00:04:14,900 --> 00:04:16,399
+¿Y cómo se supone que funciona algo así?
+
+142
+00:04:16,399 --> 00:04:17,999
+¿Y cómo es que fluyen exactamente estas señales?
+
+143
+00:04:17,999 --> 00:04:19,359
+Para mí, todo esto...
+
+144
+00:04:19,359 --> 00:04:22,440
+En fin, ese fue el período en el que más crecí profesionalmente.
+
+145
+00:04:22,440 --> 00:04:28,560
+Entonces, tanto antes como ahora, te has centrado principalmente en el núcleo M, ¿verdad?
+
+146
+00:04:28,560 --> 00:04:35,850
+Entonces, ¿has trabajado con los IP de ARM y el diseño de SoC, como los de las series MV7 y MV8?
+
+147
+00:04:35,850 --> 00:04:41,580
+Sí, mi trabajo anterior se centraba principalmente en la serie Cortex-M.
+
+148
+00:04:41,580 --> 00:04:43,420
+Y también la serie R5, ¿no?
+
+149
+00:04:43,420 --> 00:04:46,240
+Y también están los A7, A8 y A9. ¿Y qué tal estos ahora?
+
+150
+00:04:46,240 --> 00:04:49,779
+Así que me centré por completo en RISC-V.
+
+151
+00:04:49,779 --> 00:04:55,460
+En tu opinión, ¿cómo es RISC-V ahora en comparación con ARM?
+
+152
+00:04:55,460 --> 00:04:57,000
+Entonces, ¿qué ventajas tiene?
+
+153
+00:04:57,000 --> 00:04:58,120
+Yo lo explico así.
+
+154
+00:04:58,120 --> 00:05:00,660
+En primer lugar, es un conjunto de instrucciones de código abierto.
+
+155
+00:05:00,660 --> 00:05:02,320
+Siempre y cuando sigas la licencia de código abierto,
+
+156
+00:05:02,320 --> 00:05:04,130
+puedes utilizarlo tú mismo para fines comerciales.
+
+157
+00:05:04,130 --> 00:05:06,370
+Además, no es como ARM.
+
+158
+00:05:06,370 --> 00:05:08,130
+Es que, en aquel entonces, ARM se dividía en dos tipos.
+
+159
+00:05:08,130 --> 00:05:09,570
+No sé si ya lo conocen,
+
+160
+00:05:09,570 --> 00:05:10,570
+Una es la de dominio público.
+
+161
+00:05:10,570 --> 00:05:13,080
+Una de ellas, la del conjunto de instrucciones completo, es la más cara.
+
+162
+00:05:13,080 --> 00:05:15,279
+Pero su desarrollo es bastante más complicado.
+
+163
+00:05:15,279 --> 00:05:17,240
+requiere un sistema específico.
+
+164
+00:05:17,240 --> 00:05:21,140
+Para un arquitecto, también existe una capa fundamental, en la que puedes tomar los conjuntos de instrucciones y las funciones que necesites.
+
+165
+00:05:21,140 --> 00:05:23,659
+Puedes seguir expandiéndolo por tu cuenta sobre esa base.
+
+166
+00:05:23,659 --> 00:05:27,700
+Pero al final, la propiedad y el derecho a definirlo siguen perteneciendo a una empresa como ARM.
+
+167
+00:05:27,700 --> 00:05:29,300
+Y luego está el otro tipo que acabo de mencionar, el de dominio público.
+
+168
+00:05:29,300 --> 00:05:30,220
+ARM ya lo ha desarrollado para ti.
+
+169
+00:05:30,220 --> 00:05:31,520
+y tú lo tomas directamente para usarlo.
+
+170
+00:05:31,520 --> 00:05:32,380
+Pero es una caja negra.
+
+171
+00:05:32,380 --> 00:05:33,390
+no puedes verlo.
+
+172
+00:05:33,390 --> 00:05:36,950
+Por eso, las empresas más consolidadas suelen ser más autónomas.
+
+173
+00:05:36,950 --> 00:05:37,830
+Como en el caso de Huang Zitao,
+
+174
+00:05:37,830 --> 00:05:40,390
+Lo que compra es la licencia del conjunto de instrucciones.
+
+175
+00:05:40,390 --> 00:05:43,380
+Pero no van a comprar directamente el producto terminado que ellos ya han desarrollado.
+
+176
+00:05:44,460 --> 00:05:46,540
+Pero en el caso de RISC-V, lo primero es que es de código abierto.
+
+177
+00:05:46,540 --> 00:05:47,770
+Como acabo de decir,
+
+178
+00:05:47,770 --> 00:05:50,930
+Puedes basarte en sus extensiones e instrucciones para desarrollar lo que quieras.
+
+179
+00:05:50,930 --> 00:05:56,500
+Por ejemplo, si crees que la MMU o la SMMU de RISC-V no son muy buenas,
+
+180
+00:05:56,500 --> 00:05:57,960
+o si la PMU no te parece útil,
+
+181
+00:05:57,960 --> 00:06:01,430
+Puedes basarte en él para crear tu propia versión extendida.
+
+182
+00:06:01,430 --> 00:06:03,570
+Es más, al hacerlo, puedes combinarlo a tu gusto.
+
+183
+00:06:03,570 --> 00:06:07,970
+Además, no se ve afectado en absoluto por sus acuerdos comerciales.
+
+184
+00:06:07,970 --> 00:06:10,940
+Hay muchísima gente trabajando en esto.
+
+185
+00:06:10,940 --> 00:06:11,700
+Entonces, ¿qué ventajas tiene?
+
+186
+00:06:11,700 --> 00:06:13,460
+En los últimos dos años, me he dedicado a RISC-V y todo lo relacionado con él.
+
+187
+00:06:13,460 --> 00:06:15,740
+Es un poco como lo que fue Linux en su día.
+
+188
+00:06:15,740 --> 00:06:18,120
+Mucha gente se está metiendo en esto.
+
+189
+00:06:18,120 --> 00:06:21,360
+Por eso, su QEMU, QEMU se actualiza muy rápido.
+
+190
+00:06:21,360 --> 00:06:23,460
+Es decir, para tu empresa de semiconductores,
+
+191
+00:06:23,460 --> 00:06:26,660
+Cuando estás haciendo esta extensión basada en RISC-V,
+
+192
+00:06:26,660 --> 00:06:29,500
+Es posible que tu equipo de diseño y arquitectura todavía no haya implementado esa funcionalidad.
+
+193
+00:06:29,500 --> 00:06:31,500
+Solo plantean cómo se debe implementar la función que proponen.
+
+194
+00:06:31,500 --> 00:06:34,010
+Entonces, puedes usar QEMU para adelantarte y empezar a trabajar.
+
+195
+00:06:34,010 --> 00:06:35,529
+y empezar a verificar el software.
+
+196
+00:06:35,529 --> 00:06:36,450
+Es mucho mejor que...
+
+197
+00:06:36,450 --> 00:06:41,420
+En cualquier caso, es mejor que cualquier otra arquitectura de conjunto de instrucciones que exista actualmente en el mercado.
+

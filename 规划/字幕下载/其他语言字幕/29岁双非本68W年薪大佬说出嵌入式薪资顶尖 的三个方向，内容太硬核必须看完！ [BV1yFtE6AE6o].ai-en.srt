@@ -1,0 +1,684 @@
+﻿1
+00:00:00,040 --> 00:00:03,279
+So, in your opinion, whether we're talking about salary or career prospects,
+
+2
+00:00:03,279 --> 00:00:05,600
+The absolute top-tier, the most in-demand one, is Level 1.
+
+3
+00:00:05,600 --> 00:00:07,240
+For Level 1, uh...
+
+4
+00:00:07,240 --> 00:00:08,380
+Uh, that would be Software Architecture.
+
+5
+00:00:08,380 --> 00:00:11,289
+The second one... uh... Functional safety.
+
+6
+00:00:12,420 --> 00:00:14,280
+The third one is a bit of a gamble.
+
+7
+00:00:14,280 --> 00:00:16,560
+I'm talking about writing open-source licenses and protocol stacks.
+
+8
+00:00:16,560 --> 00:00:17,579
+That's a bit of a gamble.
+
+9
+00:00:17,579 --> 00:00:19,940
+That's basically going into it with a gambler's mindset.
+
+10
+00:00:19,940 --> 00:00:21,920
+Then that's probably a bit like entrepreneurship.
+
+11
+00:00:21,920 --> 00:00:23,300
+I actually had the chance to do it.
+
+12
+00:00:23,300 --> 00:00:23,940
+But I didn't take it.
+
+13
+00:00:23,940 --> 00:00:26,760
+Oh, you've also done Functional safety?
+
+14
+00:00:26,760 --> 00:00:30,460
+Right. So, do you think Functional safety has a promising future?
+
+15
+00:00:30,460 --> 00:00:32,340
+Functional safety, to be honest, if you really master it...
+
+16
+00:00:32,340 --> 00:00:34,260
+It's the most... well, maybe the second most promising, I'd say.
+
+17
+00:00:34,260 --> 00:00:36,589
+Well, I wouldn't say it's *the* second best, but it's definitely a very promising field.
+
+18
+00:00:36,589 --> 00:00:37,469
+Because you can't really rank them anymore.
+
+19
+00:00:37,469 --> 00:00:38,668
+I think this field is already...
+
+20
+00:00:38,668 --> 00:00:41,149
+Because in the future, for any product you're going to make,
+
+21
+00:00:41,149 --> 00:00:43,120
+It absolutely has to have Functional safety.
+
+22
+00:00:43,120 --> 00:00:47,000
+You might think so, but for Functional safety, everyone says you don't have to write code.
+
+23
+00:00:47,320 --> 00:00:49,220
+Who said Functional safety doesn't involve coding?
+
+24
+00:00:49,220 --> 00:00:50,600
+Functional safety doesn't involve coding?
+
+25
+00:00:50,600 --> 00:00:53,080
+How would you know if it's safe or not?
+
+26
+00:00:53,080 --> 00:00:56,720
+So, what do you think has the most potential right now, compared to Functional safety?
+
+27
+00:00:56,720 --> 00:00:58,580
+So, what has even more potential than Functional safety?
+
+28
+00:00:58,580 --> 00:01:01,240
+I think Functional safety and this System Architect...
+
+29
+00:01:01,240 --> 00:01:02,940
+It's hard to say which one is better.
+
+30
+00:01:02,940 --> 00:01:03,680
+If you really do it well,
+
+31
+00:01:03,680 --> 00:01:05,360
+Because, for real, with System Architecture...
+
+32
+00:01:05,360 --> 00:01:08,819
+So, when you say 'System Architecture,' what kind of architecture are you referring to?
+
+33
+00:01:08,819 --> 00:01:10,420
+The system we're talking about is the System Architecture on the software side.
+
+34
+00:01:10,420 --> 00:01:12,860
+I'm not talking about the kind of role that's just about product positioning.
+
+35
+00:01:12,860 --> 00:01:15,110
+What kind of architecture are you talking about?
+
+36
+00:01:15,110 --> 00:01:16,870
+And there are many different kinds of architecture, too.
+
+37
+00:01:16,870 --> 00:01:20,950
+For example, let's say you're an Architect for an OS, or the Lead Architect.
+
+38
+00:01:20,950 --> 00:01:23,190
+The Chief Architect deals with the product and the clients.
+
+39
+00:01:23,190 --> 00:01:27,340
+or requirements that your sales team brings back from the field.
+
+40
+00:01:27,340 --> 00:01:28,810
+After you've integrated all of that,
+
+41
+00:01:28,810 --> 00:01:31,830
+You need to figure out how exactly this feature is going to be implemented.
+
+42
+00:01:31,830 --> 00:01:33,850
+Take the Architecture Design for the chip sector I was involved in before, for example.
+
+43
+00:01:33,850 --> 00:01:36,430
+So, once you've gathered all these requirements,
+
+44
+00:01:36,430 --> 00:01:39,450
+First, they have to consider Functional safety and how to implement it.
+
+45
+00:01:39,450 --> 00:01:41,090
+Functional safety also has to be integrated.
+
+46
+00:01:41,090 --> 00:01:44,360
+ultimately creating a feature that the client wants.
+
+47
+00:01:44,360 --> 00:01:47,360
+For instance, take that one feature we worked on before.
+
+48
+00:01:47,360 --> 00:01:48,420
+We built an EMU.
+
+49
+00:01:48,420 --> 00:01:51,300
+This was also for a client at the time, something for the chip sector, for many companies.
+
+50
+00:01:51,300 --> 00:01:52,180
+and the company didn't even have this feature.
+
+51
+00:01:52,180 --> 00:01:55,280
+It takes all the, uh, those error signals
+
+52
+00:01:55,280 --> 00:01:58,160
+and it's all integrated into a single MU.
+
+53
+00:01:58,160 --> 00:01:59,539
+into a single ECU.
+
+54
+00:01:59,539 --> 00:02:04,910
+So, what this EMU does is, it lets you control whether that error gets reported to the CPU,
+
+55
+00:02:04,910 --> 00:02:07,230
+Or does it just trigger a software interrupt?
+
+56
+00:02:07,230 --> 00:02:09,810
+Uh, without doing any complex processing.
+
+57
+00:02:09,810 --> 00:02:10,970
+So, you can control whether it's handled or not.
+
+58
+00:02:10,970 --> 00:02:13,150
+and some permissions for handling this error.
+
+59
+00:02:13,150 --> 00:02:14,410
+So, once this thing is built,
+
+60
+00:02:14,410 --> 00:02:16,880
+Actually, this is a really great approach for automobiles.
+
+61
+00:02:16,880 --> 00:02:19,000
+This allows the customer to decide for themselves what's truly important.
+
+62
+00:02:19,000 --> 00:02:19,639
+and which ones aren't.
+
+63
+00:02:19,639 --> 00:02:21,900
+Unlike the current system where everything has to be reported uniformly.
+
+64
+00:02:21,900 --> 00:02:23,900
+The interrupts will all be on a single interrupt line.
+
+65
+00:02:23,900 --> 00:02:27,280
+And within that one interrupt, there are also a bunch of warnings and errors.
+
+66
+00:02:27,280 --> 00:02:28,440
+So, that's not a good thing.
+
+67
+00:02:28,440 --> 00:02:30,460
+So, you're talking about System Architecture.
+
+68
+00:02:30,460 --> 00:02:34,580
+So, what they do is take the customer's requirements and transform them...
+
+69
+00:02:34,580 --> 00:02:38,220
+and gradually describe it into something that can actually be implemented.
+
+70
+00:02:38,220 --> 00:02:41,780
+You could say it's about the technology, and also the Architecture Design.
+
+71
+00:02:41,780 --> 00:02:43,560
+Software Architecture Design.
+
+72
+00:02:43,560 --> 00:02:46,440
+But it feels like all this stuff is just writing documents.
+
+73
+00:02:46,440 --> 00:02:49,130
+So how can they prove their worth if they're not actually getting their hands dirty with the code?
+
+74
+00:02:49,130 --> 00:02:49,850
+for someone like you,
+
+75
+00:02:49,850 --> 00:02:51,650
+So how does that show how awesome they are?
+
+76
+00:02:51,650 --> 00:02:53,579
+It's more about writing documentation.
+
+77
+00:02:53,579 --> 00:02:56,139
+But if your coding skills aren't up to par,
+
+78
+00:02:56,139 --> 00:02:57,299
+You're just there churning out documents for nothing.
+
+79
+00:02:57,299 --> 00:02:58,419
+you won't be able to write it.
+
+80
+00:02:58,419 --> 00:03:00,379
+Or let's say you do write something, but you don't actually understand what you're writing about.
+
+81
+00:03:00,379 --> 00:03:05,240
+If you just write it down, people will think you're... you're just completely useless.
+
+82
+00:03:05,240 --> 00:03:07,700
+I'm not even sure what adjective to use for that.
+
+83
+00:03:07,700 --> 00:03:11,330
+So you're saying, to write this kind of stuff...
+
+84
+00:03:11,330 --> 00:03:14,490
+For example, in software requirement, you're defining the software interface architecture for others.
+
+85
+00:03:14,490 --> 00:03:19,200
+Yeah, it's in high demand in the chip sector, right.
+
+86
+00:03:19,200 --> 00:03:22,600
+But they say that Software Architecture is easily replaceable by AI.
+
+87
+00:03:22,600 --> 00:03:23,800
+Actually, here's how you should look at it.
+
+88
+00:03:23,800 --> 00:03:25,860
+In the future, everything will be replaced by AI.
+
+89
+00:03:25,860 --> 00:03:29,419
+So, how much does a Software Architect make at your company?
+
+90
+00:03:30,540 --> 00:03:33,940
+I'm not sure. Anyway, our company doesn't have a Software Architect right now.
+
+91
+00:03:34,220 --> 00:03:35,380
+So, what about Software Architecture?
+
+92
+00:03:35,380 --> 00:03:36,060
+The ones you've interacted with...
+
+93
+00:03:36,060 --> 00:03:38,780
+So, where do you feel their strengths really lie?
+
+94
+00:03:38,780 --> 00:03:40,120
+Besides just writing code,
+
+95
+00:03:40,120 --> 00:03:44,270
+He can take any of those modules from the chip sector...
+
+96
+00:03:44,270 --> 00:03:46,410
+He could tell you about, uh, pretty much any module.
+
+97
+00:03:46,410 --> 00:03:46,850
+You could talk to him about it,
+
+98
+00:03:46,850 --> 00:03:48,860
+He could basically explain it all to you, clearly.
+
+99
+00:03:48,860 --> 00:03:50,800
+What I remember most was how incredible that guy was.
+
+100
+00:03:50,800 --> 00:03:51,980
+So, is that the case?
+
+101
+00:03:51,980 --> 00:03:53,860
+For example, the 'lock' mechanisms within the core,
+
+102
+00:03:53,860 --> 00:03:54,860
+How exactly are you supposed to use it?
+
+103
+00:03:55,900 --> 00:03:58,240
+And then there's the whole instruction set.
+
+104
+00:03:58,240 --> 00:03:59,900
+Like, what's the actual reason for doing it that way? And also, but for me...
+
+105
+00:03:59,900 --> 00:04:02,850
+The thing he told me about was the MBIST.
+
+106
+00:04:02,850 --> 00:04:03,670
+And that MBIST...
+
+107
+00:04:03,670 --> 00:04:05,050
+And then there's the MMU.
+
+108
+00:04:05,050 --> 00:04:08,370
+So, how exactly is this thing mapped?
+
+109
+00:04:08,370 --> 00:04:09,570
+Why does it only have a few registers?
+
+110
+00:04:09,570 --> 00:04:11,000
+and that's how it achieves such powerful functionality.
+
+111
+00:04:11,000 --> 00:04:12,800
+It can quickly generate a diagram for you.
+
+112
+00:04:12,800 --> 00:04:14,120
+and explain each one to you.
+
+113
+00:04:14,120 --> 00:04:15,440
+Anyway, it's super powerful.
+
+114
+00:04:15,440 --> 00:04:16,820
+It really helps you get the hang of it quickly.
+
+115
+00:04:16,820 --> 00:04:18,140
+He's definitely done this kind of work before.
+
+116
+00:04:18,140 --> 00:04:19,940
+That's the only way he could explain things like this.
+
+117
+00:04:19,940 --> 00:04:23,110
+So, in your opinion, right now, compared to Functional safety...
+
+118
+00:04:23,110 --> 00:04:26,310
+So, you think the most promising path is to get into Software Architecture.
+
+119
+00:04:26,310 --> 00:04:27,700
+Always on point.
+
+120
+00:04:27,700 --> 00:04:29,520
+Compared to Functional safety,
+
+121
+00:04:29,520 --> 00:04:33,839
+The absolute best is Software Architecture.
+
+122
+00:04:33,839 --> 00:04:37,600
+Plus, with Functional safety, you can learn some of the specific functions within the industry.
+
+123
+00:04:37,600 --> 00:04:39,430
+certain definitions of Functional safety
+
+124
+00:04:39,430 --> 00:04:41,510
+For example, let's say you're working on in-vehicle systems.
+
+125
+00:04:41,510 --> 00:04:43,230
+Functional safety definitions are actually quite complex.
+
+126
+00:04:43,230 --> 00:04:45,110
+There's a ton of documentation involved.
+
+127
+00:04:45,110 --> 00:04:46,589
+and you're willing to spend the time to really dig into it,
+
+128
+00:04:46,589 --> 00:04:48,650
+Usually, in the bigger companies,
+
+129
+00:04:48,650 --> 00:04:50,810
+They'll even set up a dedicated department for this.
+
+130
+00:04:50,810 --> 00:04:52,490
+The department will have them dig into those manuals.
+
+131
+00:04:52,490 --> 00:04:55,210
+Because if your software doesn't meet those requirements,
+
+132
+00:04:55,210 --> 00:04:56,460
+and your certification will fail.
+
+133
+00:04:56,460 --> 00:05:00,420
+So, what do you think is the path to becoming a Software Architect in the future?
+
+134
+00:05:00,420 --> 00:05:01,820
+That's a position a lot of people are aiming for.
+
+135
+00:05:01,820 --> 00:05:02,779
+But it seems so hard, though.
+
+136
+00:05:02,779 --> 00:05:04,140
+But it's not a role everyone can land.
+
+137
+00:05:04,140 --> 00:05:08,039
+I think it's not as hard as it was when I was learning it a couple of years ago.
+
+138
+00:05:08,039 --> 00:05:09,639
+So, what's your learning method?
+
+139
+00:05:09,639 --> 00:05:11,750
+So, are you working in Software Architecture now?
+
+140
+00:05:11,750 --> 00:05:12,890
+Not at the moment.
+
+141
+00:05:12,890 --> 00:05:14,529
+I'm not quite at that level yet.
+
+142
+00:05:14,529 --> 00:05:16,089
+So, what do you think about this whole Software Architecture thing?
+
+143
+00:05:16,089 --> 00:05:17,870
+So, what kind of skills are required?
+
+144
+00:05:17,870 --> 00:05:20,029
+You have to be willing to patiently read the manuals.
+
+145
+00:05:20,029 --> 00:05:22,320
+Because, at the end of the day, that knowledge is all static.
+
+146
+00:05:22,320 --> 00:05:24,200
+So, why do I say it's easier now than it was a couple of years ago?
+
+147
+00:05:24,200 --> 00:05:25,180
+Because we have AI now.
+
+148
+00:05:25,180 --> 00:05:27,039
+The AI has been fed more than enough data.
+
+149
+00:05:27,039 --> 00:05:27,999
+It's already capable of
+
+150
+00:05:27,999 --> 00:05:29,119
+If there's a manual you don't understand, you just ask it.
+
+151
+00:05:29,119 --> 00:05:30,880
+and it'll break it all down for you.
+
+152
+00:05:30,880 --> 00:05:35,260
+So, for a person like him, how do you think he breaks down the requirements into each functional module?
+
+153
+00:05:35,260 --> 00:05:37,140
+So, how do you even train for that skill?
+
+154
+00:05:37,140 --> 00:05:39,120
+I think this skill...
+
+155
+00:05:39,120 --> 00:05:43,290
+Anyway, my general principle back in the day was always to go straight to the manual for the module.
+
+156
+00:05:43,290 --> 00:05:45,070
+But I'm not sure how AI is integrated now.
+
+157
+00:05:45,070 --> 00:05:46,029
+So, are there any good ways to learn once you're in?
+
+158
+00:05:46,029 --> 00:05:48,759
+But I believe that the knowledge you gain is what truly belongs to you.
+
+159
+00:05:48,759 --> 00:05:50,639
+So, to be honest, when it comes to AI...
+
+160
+00:05:50,639 --> 00:05:52,199
+Yeah, I've been really drawn to that lately, too.
+
+161
+00:05:52,199 --> 00:05:54,069
+But I'm not very good at using it.
+
+162
+00:05:54,069 --> 00:05:55,789
+So basically, I'm still at the level of doing things from scratch, the DIY approach.
+
+163
+00:05:55,789 --> 00:05:58,988
+So, in your opinion, whether we're talking about salary or career prospects,
+
+164
+00:05:58,988 --> 00:06:02,940
+The highest of the high, the absolute top-tier, is Level 1.
+
+165
+00:06:02,940 --> 00:06:04,060
+Uh, that would be Software Architecture.
+
+166
+00:06:04,060 --> 00:06:06,990
+The second one... uh... Functional safety.
+
+167
+00:06:08,120 --> 00:06:09,980
+The third one is a bit of a gamble.
+
+168
+00:06:09,980 --> 00:06:12,260
+So, like, comment '666', and follow to see the next episode where a big shot breaks down the situation in different industries. And that's writing those open-source licenses and protocol stacks.
+
+169
+00:06:12,260 --> 00:06:13,279
+So, like, comment '666', and follow for the next episode where a big shot breaks down the industry. But this one... it's a bit of a gamble.
+
+170
+00:06:13,279 --> 00:06:15,640
+So you're basically just going into it with a gamble mindset.
+
+171
+00:06:15,640 --> 00:06:17,760
+So, that's kind of like entrepreneurship.
+

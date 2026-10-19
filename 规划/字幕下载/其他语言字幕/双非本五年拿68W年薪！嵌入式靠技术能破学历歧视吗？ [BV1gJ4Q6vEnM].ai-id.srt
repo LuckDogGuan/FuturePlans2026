@@ -1,0 +1,788 @@
+﻿1
+00:00:00,040 --> 00:00:02,900
+Apakah ada yang mendiskriminasi latar belakang pendidikan Anda di tempat kerja?
+
+2
+00:00:02,900 --> 00:00:05,680
+Universitas non-ganda Anda bukan universitas seperti Akademi Ilmu Pengetahuan Tiongkok, kan?
+
+3
+00:00:05,680 --> 00:00:07,960
+Bukan, saya memang tidak berguna saat itu.
+
+4
+00:00:07,960 --> 00:00:09,539
+Di mata kalian, itu sangat sampah.
+
+5
+00:00:09,539 --> 00:00:10,200
+Bagaimana mengatakannya?
+
+6
+00:00:10,200 --> 00:00:11,800
+Perasaan pertama saya ketika saya bergabung dengan perusahaan chip
+
+7
+00:00:11,800 --> 00:00:13,400
+Mereka sama sekali tidak diskriminatif.
+
+8
+00:00:13,400 --> 00:00:15,880
+Bahkan atasan pun akan berbicara dengan Anda dengan sangat baik.
+
+9
+00:00:15,880 --> 00:00:18,440
+Mereka adalah orang-orang yang pernah bekerja di perusahaan asing, terutama.
+
+10
+00:00:18,440 --> 00:00:19,660
+Mereka sangat terbuka
+
+11
+00:00:19,660 --> 00:00:21,000
+Mereka hanya melihat
+
+12
+00:00:21,000 --> 00:00:24,280
+Bahkan jika Anda tidak tahu, seperti saat kami mengembangkan chip
+
+13
+00:00:24,280 --> 00:00:26,180
+Terutama saat mengembangkan SoC kendaraan.
+
+14
+00:00:26,180 --> 00:00:27,920
+Satu chip pada dasarnya adalah tiga atau empat ratus orang.
+
+15
+00:00:27,920 --> 00:00:29,260
+Semua di satu R&D semacam itu
+
+16
+00:00:29,260 --> 00:00:31,260
+Mungkin dua atau tiga ratus orang, semuanya berada di grup yang sama karena
+
+17
+00:00:31,260 --> 00:00:33,670
+Kita semua mengembangkan produk yang sama.
+
+18
+00:00:33,670 --> 00:00:34,670
+Jika Anda memiliki pertanyaan, ajukan saja.
+
+19
+00:00:34,670 --> 00:00:36,030
+Orang-orang dengan senang hati menjawabnya.
+
+20
+00:00:36,030 --> 00:00:37,150
+Orang tidak akan mengatakan
+
+21
+00:00:37,150 --> 00:00:39,150
+Karena beberapa teman saya juga melakukan pekerjaan semacam itu
+
+22
+00:00:39,150 --> 00:00:40,830
+Seperti pergi ke Inovance atau yang sejenisnya.
+
+23
+00:00:40,830 --> 00:00:41,990
+Tapi mereka berbeda.
+
+24
+00:00:41,990 --> 00:00:43,930
+Saya juga tidak mengeluh tentang Inovance.
+
+25
+00:00:43,930 --> 00:00:46,409
+Saya bilang orang-orang, budaya perusahaan itu beda.
+
+26
+00:00:46,409 --> 00:00:48,729
+Ada sedikit kesenjangan dalam komunikasi antarindividu.
+
+27
+00:00:48,729 --> 00:00:50,420
+Lagipula, beberapa orang memperlakukan orang lain sebagai manusia.
+
+28
+00:00:50,420 --> 00:00:51,540
+Beberapa orang memperlakukan orang lain seperti mesin
+
+29
+00:00:51,540 --> 00:00:52,560
+Itu maksud saya
+
+30
+00:00:52,560 --> 00:00:53,760
+Jadi, menurutmu,
+
+31
+00:00:53,760 --> 00:00:57,690
+Sebenarnya, gaji 500 juta rupiah per tahun untuk embedded tidaklah sulit.
+
+32
+00:00:57,690 --> 00:00:59,270
+hanya tingkat pemula
+
+33
+00:00:59,270 --> 00:01:01,710
+Jika kualifikasi akademismu adalah D4 ke atas
+
+34
+00:01:01,710 --> 00:01:03,070
+pasti tidak sulit
+
+35
+00:01:03,070 --> 00:01:04,729
+Selama kamu benar-benar ingin belajar
+
+36
+00:01:04,729 --> 00:01:07,049
+Kalau begitu, menurut Anda, sarjana dari universitas kelas tiga itu tergantung pada kesempatan.
+
+37
+00:01:07,049 --> 00:01:09,069
+Karena ijazah dari universitas biasa itu agak sulit.
+
+38
+00:01:09,069 --> 00:01:10,700
+Lulusan universitas dengan akreditasi C agak sulit.
+
+39
+00:01:10,700 --> 00:01:11,740
+Agak memoles resume
+
+40
+00:01:11,740 --> 00:01:12,980
+Utamanya bukan karena teknologinya kurang bagus
+
+41
+00:01:12,980 --> 00:01:13,660
+Dia memoles resume-nya.
+
+42
+00:01:13,660 --> 00:01:16,300
+Dia memoles resume, karena universitas tingkat ketiga, sebenarnya, untuk embedded, Anda tidak butuh banyak pengetahuan.
+
+43
+00:01:16,300 --> 00:01:17,240
+Sekarang ada AI
+
+44
+00:01:17,240 --> 00:01:17,860
+Bahasa Inggris Anda tidak bagus, ada AI
+
+45
+00:01:17,860 --> 00:01:20,500
+Satu per satu dokumen-dokumen itu semuanya dalam bahasa Inggris.
+
+46
+00:01:20,500 --> 00:01:21,940
+Anda bisa membaca apa saja.
+
+47
+00:01:21,940 --> 00:01:23,380
+Baca selama satu atau dua tahun, bahasa Inggrismu akan menjadi
+
+48
+00:01:23,380 --> 00:01:25,289
+tingkat Anda akan meningkat secara instan
+
+49
+00:01:25,289 --> 00:01:27,089
+Tapi gelar akan diblokir.
+
+50
+00:01:27,089 --> 00:01:27,909
+Saya hanya bisa mengatakan itu
+
+51
+00:01:27,909 --> 00:01:29,390
+Bagaimana dengan universitas tingkat dua?
+
+52
+00:01:29,390 --> 00:01:30,630
+Lulusan universitas kelas dua juga memiliki kesempatan penuh
+
+53
+00:01:30,630 --> 00:01:31,910
+Beberapa orang yang saya rekrut berasal dari universitas tingkat dua.
+
+54
+00:01:31,910 --> 00:01:32,870
+Tapi mereka sangat kompeten.
+
+55
+00:01:32,870 --> 00:01:35,980
+Dia bertanya, apakah Anda punya saran untuk orang biasa ini?
+
+56
+00:01:35,980 --> 00:01:37,220
+Pokoknya saya bilang saja kepadanya,
+
+57
+00:01:37,220 --> 00:01:39,120
+Saya sarankan Anda berganti pekerjaan dalam 5 tahun pertama setelah lulus.
+
+58
+00:01:39,120 --> 00:01:40,900
+Kecuali kalau kamu benar-benar pergi ke Huawei yang seperti itu
+
+59
+00:01:40,900 --> 00:01:43,150
+Karena gaji lembur mereka benar-benar sedikit tidak masuk akal.
+
+60
+00:01:43,150 --> 00:01:45,190
+Dan dia punya kebijakan yang sangat bagus
+
+61
+00:01:45,190 --> 00:01:46,290
+Ketika Anda masuk
+
+62
+00:01:46,290 --> 00:01:48,110
+Asalkan kamu tidak terlalu keterlaluan
+
+63
+00:01:48,110 --> 00:01:49,270
+Anda bekerja selama sepuluh tahun seperti ini
+
+64
+00:01:49,270 --> 00:01:52,230
+Gaji akan sangat tinggi.
+
+65
+00:01:52,230 --> 00:01:53,870
+Satu atau dua ratus juta pasti ada.
+
+66
+00:01:53,870 --> 00:01:54,750
+yang membuat chip
+
+67
+00:01:54,750 --> 00:01:55,630
+Saya tidak tahu tentang produk
+
+68
+00:01:55,630 --> 00:01:56,470
+Saya bekerja di bidang chip.
+
+69
+00:01:56,470 --> 00:01:59,070
+Karena saya ingat, orang-orang di sekitar saya, mereka yang berasal dari Huawei di perusahaan kami
+
+70
+00:01:59,070 --> 00:02:00,480
+Pokoknya, pada dasarnya dua sampai tiga ratus.
+
+71
+00:02:00,480 --> 00:02:02,560
+Sekitar 15 tahun yang lalu, dua atau tiga ratus.
+
+72
+00:02:02,560 --> 00:02:03,920
+Frekuensi pergantian pekerjaan
+
+73
+00:02:03,920 --> 00:02:07,570
+Saya sarankan minimal 3 kali pindah kerja dalam 5 tahun.
+
+74
+00:02:07,570 --> 00:02:08,510
+Ya
+
+75
+00:02:08,510 --> 00:02:10,490
+Tentu saja, Anda harus belajar sebelum berganti pekerjaan.
+
+76
+00:02:10,490 --> 00:02:11,570
+Tiga tahun pertama setelah saya lulus adalah saya
+
+77
+00:02:11,570 --> 00:02:13,110
+Saya ingat tahun pertama setelah lulus
+
+78
+00:02:13,110 --> 00:02:14,990
+Pokoknya semua orang belajar di tiga tahun pertama setelah lulus.
+
+79
+00:02:14,990 --> 00:02:15,910
+Pokoknya, kamu belajar sampai 1
+
+80
+00:02:15,910 --> 00:02:19,430
+Anda hanya merasa bahwa Anda telah berkembang sekitar 30% dari tahun sebelumnya.
+
+81
+00:02:19,430 --> 00:02:20,230
+Anda bisa berganti pekerjaan.
+
+82
+00:02:20,230 --> 00:02:22,270
+Saya memahaminya seperti ini.
+
+83
+00:02:22,270 --> 00:02:25,389
+Apakah Anda memiliki dua hari libur sekarang di pabrik chip?
+
+84
+00:02:25,710 --> 00:02:27,830
+Sudah lama saya tidak bekerja lembur pada hari Sabtu.
+
+85
+00:02:27,830 --> 00:02:28,930
+Saya hanya bisa mengatakan itu.
+
+86
+00:02:28,930 --> 00:02:32,169
+Oke, kalian biasanya bekerja jam 9 pagi.
+
+87
+00:02:32,169 --> 00:02:33,210
+Jam berapa kamu pulang kerja di sore hari?
+
+88
+00:02:33,210 --> 00:02:34,450
+Seperti saya, seperti saya
+
+89
+00:02:34,450 --> 00:02:36,010
+Karena saya agak jauh dari kantor.
+
+90
+00:02:36,010 --> 00:02:38,690
+Saya biasanya tiba di kantor antara pukul 9:00 dan 9:30.
+
+91
+00:02:38,690 --> 00:02:40,389
+Kalau tidak ada pekerjaan, jam 6.30 malam saya pulang.
+
+92
+00:02:40,389 --> 00:02:41,508
+Saya pulang jam 6:30.
+
+93
+00:02:41,508 --> 00:02:43,269
+Kalau ada pekerjaan, saya akan bekerja sampai jam 9.
+
+94
+00:02:43,269 --> 00:02:45,749
+Perusahaan Anda sebagian besar memiliki suasana perusahaan asing.
+
+95
+00:02:45,749 --> 00:02:49,549
+Beberapa perusahaan chip tempat saya bekerja, pada dasarnya sedikit...
+
+96
+00:02:49,549 --> 00:02:51,389
+Lagipula, saya belum pernah bekerja di perusahaan asing.
+
+97
+00:02:51,389 --> 00:02:52,660
+Menurut saya ini cukup bagus.
+
+98
+00:02:52,660 --> 00:02:54,780
+Sama seperti teman-teman saya yang bekerja di bidang produk,
+
+99
+00:02:54,780 --> 00:02:55,340
+teman-teman sekelas
+
+100
+00:02:55,340 --> 00:02:56,740
+Anda merasa gaji Anda naik
+
+101
+00:02:56,740 --> 00:03:00,389
+Apakah atasan Anda akan menekan Anda karena gelar Anda yang bukan dari universitas negeri, atau universitas negeri biasa, setelah 5 tahun?
+
+102
+00:03:00,389 --> 00:03:01,350
+Saya bergabung dengan perusahaan
+
+103
+00:03:01,350 --> 00:03:03,190
+Saya, bagaimanapun, pekerjaan saya sampai sekarang
+
+104
+00:03:03,190 --> 00:03:05,740
+Tidak pernah ada seorang pun yang menanyakan ijazah saya.
+
+105
+00:03:05,740 --> 00:03:06,980
+Saya bisa masuk wawancara, itu tergantung pada wawancara.
+
+106
+00:03:06,980 --> 00:03:07,700
+Sudah
+
+107
+00:03:07,700 --> 00:03:09,020
+Apa pun yang dia tanyakan, saya menjawabnya.
+
+108
+00:03:09,020 --> 00:03:10,620
+Menurutmu saat kamu wawancara
+
+109
+00:03:10,620 --> 00:03:12,780
+Apakah pewawancara dapat menekan Anda?
+
+110
+00:03:13,010 --> 00:03:14,410
+Yang kedua saya tertekan
+
+111
+00:03:14,410 --> 00:03:15,810
+Karena sejujurnya pada saat itu
+
+112
+00:03:15,810 --> 00:03:19,480
+Saya mengembangkan kernel Linux.
+
+113
+00:03:19,480 --> 00:03:22,840
+Tapi saat itu saya hanya tahu cara mengembangkan beberapa modul sederhana.
+
+114
+00:03:22,840 --> 00:03:23,960
+Karena di perusahaan pertama saya
+
+115
+00:03:23,960 --> 00:03:26,020
+Saya hanya pernah mengembangkan UART.
+
+116
+00:03:26,020 --> 00:03:27,120
+dan juga mengembangkan CAN
+
+117
+00:03:27,120 --> 00:03:31,220
+Yang lainnya saya hanya menguji, IP dari platform Amental.
+
+118
+00:03:31,220 --> 00:03:33,300
+memverifikasi hal-hal tersebut
+
+119
+00:03:33,300 --> 00:03:35,420
+Fungsi dan sinyal-sinyal ini, apakah sudah memenuhi ekspektasi
+
+120
+00:03:35,420 --> 00:03:37,880
+dan performa, apakah memenuhi performa ini
+
+121
+00:03:37,880 --> 00:03:39,060
+tapi jarang sekali
+
+122
+00:03:39,060 --> 00:03:40,520
+Juga mengembangkan UBOOT di sini
+
+123
+00:03:40,520 --> 00:03:42,320
+Tapi saya belum banyak terlibat dengan Linux, hanya saja
+
+124
+00:03:42,320 --> 00:03:44,310
+Eh, beberapa IP itu ya
+
+125
+00:03:44,310 --> 00:03:45,030
+Karena saya yang mengerjakannya
+
+126
+00:03:45,030 --> 00:03:46,910
+Jadi saya akan menyinkronkan dan mem-porting drivernya.
+
+127
+00:03:46,910 --> 00:03:49,110
+Karena sekarang di pasaran, pengembangan SoC
+
+128
+00:03:49,110 --> 00:03:50,820
+Banyak IP-nya tidak dikembangkan sendiri.
+
+129
+00:03:50,820 --> 00:03:52,300
+Dasarnya, entah Anda membeli slopusis
+
+130
+00:03:52,300 --> 00:03:53,180
+Atau beli dari Kenneth, dua perusahaan ini.
+
+131
+00:03:53,180 --> 00:03:55,620
+Jadi Anda naik dan mengubah nomor perangkat
+
+132
+00:03:55,620 --> 00:03:57,030
+Ubah alamat dasarnya, selesai.
+
+133
+00:03:57,030 --> 00:03:58,950
+Tidak pernah belajar hal-hal ini secara mendalam
+
+134
+00:03:58,950 --> 00:04:00,150
+Tapi yang kedua berbeda.
+
+135
+00:04:00,150 --> 00:04:02,810
+Saat saya bergabung dengan perusahaan kedua, saya mengerjakan fungsionalitas keamanan yang kompleks.
+
+136
+00:04:02,810 --> 00:04:06,370
+mulai dengan memegang manual ARMv8, yang tebalnya lebih dari 10.000 halaman
+
+137
+00:04:06,370 --> 00:04:07,950
+12.000 lebih halaman manual yang harus dipelajari.
+
+138
+00:04:07,950 --> 00:04:09,610
+Pada saat itu, saya membuat kemajuan besar.
+
+139
+00:04:09,610 --> 00:04:12,840
+Pada saat itu, saya mulai melihat kode sumber terbuka yang ditulis oleh orang lain.
+
+140
+00:04:12,840 --> 00:04:14,900
+sambil memegang manual itu, mencoba satu per satu
+
+141
+00:04:14,900 --> 00:04:16,399
+Seperti apa fungsi ini sebenarnya?
+
+142
+00:04:16,399 --> 00:04:17,999
+Bagaimana sinyal-sinyal ini seharusnya mengalir?
+
+143
+00:04:17,999 --> 00:04:19,359
+Ini di mata saya
+
+144
+00:04:19,359 --> 00:04:22,440
+Pokoknya, periode itu adalah periode pertumbuhan saya yang paling pesat.
+
+145
+00:04:22,440 --> 00:04:28,560
+Apakah Anda terutama, pekerjaan Anda sebelumnya dan sekarang, inti M Anda ini
+
+146
+00:04:28,560 --> 00:04:35,850
+Dan MV7, MV8, IP ARM, dan desain SoC ini sudah pernah Anda tangani, ya?
+
+147
+00:04:35,850 --> 00:04:41,580
+Ya, pekerjaan saya sebelumnya terutama seri Cortex-M.
+
+148
+00:04:41,580 --> 00:04:43,420
+Tidak ada lagi seri R5.
+
+149
+00:04:43,420 --> 00:04:46,240
+Ditambah A78 AE, beberapa di antaranya sekarang.
+
+150
+00:04:46,240 --> 00:04:49,779
+Saya akan menginvestasikan semuanya di RISC-V.
+
+151
+00:04:49,779 --> 00:04:55,460
+Menurutmu, RISC-V, bagaimana perbandingannya dengan ARM kita sekarang?
+
+152
+00:04:55,460 --> 00:04:57,000
+Keuntungan apa saja yang dimilikinya?
+
+153
+00:04:57,000 --> 00:04:58,120
+Saya sudah bilang begitu.
+
+154
+00:04:58,120 --> 00:05:00,660
+Pertama, ini adalah set instruksi sumber terbuka.
+
+155
+00:05:00,660 --> 00:05:02,320
+Anda hanya perlu mematuhi perjanjian sumber terbuka
+
+156
+00:05:02,320 --> 00:05:04,130
+Anda dapat menggunakannya untuk tujuan komersial
+
+157
+00:05:04,130 --> 00:05:06,370
+Kedua, tidak seperti ARM
+
+158
+00:05:06,370 --> 00:05:08,130
+arm karena saat itu arm dibagi menjadi dua jenis
+
+159
+00:05:08,130 --> 00:05:09,570
+Tidak tahu apakah Anda sudah tahu
+
+160
+00:05:09,570 --> 00:05:10,570
+Salah satunya adalah versi publik.
+
+161
+00:05:10,570 --> 00:05:13,080
+salah satu jenis yang lebih mahal adalah set instruksi 周全
+
+162
+00:05:13,080 --> 00:05:15,279
+Namun, kesulitan pengembangannya relatif tinggi.
+
+163
+00:05:15,279 --> 00:05:17,240
+membutuhkan sistem Anda
+
+164
+00:05:17,240 --> 00:05:21,140
+Arsitek juga memiliki stasiun dasar, untuk membuat set instruksi dan fungsi yang Anda inginkan
+
+165
+00:05:21,140 --> 00:05:23,659
+Kamu bisa terus mengembangkannya sendiri berdasarkan itu.
+
+166
+00:05:23,659 --> 00:05:27,700
+Tapi pada akhirnya kepemilikannya, hak ciptanya masih milik ARM.
+
+167
+00:05:27,700 --> 00:05:29,300
+Ada juga versi publik yang baru saja saya sebutkan.
+
+168
+00:05:29,300 --> 00:05:30,220
+ARM mengembangkannya untuk Anda
+
+169
+00:05:30,220 --> 00:05:31,520
+Anda cukup menggunakannya.
+
+170
+00:05:31,520 --> 00:05:32,380
+Tapi itu kotak hitam.
+
+171
+00:05:32,380 --> 00:05:33,390
+Anda tidak bisa melihatnya
+
+172
+00:05:33,390 --> 00:05:36,950
+Jadi, perusahaan yang lebih baik, sifatnya lebih mandiri
+
+173
+00:05:36,950 --> 00:05:37,830
+seperti Huawei
+
+174
+00:05:37,830 --> 00:05:40,390
+Yang dia beli adalah lisensi set instruksi.
+
+175
+00:05:40,390 --> 00:05:43,380
+Tapi tidak akan langsung membeli yang sudah jadi.
+
+176
+00:05:44,460 --> 00:05:46,540
+Namun, RISC-V ini, pertama-tama, adalah sumber terbuka.
+
+177
+00:05:46,540 --> 00:05:47,770
+Seperti yang baru saja saya katakan
+
+178
+00:05:47,770 --> 00:05:50,930
+Anda dapat mendasarkan ekspansi dan instruksinya untuk melakukan apa pun yang Anda inginkan.
+
+179
+00:05:50,930 --> 00:05:56,500
+Misalnya, menurut Anda RISC-V, MMU, SMMU ini tidak mudah digunakan.
+
+180
+00:05:56,500 --> 00:05:57,960
+atau PMU tidak berfungsi dengan baik
+
+181
+00:05:57,960 --> 00:06:01,430
+Anda dapat memperluasnya sendiri berdasarkan itu, dan membuatnya sendiri.
+
+182
+00:06:01,430 --> 00:06:03,570
+dan Anda bisa mencocokkannya sendiri
+
+183
+00:06:03,570 --> 00:06:07,970
+tidak akan terpengaruh sama sekali oleh perjanjian komersialnya, dan kedua
+
+184
+00:06:07,970 --> 00:06:10,940
+Orang yang melakukan ini sangat banyak.
+
+185
+00:06:10,940 --> 00:06:11,700
+Apa kelebihannya?
+
+186
+00:06:11,700 --> 00:06:13,460
+Dua tahun terakhir ini saya telah mengabdikan diri pada RISC-V ini
+
+187
+00:06:13,460 --> 00:06:15,740
+Ini seperti Linux di masa lalu
+
+188
+00:06:15,740 --> 00:06:18,120
+Banyak orang yang ingin bermain-main dengan itu
+
+189
+00:06:18,120 --> 00:06:21,360
+Jadi, QEMU-nya, QEMU-nya update-nya sangat cepat.
+
+190
+00:06:21,360 --> 00:06:23,460
+Jadi perusahaan chip Anda
+
+191
+00:06:23,460 --> 00:06:26,660
+Ketika Anda memperluas ini berdasarkan RISC-V
+
+192
+00:06:26,660 --> 00:06:29,500
+Mungkin desain dan arsitektur Anda belum membuat hal ini
+
+193
+00:06:29,500 --> 00:06:31,500
+Mereka hanya mengusulkan bagaimana fungsi ini harus dilakukan
+
+194
+00:06:31,500 --> 00:06:34,010
+Anda dapat menggunakan QEMU untuk melakukannya lebih awal
+
+195
+00:06:34,010 --> 00:06:35,529
+Perangkat lunak ini semua bisa mulai diverifikasi.
+
+196
+00:06:35,529 --> 00:06:36,450
+semuanya sangat bagus, itu lebih baik daripada
+
+197
+00:06:36,450 --> 00:06:41,420
+Pokoknya lebih baik dari semua arsitektur set instruksi yang saat ini ada di pasaran.
+

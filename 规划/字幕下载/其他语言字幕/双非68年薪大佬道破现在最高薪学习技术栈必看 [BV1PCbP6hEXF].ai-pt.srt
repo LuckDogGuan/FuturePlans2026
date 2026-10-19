@@ -1,0 +1,388 @@
+﻿1
+00:00:00,160 --> 00:00:02,720
+Este aluno pergunta qual stack de tecnologia é mais importante.
+
+2
+00:00:02,720 --> 00:00:04,059
+Dá pra fazer um ranking simples?
+
+3
+00:00:04,059 --> 00:00:05,220
+Ele está bem perdido.
+
+4
+00:00:05,220 --> 00:00:07,720
+Depende da área que você gosta, né?
+
+5
+00:00:07,720 --> 00:00:10,700
+Se você gosta de arquitetura de sistemas,
+
+6
+00:00:10,700 --> 00:00:13,180
+Então, com certeza, você deve começar pelo mais simples.
+
+7
+00:00:13,180 --> 00:00:16,579
+Primeiro, você pode começar com um RTOS mais clássico, como o FreeRTOS,
+
+8
+00:00:16,579 --> 00:00:19,260
+ou o UCOS. Dê uma brincada com esses dois.
+
+9
+00:00:19,260 --> 00:00:23,710
+Depois, estude a fundo como exatamente ele faz o fatiamento do tempo, essas coisas.
+
+10
+00:00:23,710 --> 00:00:27,750
+E também como eles gerenciam a pilha de execução, como isso é feito por dentro.
+
+11
+00:00:27,750 --> 00:00:29,290
+Geralmente, depois de terminar essa etapa,
+
+12
+00:00:29,290 --> 00:00:35,019
+Com certeza, a primeira escolha é o... o... o kernel do Linux, sabe?
+
+13
+00:00:35,019 --> 00:00:38,459
+E quanto ao kernel do Linux, para isso você também não precisa comprar nenhum hardware ou software específico.
+
+14
+00:00:38,459 --> 00:00:41,130
+Você pode simplesmente montar uma plataforma diretamente no QEMU.
+
+15
+00:00:41,130 --> 00:00:43,810
+Depois, é configurar o debugger, o GDB.
+
+16
+00:00:43,810 --> 00:00:45,400
+Depurando passo a passo, sabe?
+
+17
+00:00:45,400 --> 00:00:47,800
+Depois, dê uma olhada nas listas encadeadas e coisas do tipo.
+
+18
+00:00:47,800 --> 00:00:49,659
+Afinal, como é que isso é criado?
+
+19
+00:00:49,659 --> 00:00:56,240
+E então, sobre essas coisas... por exemplo, hoje em dia muita gente diz que a diferença entre o Linux e o FreeRTOS é que um é multitarefa.
+
+20
+00:00:56,240 --> 00:00:59,360
+um é baseado em escalonamento de tempo.
+
+21
+00:00:59,360 --> 00:01:00,300
+Na verdade, isso é besteira.
+
+22
+00:01:00,300 --> 00:01:03,379
+Tanto o Linux quanto o FreeRTOS, na verdade, ambos são baseados em escalonamento de tempo.
+
+23
+00:01:03,379 --> 00:01:06,339
+É, é que a frequência de um é mais rápida, né.
+
+24
+00:01:06,339 --> 00:01:11,680
+Hum, ou, para colocar de outra forma, essa galera nunca entendeu de chips.
+
+25
+00:01:11,680 --> 00:01:13,020
+Os chips são todos...
+
+26
+00:01:13,020 --> 00:01:17,830
+Apesar de que, hoje em dia, já existem pessoas que inventaram aquela arquitetura que, em um único ciclo, consegue executar várias instruções.
+
+27
+00:01:17,830 --> 00:01:18,990
+arquitetura que executa várias instruções.
+
+28
+00:01:18,990 --> 00:01:23,430
+Mas o主流 no mercado ainda é aquele modelo em que, uh... uma instrução precisa ser concluída para que a segunda possa começar a rodar, sabe?
+
+29
+00:01:23,430 --> 00:01:29,440
+Pois é, por causa dessas instruções, sabe? Então, é impossível que elas rodem ao mesmo tempo.
+
+30
+00:01:29,440 --> 00:01:30,720
+São dois programas.
+
+31
+00:01:30,720 --> 00:01:33,720
+Então, quando vocês realmente estudam tudo isso,
+
+32
+00:01:33,720 --> 00:01:37,830
+você vai descobrir que, na verdade, muitas das pessoas que escrevem blogs por aí...
+
+33
+00:01:37,830 --> 00:01:40,170
+o que algumas pessoas que escrevem tutoriais dizem está errado.
+
+34
+00:01:40,170 --> 00:01:41,750
+Isso é um tipo de crescimento, não é mesmo?
+
+35
+00:01:41,750 --> 00:01:43,090
+Certo.
+
+36
+00:01:43,090 --> 00:01:46,290
+E o segundo ponto é, como aquela pessoa acabou de mencionar,
+
+37
+00:01:46,290 --> 00:01:47,790
+que é trabalhar com câmeras.
+
+38
+00:01:47,790 --> 00:01:51,630
+ou então a área de display, essa área tem um futuro muito promissor.
+
+39
+00:01:51,630 --> 00:01:54,290
+Mas é fundamental que você escolha a empresa certa.
+
+40
+00:01:54,290 --> 00:01:58,230
+Então, a premissa é que, uhm...
+
+41
+00:01:58,230 --> 00:02:04,370
+E, para ser sincero, o seu stack de tecnologia é basicamente uma mudança de foco para o Linux.
+
+42
+00:02:04,370 --> 00:02:09,760
+Você com certeza precisa conhecer bem essa estrutura do V4L2.
+
+43
+00:02:09,760 --> 00:02:12,419
+Além disso, é preciso ter um bom conhecimento do protocolo MIPI, e também...
+
+44
+00:02:12,419 --> 00:02:15,860
+Atualmente, o MIPI é apenas um protocolo de transmissão de dados, certo?
+
+45
+00:02:15,860 --> 00:02:19,120
+Mas, na prática, o cabeamento do MIPI é muito curto.
+
+46
+00:02:19,120 --> 00:02:21,460
+Se você for usar, com certeza vai precisar converter algumas coisas.
+
+47
+00:02:21,460 --> 00:02:25,230
+Por exemplo, em aplicações automotivas, um protocolo muito utilizado é o JSMAL.
+
+48
+00:02:25,230 --> 00:02:26,130
+É um protocolo.
+
+49
+00:02:26,130 --> 00:02:27,610
+Você com certeza precisa entender disso.
+
+50
+00:02:27,610 --> 00:02:29,090
+Você precisa saber comprar.
+
+51
+00:02:29,090 --> 00:02:31,370
+Mas, para uma pessoa comprar e mexer por conta própria, pode ser um pouco caro.
+
+52
+00:02:31,370 --> 00:02:32,750
+A câmera dele é um pouco cara.
+
+53
+00:02:32,750 --> 00:02:34,430
+Mas se você gastar alguns milhares para aprender,
+
+54
+00:02:34,430 --> 00:02:35,630
+Eu acho que vale a pena.
+
+55
+00:02:35,630 --> 00:02:38,870
+Você pode comprar uma placa de desenvolvimento da NVIDIA para aprender, sabe?
+
+56
+00:02:39,190 --> 00:02:40,710
+E depois de aprender tudo isso,
+
+57
+00:02:40,710 --> 00:02:44,460
+Ou seja, essa é a trajetória técnica em empresas de produtos, sabe?
+
+58
+00:02:44,460 --> 00:02:48,000
+E, basicamente, você vai aprofundar nas particularidades de cada câmera.
+
+59
+00:02:48,000 --> 00:02:49,480
+ou seja, como cada fabricante faz essa configuração.
+
+60
+00:02:49,480 --> 00:02:50,480
+Depois que você aprende isso,
+
+61
+00:02:50,480 --> 00:02:52,820
+Assim, você consegue se adaptar facilmente em qualquer empresa que for.
+
+62
+00:02:52,820 --> 00:02:55,780
+E, aprofundando um pouco mais, se você estiver em uma fabricante de chips,
+
+63
+00:02:55,780 --> 00:02:58,380
+Com certeza o caminho é se aprofundar na área de ISP.
+
+64
+00:02:58,380 --> 00:03:00,980
+É isso que é o verdadeiro coração da câmera.
+
+65
+00:03:00,980 --> 00:03:05,940
+Hmm, ele perguntou se agora é necessário aprender Zephyr.
+
+66
+00:03:05,940 --> 00:03:11,050
+Isso com certeza vai bombar no futuro.
+
+67
+00:03:11,050 --> 00:03:12,030
+Esse Refine.
+
+68
+00:03:12,030 --> 00:03:15,160
+Hum, opa, ele está falando de 'refine' ou de alguma outra coisa?
+
+69
+00:03:15,160 --> 00:03:20,580
+O que você acabou de falar, é o RISC-V, RISC-V. Aquele que está sob a Linux Foundation. Ah, sim, acho que ouvi certo.
+
+70
+00:03:20,580 --> 00:03:24,000
+Hum, mas por que dizem que essa coisa vai bombar?
+
+71
+00:03:24,000 --> 00:03:28,940
+É que, de fato, há uns dois anos, ele foi incorporado à fundação Linux.
+
+72
+00:03:28,940 --> 00:03:30,700
+Mas pouca gente se aventurava nisso.
+
+73
+00:03:30,700 --> 00:03:33,560
+Mas, nos últimos dois anos, alguns colegas descobriram...
+
+74
+00:03:33,560 --> 00:03:38,400
+Algumas pessoas perceberam que o setor realmente precisava de uma padronização.
+
+75
+00:03:38,400 --> 00:03:40,450
+e assim reduzir o tempo de desenvolvimento de todo mundo.
+
+76
+00:03:40,450 --> 00:03:45,250
+E acontece que essa nova solução seguiu justamente o modelo original do Linux.
+
+77
+00:03:45,250 --> 00:03:47,350
+Ou seja, o driver do dispositivo é separado, sabe?
+
+78
+00:03:47,350 --> 00:03:51,320
+Então, por isso, muitos fabricantes começaram a integrar seus produtos com ele.
+
+79
+00:03:51,320 --> 00:03:54,260
+E isso reduziu bastante a dificuldade de desenvolvimento para muitos produtos e empresas.
+
+80
+00:03:54,260 --> 00:03:58,130
+Hum, seu desempenho em tempo real também é bem aceitável, eu diria.
+
+81
+00:03:58,130 --> 00:03:58,890
+Não que seja o melhor,
+
+82
+00:03:58,890 --> 00:04:04,240
+De qualquer forma, nos últimos dois anos, na verdade, do ano passado para cá, ele voltou a ganhar força.
+
+83
+00:04:08,580 --> 00:04:15,440
+Na verdade, o Zephyr é, uh, muito adequado para o desenvolvimento assistido por IA que temos hoje em dia.
+
+84
+00:04:15,440 --> 00:04:19,760
+Isso porque seus processos de teste de software, CICD e todo o fluxo são muito completos.
+
+85
+00:04:19,760 --> 00:04:23,900
+Ah, é perfeito para um ciclo completo de desenvolvimento de IA.
+
+86
+00:04:23,900 --> 00:04:29,529
+Ele perguntou se, hoje em dia, vale a pena ir para uma startup de chips de IA, uma fabricante de chips de IA para dispositivos.
+
+87
+00:04:29,529 --> 00:04:30,630
+Se você está disposto a se dedicar,
+
+88
+00:04:30,630 --> 00:04:32,130
+Eu acho que vale a pena.
+
+89
+00:04:32,130 --> 00:04:34,050
+Mas a condição é que tenha um especialista lá dentro, sabe?
+
+90
+00:04:34,050 --> 00:04:37,150
+Não entre para ficar摸索ando as coisas sozinho, não faz o menor sentido.
+
+91
+00:04:37,150 --> 00:04:39,740
+É, tem que ter um especialista pra te guiar.
+
+92
+00:04:39,740 --> 00:04:43,830
+Isso, você tem que, tem que...
+
+93
+00:04:43,830 --> 00:04:49,029
+Você pode pesquisar um pouco, ou então perguntar na entrevista sobre a experiência da equipe de software.
+
+94
+00:04:49,029 --> 00:04:50,550
+Pergunte sobre essas coisas.
+
+95
+00:04:53,700 --> 00:04:56,500
+É, entrar em uma empresa sem ninguém pra te guiar é realmente um pouco difícil.
+
+96
+00:04:56,500 --> 00:04:57,860
+Sendo sincero,
+
+97
+00:04:59,779 --> 00:05:01,660
+Senão, você vai ficar esperando a vida toda.
+

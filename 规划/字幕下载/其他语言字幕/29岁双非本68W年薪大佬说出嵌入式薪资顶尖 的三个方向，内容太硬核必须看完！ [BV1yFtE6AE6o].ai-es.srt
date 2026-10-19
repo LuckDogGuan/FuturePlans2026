@@ -1,0 +1,684 @@
+﻿1
+00:00:00,040 --> 00:00:03,279
+Entonces, en tu opinión, tanto en términos de sueldo como de perspectivas de desarrollo,
+
+2
+00:00:03,279 --> 00:00:05,600
+El que está por todo lo alto, el de nivel uno,
+
+3
+00:00:05,600 --> 00:00:07,240
+El nivel uno es...
+
+4
+00:00:07,240 --> 00:00:08,380
+Eh... y esa es la arquitectura de software.
+
+5
+00:00:08,380 --> 00:00:11,289
+La segunda... eh... la seguridad funcional.
+
+6
+00:00:12,420 --> 00:00:14,280
+La tercera opción es un poco arriesgada.
+
+7
+00:00:14,280 --> 00:00:16,560
+me refiero a desarrollar protocolos de código abierto y pilas de protocolos.
+
+8
+00:00:16,560 --> 00:00:17,579
+Es un poco arriesgado.
+
+9
+00:00:17,579 --> 00:00:19,940
+Ahí es cuando lo haces con una mentalidad totalmente especulativa, como si fuera una apuesta.
+
+10
+00:00:19,940 --> 00:00:21,920
+Bueno, eso es un poco como lanzar un startup.
+
+11
+00:00:21,920 --> 00:00:23,300
+De hecho, yo tuve la oportunidad de hacerlo.
+
+12
+00:00:23,300 --> 00:00:23,940
+Pero al final no lo hice.
+
+13
+00:00:23,940 --> 00:00:26,760
+Ah, ¿así que también has trabajado en seguridad funcional?
+
+14
+00:00:26,760 --> 00:00:30,460
+Sí, ¿tú crees que la seguridad funcional tiene futuro?
+
+15
+00:00:30,460 --> 00:00:32,340
+La seguridad funcional, hablando en serio, si la llegas a dominar bien...
+
+16
+00:00:32,340 --> 00:00:34,260
+Es el más... no, es la segunda área con más futuro, ¿no?
+
+17
+00:00:34,260 --> 00:00:36,589
+No diría que es el segundo, pero sí que tiene bastante futuro.
+
+18
+00:00:36,589 --> 00:00:37,469
+Es que ya no se trata de si es el primero o el segundo.
+
+19
+00:00:37,469 --> 00:00:38,668
+Yo creo que esto ya es...
+
+20
+00:00:38,668 --> 00:00:41,149
+Porque en el futuro, para cualquier producto que se desarrolle,
+
+21
+00:00:41,149 --> 00:00:43,120
+Es indispensable que tenga seguridad funcional.
+
+22
+00:00:43,120 --> 00:00:47,000
+Pero, en seguridad funcional, dicen que no se programa.
+
+23
+00:00:47,320 --> 00:00:49,220
+¿Y quién ha dicho que en seguridad funcional no se programa?
+
+24
+00:00:49,220 --> 00:00:50,600
+En seguridad funcional no se escribe código.
+
+25
+00:00:50,600 --> 00:00:53,080
+¿Y cómo sabes si es seguro o no?
+
+26
+00:00:53,080 --> 00:00:56,720
+En comparación con la seguridad funcional, ¿qué crees que tiene más futuro ahora mismo?
+
+27
+00:00:56,720 --> 00:00:58,580
+Entonces, ¿qué es más prometedor que la seguridad funcional?
+
+28
+00:00:58,580 --> 00:01:01,240
+Yo diría que la seguridad funcional y el arquitecto de sistemas...
+
+29
+00:01:01,240 --> 00:01:02,940
+Están prácticamente a la par.
+
+30
+00:01:02,940 --> 00:01:03,680
+Pero para hacerlo bien de verdad...
+
+31
+00:01:03,680 --> 00:01:05,360
+Es que de verdad, la arquitectura de sistemas...
+
+32
+00:01:05,360 --> 00:01:08,819
+A ver, cuando dices 'arquitectura de sistemas', ¿a qué tipo de arquitectura te refieres?
+
+33
+00:01:08,819 --> 00:01:10,420
+Me refiero a la arquitectura de sistemas en el ámbito del software.
+
+34
+00:01:10,420 --> 00:01:12,860
+No me refiero a la clasificación del producto o a su posicionamiento en el mercado.
+
+35
+00:01:12,860 --> 00:01:15,110
+¿A qué tipo de arquitectura te refieres?
+
+36
+00:01:15,110 --> 00:01:16,870
+La arquitectura también se divide en muchos tipos.
+
+37
+00:01:16,870 --> 00:01:20,950
+Por ejemplo, que seas arquitecto de sistemas operativos o arquitecto jefe.
+
+38
+00:01:20,950 --> 00:01:23,190
+Un arquitecto jefe que trabaja con los clientes del producto,
+
+39
+00:01:23,190 --> 00:01:27,340
+o las necesidades que te comunican tus comerciales.
+
+40
+00:01:27,340 --> 00:01:28,810
+Una vez que has integrado todo esto,
+
+41
+00:01:28,810 --> 00:01:31,830
+Tienes que saber cómo implementar exactamente esta función.
+
+42
+00:01:31,830 --> 00:01:33,850
+Por ejemplo, el diseño de la arquitectura para el chip que mencioné.
+
+43
+00:01:33,850 --> 00:01:36,430
+Una vez que se integran todos estos requisitos,
+
+44
+00:01:36,430 --> 00:01:39,450
+Primero, tiene que pensar en la seguridad funcional y en cómo implementarla.
+
+45
+00:01:39,450 --> 00:01:41,090
+y también se incluye la seguridad funcional.
+
+46
+00:01:41,090 --> 00:01:44,360
+para al final crear la función que el cliente necesita.
+
+47
+00:01:44,360 --> 00:01:47,360
+Por ejemplo, una de las funciones que desarrollamos antes...
+
+48
+00:01:47,360 --> 00:01:48,420
+hicimos una EMU,
+
+49
+00:01:48,420 --> 00:01:51,300
+Este es precisamente el tipo de chip que muchos clientes y empresas utilizaban en aquel entonces.
+
+50
+00:01:51,300 --> 00:01:52,180
+Ni siquiera las empresas tenían esa función.
+
+51
+00:01:52,180 --> 00:01:55,280
+Agrupa todas, eh... todas las señales de error de ese tipo.
+
+52
+00:01:55,280 --> 00:01:58,160
+Todo se integró en una unidad de gestión.
+
+53
+00:01:58,160 --> 00:01:59,539
+Dentro de una EMU.
+
+54
+00:01:59,539 --> 00:02:04,910
+Esta EMU te permite controlar si ese error se le notifica o no a la CPU.
+
+55
+00:02:04,910 --> 00:02:07,230
+o si simplemente genera una interrupción de software, o algo por el estilo.
+
+56
+00:02:07,230 --> 00:02:09,810
+eh... sin realizar un procesamiento muy complejo.
+
+57
+00:02:09,810 --> 00:02:10,970
+Es decir, se puede controlar si se procesa o no.
+
+58
+00:02:10,970 --> 00:02:13,150
+determinados permisos para gestionar este error.
+
+59
+00:02:13,150 --> 00:02:14,410
+Una vez que se desarrolla esto,
+
+60
+00:02:14,410 --> 00:02:16,880
+De hecho, esto es muy beneficioso para los vehículos.
+
+61
+00:02:16,880 --> 00:02:19,000
+Así, el cliente puede decidir por sí mismo cuál es más importante.
+
+62
+00:02:19,000 --> 00:02:19,639
+y cuál no lo es.
+
+63
+00:02:19,639 --> 00:02:21,900
+A diferencia de ahora, que todo se reporta de forma unificada.
+
+64
+00:02:21,900 --> 00:02:23,900
+Las interrupciones se agrupan en una sola línea de interrupción.
+
+65
+00:02:23,900 --> 00:02:27,280
+Y en esa interrupción se incluyen a su vez muchas advertencias y errores.
+
+66
+00:02:27,280 --> 00:02:28,440
+Por lo tanto, no es algo bueno.
+
+67
+00:02:28,440 --> 00:02:30,460
+Te refieres a la arquitectura de sistemas.
+
+68
+00:02:30,460 --> 00:02:34,580
+Su función es transformar las necesidades del cliente en...
+
+69
+00:02:34,580 --> 00:02:38,220
+y lo va describiendo hasta convertirlo en algo realizable.
+
+70
+00:02:38,220 --> 00:02:41,780
+Quizás hablas de la tecnología y también del diseño de arquitectura.
+
+71
+00:02:41,780 --> 00:02:43,560
+Diseño de arquitectura de software.
+
+72
+00:02:43,560 --> 00:02:46,440
+Pero es como si todo esto consistiera en escribir documentación.
+
+73
+00:02:46,440 --> 00:02:49,130
+¿Cómo demuestra su valía si no ha estado escribiendo código de verdad?
+
+74
+00:02:49,130 --> 00:02:49,850
+Como en tu caso,
+
+75
+00:02:49,850 --> 00:02:51,650
+Entonces, ¿cómo demuestra lo bueno que es?
+
+76
+00:02:51,650 --> 00:02:53,579
+Tiende más a redactar documentación.
+
+77
+00:02:53,579 --> 00:02:56,139
+Pero si tu capacidad para programar no es suficiente,
+
+78
+00:02:56,139 --> 00:02:57,299
+te limitarás a escribir documentación sin fundamento.
+
+79
+00:02:57,299 --> 00:02:58,419
+simplemente no podrás hacerlo.
+
+80
+00:02:58,419 --> 00:03:00,379
+O si lo escribes sin entender realmente de qué va,
+
+81
+00:03:00,379 --> 00:03:05,240
+Si lo escribes, los demás pensarán que no sirves para nada.
+
+82
+00:03:05,240 --> 00:03:07,700
+Es que no sé ni cómo describirlo.
+
+83
+00:03:07,700 --> 00:03:11,330
+¿Quieres decir que para dedicarse a esto,
+
+84
+00:03:11,330 --> 00:03:14,490
+Por ejemplo, el requisito de software, que consiste en definir para otros la arquitectura e interfaz de este.
+
+85
+00:03:14,490 --> 00:03:19,200
+Sí, y esto es muy cotizado en las fábricas de semiconductores.
+
+86
+00:03:19,200 --> 00:03:22,600
+Pero dicen que la arquitectura de software puede ser fácilmente reemplazada por la IA.
+
+87
+00:03:22,600 --> 00:03:23,800
+No, la cosa hay que verla de esta manera.
+
+88
+00:03:23,800 --> 00:03:25,860
+En el futuro, la IA sustituirá todo.
+
+89
+00:03:25,860 --> 00:03:29,419
+¿Y qué tan alto es el sueldo de un arquitecto de software en su empresa?
+
+90
+00:03:30,540 --> 00:03:33,940
+No lo sé. El caso es que en nuestra empresa ahora mismo no tenemos arquitectos de software.
+
+91
+00:03:34,220 --> 00:03:35,380
+Entonces, dedicarse a la arquitectura de software...
+
+92
+00:03:35,380 --> 00:03:36,060
+De los que has conocido...
+
+93
+00:03:36,060 --> 00:03:38,780
+Y en qué aspectos sientes que es especialmente bueno?
+
+94
+00:03:38,780 --> 00:03:40,120
+Aparte de escribir código,
+
+95
+00:03:40,120 --> 00:03:44,270
+Él puede trabajar con los módulos que se encuentran dentro de los chips.
+
+96
+00:03:44,270 --> 00:03:46,410
+Cualquiera que sea el módulo, eh...
+
+97
+00:03:46,410 --> 00:03:46,850
+Le hablabas de...
+
+98
+00:03:46,850 --> 00:03:48,860
+Básicamente, te lo puede explicar todo claramente.
+
+99
+00:03:48,860 --> 00:03:50,800
+Lo que más recuerdo es que ese tipo era increíble.
+
+100
+00:03:50,800 --> 00:03:51,980
+Entonces, ¿significa eso que...?
+
+101
+00:03:51,980 --> 00:03:53,860
+Por ejemplo, los bloqueos en el núcleo interno...
+
+102
+00:03:53,860 --> 00:03:54,860
+cómo se usaba exactamente.
+
+103
+00:03:55,900 --> 00:03:58,240
+Y luego también están los conjuntos de instrucciones.
+
+104
+00:03:58,240 --> 00:03:59,900
+por qué tenemos que hacerlo de esa manera... pero yo...
+
+105
+00:03:59,900 --> 00:04:02,850
+Lo que me explicó es sobre el MBIST.
+
+106
+00:04:02,850 --> 00:04:03,670
+y el MMU,
+
+107
+00:04:03,670 --> 00:04:05,050
+Y también la MMU.
+
+108
+00:04:05,050 --> 00:04:08,370
+Pero, ¿cómo se realiza esta asignación exactamente?
+
+109
+00:04:08,370 --> 00:04:09,570
+¿Por qué solo tiene unas pocas marcas de agua?
+
+110
+00:04:09,570 --> 00:04:11,000
+y poder lograr una función tan potente.
+
+111
+00:04:11,000 --> 00:04:12,800
+Puede generar un diagrama muy rápidamente.
+
+112
+00:04:12,800 --> 00:04:14,120
+Y te lo explica punto por punto.
+
+113
+00:04:14,120 --> 00:04:15,440
+En fin, es muy potente.
+
+114
+00:04:15,440 --> 00:04:16,820
+Te ayuda a entenderlo todo muy rápido.
+
+115
+00:04:16,820 --> 00:04:18,140
+Seguro que ha trabajado en estas cosas.
+
+116
+00:04:18,140 --> 00:04:19,940
+Solo así puede decir ese tipo de cosas.
+
+117
+00:04:19,940 --> 00:04:23,110
+Entonces, en tu opinión, actualmente, en comparación con la seguridad funcional...
+
+118
+00:04:23,110 --> 00:04:26,310
+Entonces, ¿crees que la dirección con más futuro es la arquitectura de software?
+
+119
+00:04:26,310 --> 00:04:27,700
+Exacto.
+
+120
+00:04:27,700 --> 00:04:29,520
+En comparación con la seguridad funcional,
+
+121
+00:04:29,520 --> 00:04:33,839
+Lo mejor de todo es dedicarse a la arquitectura de software.
+
+122
+00:04:33,839 --> 00:04:37,600
+Además, en seguridad funcional, se pueden aprender algunas funciones específicas de la industria.
+
+123
+00:04:37,600 --> 00:04:39,430
+acerca de algunas definiciones de seguridad funcional.
+
+124
+00:04:39,430 --> 00:04:41,510
+Por ejemplo, para lo referente a los vehículos.
+
+125
+00:04:41,510 --> 00:04:43,230
+De hecho, estas definiciones de seguridad funcional son muy complejas.
+
+126
+00:04:43,230 --> 00:04:45,110
+La documentación al respecto es enorme.
+
+127
+00:04:45,110 --> 00:04:46,589
+que le puedes dedicar tiempo a estudiarlas a fondo,
+
+128
+00:04:46,589 --> 00:04:48,650
+Por lo general, las empresas más grandes,
+
+129
+00:04:48,650 --> 00:04:50,810
+Incluso crean un departamento específico para esto.
+
+130
+00:04:50,810 --> 00:04:52,490
+departamento encarga a alguien de estudiar a fondo esos manuales.
+
+131
+00:04:52,490 --> 00:04:55,210
+Porque tu software no cumple con esos requisitos.
+
+132
+00:04:55,210 --> 00:04:56,460
+y tampoco podrás obtener la certificación.
+
+133
+00:04:56,460 --> 00:05:00,420
+Entonces, ¿cómo crees que se puede llegar a ser arquitecto de software en el futuro?
+
+134
+00:05:00,420 --> 00:05:01,820
+Eso es lo que mucha gente quiere hacer.
+
+135
+00:05:01,820 --> 00:05:02,779
+Pero se me hace muy difícil.
+
+136
+00:05:02,779 --> 00:05:04,140
+No es algo que esté al alcance de cualquiera.
+
+137
+00:05:04,140 --> 00:05:08,039
+Yo creo que ahora ya no es tan difícil como lo era cuando empecé a estudiar hace dos años.
+
+138
+00:05:08,039 --> 00:05:09,639
+¿Cuál es tu método de estudio?
+
+139
+00:05:09,639 --> 00:05:11,750
+¿Te dedicas a la arquitectura de software?
+
+140
+00:05:11,750 --> 00:05:12,890
+Ahora mismo no lo hago.
+
+141
+00:05:12,890 --> 00:05:14,529
+Todavía no he llegado a ese nivel.
+
+142
+00:05:14,529 --> 00:05:16,089
+Y para dedicarse a la arquitectura de software...
+
+143
+00:05:16,089 --> 00:05:17,870
+¿Qué habilidades se necesitan?
+
+144
+00:05:17,870 --> 00:05:20,029
+Que tengas la paciencia de leer los manuales.
+
+145
+00:05:20,029 --> 00:05:22,320
+Porque, en realidad, ese conocimiento es algo estático.
+
+146
+00:05:22,320 --> 00:05:24,200
+¿Y por qué digo que ahora es más fácil que hace un par de años?
+
+147
+00:05:24,200 --> 00:05:25,180
+Porque ahora contamos con la IA.
+
+148
+00:05:25,180 --> 00:05:27,039
+A la IA se la ha alimentado muy bien.
+
+149
+00:05:27,039 --> 00:05:27,999
+ya es capaz
+
+150
+00:05:27,999 --> 00:05:29,119
+Si no entiendes un manual, se lo preguntas.
+
+151
+00:05:29,119 --> 00:05:30,880
+y te lo explica todo con todo detalle.
+
+152
+00:05:30,880 --> 00:05:35,260
+Entonces, en su caso, ¿cómo es ese proceso de desglosar los requisitos en cada módulo funcional?
+
+153
+00:05:35,260 --> 00:05:37,140
+Entonces, ¿cómo se puede desarrollar esta habilidad?
+
+154
+00:05:37,140 --> 00:05:39,120
+Yo creo que esta habilidad...
+
+155
+00:05:39,120 --> 00:05:43,290
+En fin, mi principio siempre ha sido ir directamente a los módulos del manual.
+
+156
+00:05:43,290 --> 00:05:45,070
+Pero no sé cómo será ahora con la integración de la IA.
+
+157
+00:05:45,070 --> 00:05:46,029
+Entonces, ¿qué buenos métodos de estudio hay para empezar?
+
+158
+00:05:46,029 --> 00:05:48,759
+Pero yo creo que el conocimiento que adquieres es lo que de verdad es tuyo.
+
+159
+00:05:48,759 --> 00:05:50,639
+Así que, para ser sincero, mi opinión sobre la IA es que...
+
+160
+00:05:50,639 --> 00:05:52,199
+Últimamente, es algo que también me atrae mucho.
+
+161
+00:05:52,199 --> 00:05:54,069
+Pero la verdad es que no se me da muy bien usarlo.
+
+162
+00:05:54,069 --> 00:05:55,789
+Así que, básicamente, sigo estando en el nivel de hacerlo todo manualmente.
+
+163
+00:05:55,789 --> 00:05:58,988
+Entonces, ¿en tu opinión, tanto en términos de sueldo como de perspectivas de desarrollo?
+
+164
+00:05:58,988 --> 00:06:02,940
+el más alto es el nivel uno, el que está rompiendo todos los esquemas.
+
+165
+00:06:02,940 --> 00:06:04,060
+Eh... me refiero a la arquitectura de software.
+
+166
+00:06:04,060 --> 00:06:06,990
+El segundo, eh... la seguridad funcional.
+
+167
+00:06:08,120 --> 00:06:09,980
+La tercera opción es algo arriesgada.
+
+168
+00:06:09,980 --> 00:06:12,260
+Me gusta, deja un "666" en los comentarios y síguenos para ver en el próximo episodio a un experto analizar las tendencias de cada sector. Se trata de los protocolos de código abierto y las pilas de protocolos.
+
+169
+00:06:12,260 --> 00:06:13,279
+Ya sabes, darle a 'me gusta', dejar 666 en los comentarios y suscribirte para ver al experto desglosar el panorama de cada sector en el próximo episodio. Pero esto último ya es un poco una apuesta.
+
+170
+00:06:13,279 --> 00:06:15,640
+Entonces, eso ya es hacerlo a la desesperada, como si fuera una apuesta.
+
+171
+00:06:15,640 --> 00:06:17,760
+Eso podría ser algo parecido a empezar una empresa.
+

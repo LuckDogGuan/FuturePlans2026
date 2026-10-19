@@ -1,0 +1,244 @@
+﻿1
+00:00:00,000 --> 00:00:02,330
+So, with AI having such a big impact,
+
+2
+00:00:02,330 --> 00:00:04,490
+Some companies might just stop hiring fresh graduates altogether.
+
+3
+00:00:04,490 --> 00:00:06,650
+And I think that's the biggest impact right there.
+
+4
+00:00:06,650 --> 00:00:10,230
+Honestly, AI right now is getting kind of ridiculous.
+
+5
+00:00:10,230 --> 00:00:12,030
+Anyway, for me, it was back in December 2022.
+
+6
+00:00:12,030 --> 00:00:13,070
+That's when I started using AI.
+
+7
+00:00:13,070 --> 00:00:14,590
+Back then, there were very few AI tools available.
+
+8
+00:00:14,590 --> 00:00:16,829
+Even if you just asked it to help write a benchmark or a Makefile, it couldn't...
+
+9
+00:00:16,829 --> 00:00:19,280
+It would take forever to get it to write something.
+
+10
+00:00:19,280 --> 00:00:20,680
+But not anymore. It's a whole different story now.
+
+11
+00:00:20,680 --> 00:00:22,680
+Anyway, he feels like he's improving really quickly.
+
+12
+00:00:22,680 --> 00:00:23,160
+It's insane, right?
+
+13
+00:00:23,160 --> 00:00:27,030
+Anyway, my take is, for engineers at the application layer...
+
+14
+00:00:27,030 --> 00:00:29,210
+Especially engineers who tune motors.
+
+15
+00:00:29,210 --> 00:00:31,270
+I suspect they might be replaced in the future because...
+
+16
+00:00:31,270 --> 00:00:34,620
+I mean, they're always just tweaking those same three parameters, right?
+
+17
+00:00:34,620 --> 00:00:36,800
+Basically, you'll just let AI handle those three parameters in the future anyway.
+
+18
+00:00:36,800 --> 00:00:39,940
+Like, for example, take the CAN bus. In the past, you'd use, you know, a CAN bus.
+
+19
+00:00:39,940 --> 00:00:42,260
+like with MATLAB, you get that parameter feedback, right?
+
+20
+00:00:42,260 --> 00:00:43,440
+and you'd just keep tweaking those values, right?
+
+21
+00:00:43,440 --> 00:00:44,220
+and then you can just hand it over to the AI.
+
+22
+00:00:44,220 --> 00:00:45,340
+As long as it has all these things...
+
+23
+00:00:45,340 --> 00:00:47,100
+It'll definitely get the job done way faster than a human.
+
+24
+00:00:47,100 --> 00:00:52,040
+So, look, I feel like some jobs are definitely at risk here.
+
+25
+00:00:52,040 --> 00:00:53,080
+So, everyone is still here.
+
+26
+00:00:53,080 --> 00:00:54,920
+So anyway, it's something you'll have to think about carefully for yourself.
+
+27
+00:00:54,920 --> 00:00:57,800
+So, with AI's impact being felt,
+
+28
+00:00:57,800 --> 00:01:02,420
+So, for our friends who want to get into the embedded field, is it going to be harder or easier now?
+
+29
+00:01:02,420 --> 00:01:03,480
+If we're talking about learning...
+
+30
+00:01:03,480 --> 00:01:04,319
+It's definitely getting easier.
+
+31
+00:01:04,319 --> 00:01:05,140
+But if you're trying to get into the field...
+
+32
+00:01:05,140 --> 00:01:07,770
+To be honest, I don't think there's a huge difference over these next couple of years for getting into the field.
+
+33
+00:01:07,770 --> 00:01:10,270
+But in a couple of years, I think that might change.
+
+34
+00:01:10,270 --> 00:01:12,190
+With AI having this kind of impact.
+
+35
+00:01:12,190 --> 00:01:13,780
+So, what do you think is going to happen in a couple of years?
+
+36
+00:01:13,780 --> 00:01:16,569
+So how will this be impacted?
+
+37
+00:01:16,569 --> 00:01:18,730
+Some companies might even stop hiring fresh graduates.
+
+38
+00:01:18,730 --> 00:01:21,250
+I think that's going to be the biggest impact.
+
+39
+00:01:21,250 --> 00:01:24,990
+In the future, companies will probably be looking for someone who's, like, super, super senior *and* knows how to use AI.
+
+40
+00:01:24,990 --> 00:01:28,910
+One person could be managing four or five different AIs, all working on tasks for them.
+
+41
+00:01:28,910 --> 00:01:31,130
+and their only job in the end is just to do a code review or something like that.
+
+42
+00:01:31,130 --> 00:01:32,730
+That's highly likely.
+
+43
+00:01:32,730 --> 00:01:35,569
+So, does that mean it's going to be really hard for fresh graduates to break into the embedded industry now?
+
+44
+00:01:35,569 --> 00:01:38,050
+They're all being replaced by people like you, who make 43k in just 5 years.
+
+45
+00:01:38,050 --> 00:01:42,890
+People with your salary will just be using AI to replace them.
+
+46
+00:01:42,890 --> 00:01:45,359
+They just won't be hiring beginners anymore.
+
+47
+00:01:45,359 --> 00:01:46,279
+So yeah, that's a very likely future.
+
+48
+00:01:46,279 --> 00:01:48,959
+But who knows? In the future, because AI is so powerful...
+
+49
+00:01:48,959 --> 00:01:51,159
+It could also help any recent graduate get up to speed quickly.
+
+50
+00:01:51,159 --> 00:01:54,420
+But at the end of the day, every job is still going to need someone to do it.
+
+51
+00:01:54,420 --> 00:01:55,940
+It's just that there might not be as many positions available.
+
+52
+00:01:55,940 --> 00:01:57,080
+At least, that's how I see it.
+
+53
+00:01:57,080 --> 00:02:00,940
+In fact, for this kind of work, entry-level positions will be massively reduced.
+
+54
+00:02:00,940 --> 00:02:03,990
+Right, so will the number of senior positions increase?
+
+55
+00:02:03,990 --> 00:02:05,890
+Senior positions might...
+
+56
+00:02:05,890 --> 00:02:07,630
+But the number of mid-level positions might actually increase.
+
+57
+00:02:07,630 --> 00:02:09,450
+But the number of mid-level positions might increase.
+
+58
+00:02:09,450 --> 00:02:11,810
+That's because there will be more mid-level positions opening up.
+
+59
+00:02:11,810 --> 00:02:13,169
+One person can do the work of one person.
+
+60
+00:02:13,169 --> 00:02:15,169
+In the future, one person could be managing two or three different AIs.
+
+61
+00:02:15,169 --> 00:02:17,340
+You'll be able to do the work of two or three people.
+

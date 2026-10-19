@@ -1,0 +1,692 @@
+﻿1
+00:00:00,000 --> 00:00:02,759
+43 mil vezes 16... Há quantos anos você trabalha?
+
+2
+00:00:02,759 --> 00:00:03,600
+Isso é incrível!
+
+3
+00:00:03,600 --> 00:00:04,700
+Há quantos anos você trabalha?
+
+4
+00:00:04,700 --> 00:00:07,100
+Em 5 anos e meio, qual é a sua formação?
+
+5
+00:00:07,100 --> 00:00:10,500
+Com 5,5 anos de experiência e uma graduação de uma universidade comum, dá pra entrar numa fabricante de chips?
+
+6
+00:00:10,500 --> 00:00:11,140
+K-nas.
+
+7
+00:00:11,140 --> 00:00:15,740
+Kinas, você tá aqui pra se gabar? Já foi barrado na hora pela sua formação.
+
+8
+00:00:15,740 --> 00:00:16,380
+Pinares.
+
+9
+00:00:16,380 --> 00:00:17,400
+Você tá se gabando, é?
+
+10
+00:00:17,400 --> 00:00:19,579
+Eu estou te questionando.
+
+11
+00:00:19,579 --> 00:00:21,000
+O apresentador te chamou pra conectar, conecta aí.
+
+12
+00:00:21,000 --> 00:00:22,520
+Então, eu vou sair primeiro.
+
+13
+00:00:22,520 --> 00:00:24,500
+Pode entrar na chamada, amigo. Beleza.
+
+14
+00:00:24,500 --> 00:00:27,680
+Hinus, o pessoal acha que você está se gabando.
+
+15
+00:00:27,680 --> 00:00:28,360
+Você entrou.
+
+16
+00:00:28,360 --> 00:00:30,240
+Alô, Hinus.
+
+17
+00:00:30,240 --> 00:00:33,810
+Você disse que ganha 43 mil, com 5 anos e meio de experiência e uma graduação de uma universidade comum.
+
+18
+00:00:33,810 --> 00:00:35,310
+Por que vocês acham que é mentira?
+
+19
+00:00:35,310 --> 00:00:36,870
+Trabalhar com software embarcado é realmente...
+
+20
+00:00:36,870 --> 00:00:39,840
+Vocês acham que a barreira de entrada para essa área é realmente muito alta?
+
+21
+00:00:39,840 --> 00:00:41,680
+Mas eles não acreditam em você, né?
+
+22
+00:00:41,680 --> 00:00:44,540
+Você só tem uma graduação de uma universidade comum e só trabalhou por 5 anos e meio.
+
+23
+00:00:44,540 --> 00:00:48,629
+Como assim 43 mil vezes 16?
+
+24
+00:00:48,629 --> 00:00:50,629
+Hum, eu não sei se vocês já pegaram
+
+25
+00:00:50,629 --> 00:00:53,069
+sobre os salários de 2020 a 2023.
+
+26
+00:00:53,069 --> 00:00:55,450
+Vocês já tiveram alguma noção dos salários das fabricantes de chips?
+
+27
+00:00:55,450 --> 00:00:58,610
+Naquela época, especialmente entre 2022 e 2023,
+
+28
+00:00:58,610 --> 00:01:02,410
+O salário de um estagiário era basicamente de 700 a 900 por dia.
+
+29
+00:01:02,410 --> 00:01:05,230
+Estágio em 2022, como assim?
+
+30
+00:01:05,230 --> 00:01:07,170
+De 22 a 23.
+
+31
+00:01:07,170 --> 00:01:11,270
+Vocês podem procurar no Boss Zhipin, ou em outros, para vagas de estágio.
+
+32
+00:01:11,270 --> 00:01:17,430
+Era por dia, isso, de 800 a 900 yuans.
+
+33
+00:01:17,430 --> 00:01:18,950
+Engenheiro de Software Embarcado, ou Design, ou DV.
+
+34
+00:01:18,950 --> 00:01:19,990
+ou de design.
+
+35
+00:01:19,990 --> 00:01:21,140
+ou DV,
+
+36
+00:01:21,140 --> 00:01:24,000
+Espera aí, afinal, você é ou não é...
+
+37
+00:01:24,000 --> 00:01:25,560
+Espera aí, você é uma pessoa qualquer?
+
+38
+00:01:25,560 --> 00:01:27,120
+Ou você já acompanha a Lixin há muito tempo.
+
+39
+00:01:27,120 --> 00:01:28,319
+Ou você veio só pra causar?
+
+40
+00:01:28,319 --> 00:01:30,100
+Primeiramente, eu com certeza não te conheço.
+
+41
+00:01:30,100 --> 00:01:31,160
+Deixa eu contar pra vocês como era na minha época.
+
+42
+00:01:31,160 --> 00:01:34,430
+Quando eu comecei na primeira empresa,
+
+43
+00:01:34,430 --> 00:01:37,350
+Logo que me formei, o salário era de 15 mil, com 15 meses de pagamento.
+
+44
+00:01:37,350 --> 00:01:39,230
+Vocês podem dar uma pesquisada sobre a segunda empresa.
+
+45
+00:01:39,230 --> 00:01:40,510
+Apesar de ter falido,
+
+46
+00:01:40,510 --> 00:01:42,160
+Porque a segunda empresa em que eu trabalhei faliu.
+
+47
+00:01:42,160 --> 00:01:43,720
+O nome dela é Xinli Zhineng.
+
+48
+00:01:43,720 --> 00:01:44,980
+Posso revelar uma coisa pra vocês.
+
+49
+00:01:44,980 --> 00:01:48,060
+Vocês podem dar uma olhada no salário médio dessa empresa.
+
+50
+00:01:48,060 --> 00:01:49,920
+Aí vocês vão entender o tamanho do meu aumento na segunda empresa.
+
+51
+00:01:49,920 --> 00:01:54,860
+Xinli Smart. O 'Xin' de 'xīnpiàn' (chip) e o 'Li' de 'lìzhì' (aspiração).
+
+52
+00:01:54,860 --> 00:01:57,740
+Então, na segunda empresa, a XINLI Smart...
+
+53
+00:01:57,740 --> 00:01:59,460
+Quando eu entrei na segunda empresa,
+
+54
+00:01:59,460 --> 00:02:02,720
+Eles me ofereceram 32 mil, com 15 salários fixos por ano.
+
+55
+00:02:02,720 --> 00:02:04,570
+Isso sem contar nenhum tipo de bônus por desempenho.
+
+56
+00:02:04,570 --> 00:02:07,550
+E também tinha um bônus de final de ano de 10%.
+
+57
+00:02:07,550 --> 00:02:10,090
+E esses 10% dependem do desempenho do ano.
+
+58
+00:02:10,090 --> 00:02:10,990
+Não é o fundamental.
+
+59
+00:02:10,990 --> 00:02:13,000
+Porque na época, a empresa ainda era uma startup.
+
+60
+00:02:13,000 --> 00:02:14,400
+não olhava para nenhum...
+
+61
+00:02:14,400 --> 00:02:15,300
+porque também não tinha receita.
+
+62
+00:02:15,300 --> 00:02:17,520
+Naquela época, o chefe era americano.
+
+63
+00:02:17,520 --> 00:02:20,520
+O que eles olham é o, uh... desempenho anual.
+
+64
+00:02:20,520 --> 00:02:24,240
+Ou seja, se as tarefas definidas nos sprints da empresa foram concluídas ou não, e em que quantidade.
+
+65
+00:02:24,240 --> 00:02:25,800
+Se a conclusão ficasse abaixo de 80%,
+
+66
+00:02:25,800 --> 00:02:27,620
+Aí eles pagam 10%, algo assim.
+
+67
+00:02:27,620 --> 00:02:29,540
+De qualquer forma, basicamente sempre tem esses 10% no ano.
+
+68
+00:02:29,540 --> 00:02:32,360
+um bônus de fim de ano de 10% do pacote total.
+
+69
+00:02:32,360 --> 00:02:34,970
+uma para o cockpit inteligente de um veículo.
+
+70
+00:02:34,970 --> 00:02:37,910
+É uma empresa de SoC do lado de IA.
+
+71
+00:02:37,910 --> 00:02:40,710
+Na verdade, esses salários chegam a ser de 700 a 900 por dia.
+
+72
+00:02:40,710 --> 00:02:41,829
+É o que eu posso dizer.
+
+73
+00:02:41,829 --> 00:02:43,669
+Ele disse que você está se gabando.
+
+74
+00:02:43,669 --> 00:02:44,788
+Se você não tivesse mudado de emprego, se naquela leva você não tivesse mudado de emprego e conseguido uma promoção,
+
+75
+00:02:44,788 --> 00:02:46,649
+Com certeza é um grande prejuízo.
+
+76
+00:02:46,649 --> 00:02:49,710
+Ele diz que eu tô me gabando. Se eu tô me gabando, ele pode ir no CSDN e procurar por um cara chamado...
+
+77
+00:02:49,710 --> 00:02:53,750
+Você pode procurar no CSDN por alguém chamado "Código-fonte do kernel de Qinghongshi".
+
+78
+00:02:53,750 --> 00:02:55,070
+Essa pessoa, isso.
+
+79
+00:02:55,070 --> 00:02:59,760
+Isso, vai no CSDN. No CSDN, o nome é... o nome da pessoa é "Código-fonte do kernel embarcado".
+
+80
+00:02:59,760 --> 00:03:02,120
+Essa ideia de que trabalhar com drivers não paga bem é um equívoco seu.
+
+81
+00:03:02,120 --> 00:03:03,200
+Se você trabalha com BSP, você...
+
+82
+00:03:03,200 --> 00:03:06,740
+Se você não entende o que é uma Instruction Set Architecture...
+
+83
+00:03:06,740 --> 00:03:08,470
+o seu salário com certeza vai ser muito baixo.
+
+84
+00:03:08,470 --> 00:03:10,590
+Mas, depois que você entende isso,
+
+85
+00:03:10,590 --> 00:03:12,470
+Você com certeza se tornará um especialista em nível de sistema.
+
+86
+00:03:12,470 --> 00:03:14,290
+Você pode se especializar na parte complexa da segurança funcional.
+
+87
+00:03:14,290 --> 00:03:15,030
+No lado do Linux, você já pode atuar.
+
+88
+00:03:15,030 --> 00:03:17,260
+um especialista em arquitetura,
+
+89
+00:03:17,260 --> 00:03:18,120
+Todos são caminhos de carreira possíveis.
+
+90
+00:03:18,120 --> 00:03:20,500
+Se você ficar insistindo em ficar só quebrando a cabeça com aqueles poucos registradores,
+
+91
+00:03:20,500 --> 00:03:22,880
+Depois que esse bit é configurado, quando ele se torna 1,
+
+92
+00:03:22,880 --> 00:03:23,780
+Ele foi enviado.
+
+93
+00:03:23,780 --> 00:03:25,300
+Mas, para mim, a parte de comunicação, por exemplo,
+
+94
+00:03:25,300 --> 00:03:26,600
+Falando nisso, sobre o CAN que vocês acabaram de mencionar.
+
+95
+00:03:26,600 --> 00:03:28,200
+Então, por que isso seria difícil?
+
+96
+00:03:28,200 --> 00:03:30,200
+Por exemplo, eu já desenvolvi Flash, CAN, MCAN...
+
+97
+00:03:30,200 --> 00:03:31,040
+E também o CAN Controller.
+
+98
+00:03:31,040 --> 00:03:32,060
+Eu já desenvolvi tudo isso.
+
+99
+00:03:32,060 --> 00:03:35,050
+Qual é a diferença disso para o UART, então?
+
+100
+00:03:35,050 --> 00:03:37,890
+Além do protocolo físico, ele realmente define algumas coisas.
+
+101
+00:03:37,890 --> 00:03:39,810
+Por exemplo, esse tipo de verificação de CRC.
+
+102
+00:03:39,810 --> 00:03:40,890
+E também tem um mecanismo anti-perda de dados.
+
+103
+00:03:40,890 --> 00:03:42,780
+e também alguns bits de redundância.
+
+104
+00:03:42,780 --> 00:03:45,500
+Mas, quando está lá, ele não sabe que, na verdade, uma interrupção ocorreu.
+
+105
+00:03:45,500 --> 00:03:46,300
+para verificar o status.
+
+106
+00:03:46,300 --> 00:03:47,220
+O que tem que enviar, envia.
+
+107
+00:03:47,220 --> 00:03:48,180
+E o que precisa receber, recebe.
+
+108
+00:03:48,180 --> 00:03:49,260
+Depois de entrar no tratamento de erro,
+
+109
+00:03:49,260 --> 00:03:50,880
+faça algum tratamento para o erro.
+
+110
+00:03:50,880 --> 00:03:51,760
+Não faz muita diferença.
+
+111
+00:03:51,760 --> 00:03:54,040
+Mas se você se limitar apenas ao software embarcado,
+
+112
+00:03:54,040 --> 00:03:57,289
+Você sempre acha que, no caso do Linux, sua função é apenas ficar modificando o device tree.
+
+113
+00:03:57,289 --> 00:04:00,519
+Por exemplo, se você trabalha com sistemas embarcados, ou digamos, com MCUs,
+
+114
+00:04:00,519 --> 00:04:03,370
+Você vai ficar sempre estagnado naqueles mesmos drivers de sempre.
+
+115
+00:04:03,370 --> 00:04:05,750
+seu salário vai ficar basicamente em torno de 25 mil.
+
+116
+00:04:05,750 --> 00:04:06,610
+Nem precisa pensar.
+
+117
+00:04:06,610 --> 00:04:07,530
+Você trabalha com sistemas embarcados,
+
+118
+00:04:07,530 --> 00:04:10,060
+Se você não for atrás daquela Arquitetura de Conjunto de Instruções,
+
+119
+00:04:10,060 --> 00:04:11,320
+Como você vai evoluir?
+
+120
+00:04:11,320 --> 00:04:12,260
+Em outras palavras,
+
+121
+00:04:12,260 --> 00:04:14,840
+Como você vai entender a MMU dentro do Linux?
+
+122
+00:04:14,840 --> 00:04:18,160
+Como ele faz o mapeamento daquele descritor de página?
+
+123
+00:04:18,160 --> 00:04:19,620
+Quando cada processo é trocado,
+
+124
+00:04:19,620 --> 00:04:21,040
+E como a tabela de páginas é trocada?
+
+125
+00:04:21,040 --> 00:04:23,070
+E você, já teve algum contato com esses assuntos?
+
+126
+00:04:23,070 --> 00:04:26,350
+Muitas pessoas acham que, no fim das contas, é só uma questão de... como eu posso dizer...
+
+127
+00:04:26,350 --> 00:04:28,390
+Apesar de que a minha formação acadêmica também seja bem comum,
+
+128
+00:04:28,390 --> 00:04:30,089
+Para aqueles das universidades 985 e 211,
+
+129
+00:04:30,089 --> 00:04:32,089
+Mas os funcionários que eu lidero agora...
+
+130
+00:04:32,089 --> 00:04:33,250
+no meu departamento,
+
+131
+00:04:33,250 --> 00:04:34,690
+A pessoa que eu lidero é de uma universidade 985/211, sim.
+
+132
+00:04:34,690 --> 00:04:37,240
+Então, de qualquer forma, vocês precisam abrir a mente.
+
+133
+00:04:37,240 --> 00:04:39,000
+E outra coisa, para os primeiros cinco anos após a formatura, o que eu recomendo é o seguinte:
+
+134
+00:04:39,000 --> 00:04:42,360
+A não ser que você esteja em um lugar como a Huawei,
+
+135
+00:04:42,360 --> 00:04:43,580
+e você entrou assim que se formou,
+
+136
+00:04:43,580 --> 00:04:44,640
+Se você se esforçar por mais uns dois anos,
+
+137
+00:04:44,640 --> 00:04:47,650
+Quando chegar a esse ponto e você estiver ganhando uns dois ou três milhões por ano, aí já não precisa mais pular de empresa.
+
+138
+00:04:47,650 --> 00:04:48,490
+Apesar de ser um pouco cansativo,
+
+139
+00:04:48,490 --> 00:04:49,130
+Mas, para ser sincero,
+
+140
+00:04:49,130 --> 00:04:50,529
+Comparado com o cenário geral lá fora,
+
+141
+00:04:50,529 --> 00:04:52,270
+É a melhor solução.
+
+142
+00:04:52,270 --> 00:04:53,670
+Se você não for
+
+143
+00:04:53,670 --> 00:04:55,550
+Se você não for como eu, com certeza a única opção é trocar de emprego.
+
+144
+00:04:55,550 --> 00:04:57,210
+A cada troca de emprego, o salário aumenta uns 50%.
+
+145
+00:04:57,210 --> 00:04:57,990
+Com um pouco de sorte,
+
+146
+00:04:57,990 --> 00:05:00,000
+Tipo, no meu primeiro ano, eu consegui um aumento de 100%.
+
+147
+00:05:00,000 --> 00:05:02,620
+Nos primeiros cinco anos, se tiver que mudar de emprego, mude.
+
+148
+00:05:02,620 --> 00:05:06,890
+Esqueça essa história de que o RH vai ficar analisando seu currículo, isso não existe.
+
+149
+00:05:06,890 --> 00:05:08,690
+O que eles olham na sua entrevista é, uhm, como posso dizer...
+
+150
+00:05:08,690 --> 00:05:10,730
+A entrevista é para avaliar a sua capacidade.
+
+151
+00:05:10,730 --> 00:05:12,330
+Você pode tentar uma startup, dar um salto na carreira numa empresa iniciante.
+
+152
+00:05:12,330 --> 00:05:16,270
+Depois dessa primeira mudança, você procura outra empresa, do tipo que está quase abrindo capital.
+
+153
+00:05:16,270 --> 00:05:18,850
+As empresas que eu estou procurando agora estão prestes a abrir o capital.
+
+154
+00:05:18,850 --> 00:05:20,490
+Agora é só esperar para colher os frutos.
+
+155
+00:05:20,490 --> 00:05:21,450
+Enfim, é o que eu digo.
+
+156
+00:05:21,450 --> 00:05:22,410
+Aí depende do que cada um pensa.
+
+157
+00:05:22,410 --> 00:05:23,370
+Enfim, é assim que eu sempre penso.
+
+158
+00:05:23,370 --> 00:05:25,330
+Para mim, essa questão de trocar de emprego, eu sou totalmente a favor.
+
+159
+00:05:25,330 --> 00:05:27,230
+Eu sou bem aberto, inclusive com a equipe que lidero.
+
+160
+00:05:27,230 --> 00:05:28,470
+As pessoas que eu lidero,
+
+161
+00:05:28,470 --> 00:05:30,190
+Aqueles que se formaram há apenas um ano.
+
+162
+00:05:30,190 --> 00:05:31,430
+Eu costumo sair para comer com eles em particular.
+
+163
+00:05:31,430 --> 00:05:33,010
+Eu começo a dar umas sugestões pra eles.
+
+164
+00:05:33,010 --> 00:05:35,170
+Ele disse que esse colega corrigiu você.
+
+165
+00:05:35,170 --> 00:05:36,970
+Ele disse que um salário de 500 mil é para o nível de diretor.
+
+166
+00:05:36,970 --> 00:05:38,428
+Só na área técnica não dá pra chegar lá.
+
+167
+00:05:38,428 --> 00:05:40,269
+Meu amigo, 500 mil é nível de diretor.
+
+168
+00:05:40,269 --> 00:05:40,909
+Agora, meu caro, você pode abrir o seu Google?
+
+169
+00:05:40,909 --> 00:05:43,990
+Você pode abrir o seu Google, ou o seu navegador?
+
+170
+00:05:43,990 --> 00:05:45,770
+Dá uma pesquisada em pessoas como o季胜章 (Ji Shengzhang).
+
+171
+00:05:45,770 --> 00:05:49,070
+Foi na época em que ele estava lá, na Xinli Zhineng, que eu tive a inspiração.
+
+172
+00:05:49,070 --> 00:05:50,428
+Espera aí, como é que era o nome?
+
+173
+00:05:50,428 --> 00:05:53,320
+Pode pesquisar direto por Linux, Linux.
+

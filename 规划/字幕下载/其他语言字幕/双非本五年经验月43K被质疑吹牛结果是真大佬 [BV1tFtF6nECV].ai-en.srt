@@ -1,0 +1,692 @@
+﻿1
+00:00:00,000 --> 00:00:02,759
+Forty-three thousand times sixteen. How many years have you been working?
+
+2
+00:00:02,759 --> 00:00:03,600
+Hey, H1nus.
+
+3
+00:00:03,600 --> 00:00:04,700
+So, how many years have you been working?
+
+4
+00:00:04,700 --> 00:00:07,100
+5.5 years. And what's your educational background?
+
+5
+00:00:07,100 --> 00:00:10,500
+So, with a regular bachelor's degree and 5.5 years of experience, can you get into a core chip-maker?
+
+6
+00:00:10,500 --> 00:00:11,140
+Kenas.
+
+7
+00:00:11,140 --> 00:00:15,740
+Hinus, are you just here to brag? You'd get rejected instantly because of your degree.
+
+8
+00:00:15,740 --> 00:00:16,380
+Penas.
+
+9
+00:00:16,380 --> 00:00:17,400
+You're just bragging, aren't you?
+
+10
+00:00:17,400 --> 00:00:19,579
+I'm calling you out.
+
+11
+00:00:19,579 --> 00:00:21,000
+The host is asking you to connect your mic.
+
+12
+00:00:21,000 --> 00:00:22,520
+Alright, I'll back off for now then.
+
+13
+00:00:22,520 --> 00:00:24,500
+Alright, go ahead and join the call, my friend. Okay.
+
+14
+00:00:24,500 --> 00:00:27,680
+Hey Hinus, people are saying you're just bragging.
+
+15
+00:00:27,680 --> 00:00:28,360
+Hey, you're on the line.
+
+16
+00:00:28,360 --> 00:00:30,240
+Hello, Hinus?
+
+17
+00:00:30,240 --> 00:00:33,810
+So you're claiming 43K, with 5.5 years of experience, from a non-elite tier 1 university?
+
+18
+00:00:33,810 --> 00:00:35,310
+So why do you think they're calling it bragging?
+
+19
+00:00:35,310 --> 00:00:36,870
+Working in embedded software is just something else.
+
+20
+00:00:36,870 --> 00:00:39,840
+Do you guys really think the barrier to entry for this field is that high?
+
+21
+00:00:39,840 --> 00:00:41,680
+But they just don't believe you.
+
+22
+00:00:41,680 --> 00:00:44,540
+You only graduated from a non-elite university, and you've only been working for 5.5 years.
+
+23
+00:00:44,540 --> 00:00:48,629
+How on earth did you get a salary of 43k times 16?
+
+24
+00:00:48,629 --> 00:00:50,629
+Uh, I don't know if you guys have ever...
+
+25
+00:00:50,629 --> 00:00:53,069
+salaries from 2020 to 2023
+
+26
+00:00:53,069 --> 00:00:55,450
+I wonder if you guys have ever looked into the salaries at the chip-makers themselves.
+
+27
+00:00:55,450 --> 00:00:58,610
+Back then, especially from '22 to '23,
+
+28
+00:00:58,610 --> 00:01:02,410
+For interns, the pay was basically 700 to 900 a day.
+
+29
+00:01:02,410 --> 00:01:05,230
+Yeah, internships back in 2022.
+
+30
+00:01:05,230 --> 00:01:07,170
+in 2022 and 2023.
+
+31
+00:01:07,170 --> 00:01:11,270
+You guys can go check out Boss Zhipin, or other platforms, for internships.
+
+32
+00:01:11,270 --> 00:01:17,430
+One day a month, right. And it's 800 to 900 RMB.
+
+33
+00:01:17,430 --> 00:01:18,950
+Embedded software engineers, or DI, or DV.
+
+34
+00:01:18,950 --> 00:01:19,990
+or design.
+
+35
+00:01:19,990 --> 00:01:21,140
+Or DV.
+
+36
+00:01:21,140 --> 00:01:24,000
+Hold on, what are you... are you or are you not...
+
+37
+00:01:24,000 --> 00:01:25,560
+Whoa, hold on. Are you just a bystander?
+
+38
+00:01:25,560 --> 00:01:27,120
+Or... have you been following Lixun for a long time?
+
+39
+00:01:27,120 --> 00:01:28,319
+Or are you just a troll?
+
+40
+00:01:28,319 --> 00:01:30,100
+Okay, first of all, I've definitely never met you before.
+
+41
+00:01:30,100 --> 00:01:31,160
+So, let me tell you about my situation back then.
+
+42
+00:01:31,160 --> 00:01:34,430
+So, when I first started at my first company,
+
+43
+00:01:34,430 --> 00:01:37,350
+When I first graduated, yeah, it was 15 times 15.
+
+44
+00:01:37,350 --> 00:01:39,230
+Now, about my second company, you can all go and look them up.
+
+45
+00:01:39,230 --> 00:01:40,510
+Even though it went bankrupt,
+
+46
+00:01:40,510 --> 00:01:42,160
+Because my second company went bankrupt.
+
+47
+00:01:42,160 --> 00:01:43,720
+It was called Xinli Intelligent.
+
+48
+00:01:43,720 --> 00:01:44,980
+I can give you guys a little inside scoop.
+
+49
+00:01:44,980 --> 00:01:48,060
+Go ahead and look up the average salary for this company.
+
+50
+00:01:48,060 --> 00:01:49,920
+and you'll see just how massive my pay raise was at the second company.
+
+51
+00:01:49,920 --> 00:01:54,860
+It's Xinli Intelligent. 'Xin' as in 'chip' (芯片/xinpian), and 'li' as in 'aspiration' or 'to strive' (励志/lizhi).
+
+52
+00:01:54,860 --> 00:01:57,740
+Right, so the second company, Xinli Smart.
+
+53
+00:01:57,740 --> 00:01:59,460
+So, when I joined that second company...
+
+54
+00:01:59,460 --> 00:02:02,720
+They offered me 32k, with a fixed 15-month salary.
+
+55
+00:02:02,720 --> 00:02:04,570
+and that's excluding any performance bonuses.
+
+56
+00:02:04,570 --> 00:02:07,550
+And on top of that, there was a 10% year-end bonus.
+
+57
+00:02:07,550 --> 00:02:10,090
+And that 10% depended on how the company did that year.
+
+58
+00:02:10,090 --> 00:02:10,990
+But that's not the fundamental part.
+
+59
+00:02:10,990 --> 00:02:13,000
+Because at the time, it was still a startup.
+
+60
+00:02:13,000 --> 00:02:14,400
+They didn't look at any of that.
+
+61
+00:02:14,400 --> 00:02:15,300
+Because we didn't have any revenue.
+
+62
+00:02:15,300 --> 00:02:17,520
+The boss at the time, he was an American.
+
+63
+00:02:17,520 --> 00:02:20,520
+What they look at is, uh, your performance for the year.
+
+64
+00:02:20,520 --> 00:02:24,240
+It's about the tasks set in the company's sprints, and how many of them you actually completed.
+
+65
+00:02:24,240 --> 00:02:25,800
+If the completion rate was below 80%,
+
+66
+00:02:25,800 --> 00:02:27,620
+So they'll just give you that 10% payout.
+
+67
+00:02:27,620 --> 00:02:29,540
+So basically, you're always guaranteed at least 10% at the end of the year.
+
+68
+00:02:29,540 --> 00:02:32,360
+a 10% year-end bonus on your total package.
+
+69
+00:02:32,360 --> 00:02:34,970
+It's for an in-car cockpit for an intelligent driving system.
+
+70
+00:02:34,970 --> 00:02:37,910
+This was a company that made SoCs for AI applications.
+
+71
+00:02:37,910 --> 00:02:40,710
+In fact, some salaries are already hitting 700 to 900 a day.
+
+72
+00:02:40,710 --> 00:02:41,829
+That's all I can say.
+
+73
+00:02:41,829 --> 00:02:43,669
+He said I was just bragging.
+
+74
+00:02:43,669 --> 00:02:44,788
+If you didn't switch jobs, and you missed that window, if you didn't make that move and couldn't prove your worth,
+
+75
+00:02:44,788 --> 00:02:46,649
+That's a huge loss, for real.
+
+76
+00:02:46,649 --> 00:02:49,710
+He says I'm just boasting. Well, if you think I'm bragging, he can go to CSDN and search for someone called...
+
+77
+00:02:49,710 --> 00:02:53,750
+You can go on CSDN and search for a user named 'Qinghongshi Kernel Source Code'.
+
+78
+00:02:53,750 --> 00:02:55,070
+Yeah, that's the guy.
+
+79
+00:02:55,070 --> 00:02:59,760
+Yeah, go to CSDN. What's his name? He's the one called 'Embedded Kernel Source Code'.
+
+80
+00:02:59,760 --> 00:03:02,120
+The idea that driver development doesn't pay well is a common misconception.
+
+81
+00:03:02,120 --> 00:03:03,200
+If you're working on BSPs, and you're not familiar with R...
+
+82
+00:03:03,200 --> 00:03:06,740
+instruction set architecture, if you don't understand this stuff,
+
+83
+00:03:06,740 --> 00:03:08,470
+your salary is going to be really low.
+
+84
+00:03:08,470 --> 00:03:10,590
+But once you get the hang of it,
+
+85
+00:03:10,590 --> 00:03:12,470
+you're definitely a system-level expert.
+
+86
+00:03:12,470 --> 00:03:14,290
+You could specialize in the complexities of functional safety.
+
+87
+00:03:14,290 --> 00:03:15,030
+On the Linux side, you could work on...
+
+88
+00:03:15,030 --> 00:03:17,260
+An architectural expert.
+
+89
+00:03:17,260 --> 00:03:18,120
+These are all potential career paths.
+
+90
+00:03:18,120 --> 00:03:20,500
+If you insist on just burying your head in those few registers and never moving on,
+
+91
+00:03:20,500 --> 00:03:22,880
+Say after you've configured this bit, once it's set to one,
+
+92
+00:03:22,880 --> 00:03:23,780
+then the message is sent.
+
+93
+00:03:23,780 --> 00:03:25,300
+But for me, take communication, for example.
+
+94
+00:03:25,300 --> 00:03:26,600
+And that CAN you guys were just talking about...
+
+95
+00:03:26,600 --> 00:03:28,200
+So, why is it considered difficult?
+
+96
+00:03:28,200 --> 00:03:30,200
+For instance, I've developed for Flash, CAN, and MCAN.
+
+97
+00:03:30,200 --> 00:03:31,040
+And then there's the CAN controller.
+
+98
+00:03:31,040 --> 00:03:32,060
+I've developed for all of them.
+
+99
+00:03:32,060 --> 00:03:35,050
+So, how is that any different from a UART?
+
+100
+00:03:35,050 --> 00:03:37,890
+Beyond the physical protocol, it does define some specific things, for sure.
+
+101
+00:03:37,890 --> 00:03:39,810
+Things like CRC checks, for example.
+
+102
+00:03:39,810 --> 00:03:40,890
+And also, there's this mechanism to prevent data loss.
+
+103
+00:03:40,890 --> 00:03:42,780
+And there's also some redundancy.
+
+104
+00:03:42,780 --> 00:03:45,500
+But the thing is, it doesn't know that an interrupt has actually come in.
+
+105
+00:03:45,500 --> 00:03:46,300
+to go check the status.
+
+106
+00:03:46,300 --> 00:03:47,220
+Time to send, time to send.
+
+107
+00:03:47,220 --> 00:03:48,180
+need to receive, need to receive.
+
+108
+00:03:48,180 --> 00:03:49,260
+Once an error is triggered,
+
+109
+00:03:49,260 --> 00:03:50,880
+and then handle the error accordingly.
+
+110
+00:03:50,880 --> 00:03:51,760
+It doesn't really make a difference.
+
+111
+00:03:51,760 --> 00:03:54,040
+But if you just stick to embedded software forever,
+
+112
+00:03:54,040 --> 00:03:57,289
+You'll always think, like, with Linux, you're just endlessly tweaking the device tree.
+
+113
+00:03:57,289 --> 00:04:00,519
+Take someone in embedded systems, or let's say, the ones working with MCUs.
+
+114
+00:04:00,519 --> 00:04:03,370
+You're just always stuck working on the same few drivers.
+
+115
+00:04:03,370 --> 00:04:05,750
+your salary will basically cap out at around 25K.
+
+116
+00:04:05,750 --> 00:04:06,610
+Don't even think about it.
+
+117
+00:04:06,610 --> 00:04:07,530
+If you're working in embedded systems,
+
+118
+00:04:07,530 --> 00:04:10,060
+If you don't dive into things like Instruction Set Architecture,
+
+119
+00:04:10,060 --> 00:04:11,320
+How are you supposed to advance?
+
+120
+00:04:11,320 --> 00:04:12,260
+Let me put it another way.
+
+121
+00:04:12,260 --> 00:04:14,840
+how could you possibly understand the MMU in Linux,
+
+122
+00:04:14,840 --> 00:04:18,160
+How does it map the page tables in?
+
+123
+00:04:18,160 --> 00:04:19,620
+And how, when each process is being switched,
+
+124
+00:04:19,620 --> 00:04:21,040
+And how does it switch the page table entries?
+
+125
+00:04:21,040 --> 00:04:23,070
+Have you ever looked into how any of that works?
+
+126
+00:04:23,070 --> 00:04:26,350
+You know, a lot of people think, well, it's just a kind of... how should I put it...
+
+127
+00:04:26,350 --> 00:04:28,390
+And my educational background is, you know, pretty ordinary.
+
+128
+00:04:28,390 --> 00:04:30,089
+And for those who went to a top-tier university,
+
+129
+00:04:30,089 --> 00:04:32,089
+But now, the employees I'm managing...
+
+130
+00:04:32,089 --> 00:04:33,250
+in my department,
+
+131
+00:04:33,250 --> 00:04:34,690
+The people I manage, they're from those tier-one universities.
+
+132
+00:04:34,690 --> 00:04:37,240
+So, what I'm saying is, you guys really need to broaden your horizons, anyway.
+
+133
+00:04:37,240 --> 00:04:39,000
+And my advice for the first five years after graduation is this:
+
+134
+00:04:39,000 --> 00:04:42,360
+Unless, you know, you're at a company like Huawei.
+
+135
+00:04:42,360 --> 00:04:43,580
+you get in right after you graduate.
+
+136
+00:04:43,580 --> 00:04:44,640
+Just grind it out for another two years,
+
+137
+00:04:44,640 --> 00:04:47,650
+At that point, once you've made it and are pulling in two or three million a year, then yeah, don't even think about jumping ship.
+
+138
+00:04:47,650 --> 00:04:48,490
+It's pretty exhausting, though.
+
+139
+00:04:48,490 --> 00:04:49,130
+But, to be honest...
+
+140
+00:04:49,130 --> 00:04:50,529
+Especially compared to the general job market out there,
+
+141
+00:04:50,529 --> 00:04:52,270
+it's the best solution out there.
+
+142
+00:04:52,270 --> 00:04:53,670
+But if you're not,
+
+143
+00:04:53,670 --> 00:04:55,550
+And if that's not you, if you're not like me, then changing jobs is pretty much the only way.
+
+144
+00:04:55,550 --> 00:04:57,210
+Getting a 50% raise every time you change jobs,
+
+145
+00:04:57,210 --> 00:04:57,990
+Or even better,
+
+146
+00:04:57,990 --> 00:05:00,000
+Like my first year, I got a 100% raise, for instance.
+
+147
+00:05:00,000 --> 00:05:02,620
+So, for your first five years, you should jump ship as often as you need to.
+
+148
+00:05:02,620 --> 00:05:06,890
+Forget about all that. Don't worry about things like HR thinking your resume is messy. That's just not a thing.
+
+149
+00:05:06,890 --> 00:05:08,690
+During interviews, what they're looking at is, uh... how should I put this...
+
+150
+00:05:08,690 --> 00:05:10,730
+Interviews are all about your skills.
+
+151
+00:05:10,730 --> 00:05:12,330
+Or, you could join a startup to make a leap in your career.
+
+152
+00:05:12,330 --> 00:05:16,270
+After you make that jump, you look for another company, one that's on the verge of an IPO.
+
+153
+00:05:16,270 --> 00:05:18,850
+The ones I'm looking at now are on the verge of going public.
+
+154
+00:05:18,850 --> 00:05:20,490
+And I'm just waiting to cash in on the benefits.
+
+155
+00:05:20,490 --> 00:05:21,450
+Look, let me just put it this way.
+
+156
+00:05:21,450 --> 00:05:22,410
+But hey, that's just how I see it.
+
+157
+00:05:22,410 --> 00:05:23,370
+Anyway, that's just how I've always seen it.
+
+158
+00:05:23,370 --> 00:05:25,330
+Yeah, as for me, I'm all for changing jobs.
+
+159
+00:05:25,330 --> 00:05:27,230
+I'm very open-minded, and that includes the people who report to me.
+
+160
+00:05:27,230 --> 00:05:28,470
+the people I mentor
+
+161
+00:05:28,470 --> 00:05:30,190
+Like, those who've just graduated a year ago.
+
+162
+00:05:30,190 --> 00:05:31,430
+I'd take them out for a meal privately,
+
+163
+00:05:31,430 --> 00:05:33,010
+And I'd start giving them advice.
+
+164
+00:05:33,010 --> 00:05:35,170
+He said, 'This guy is here to correct you.'
+
+165
+00:05:35,170 --> 00:05:36,970
+He said a 500k salary is at the Director level.
+
+166
+00:05:36,970 --> 00:05:38,428
+You can't get there just by doing tech work alone.
+
+167
+00:05:38,428 --> 00:05:40,269
+A Director-level role for 500k, bro.
+
+168
+00:05:40,269 --> 00:05:40,909
+Alright, my friend, do you have a moment to open up your Google...
+
+169
+00:05:40,909 --> 00:05:43,990
+Could you pull up Google, or just a browser, real quick?
+
+170
+00:05:43,990 --> 00:05:45,770
+Look up someone like Ji Shengzhang.
+
+171
+00:05:45,770 --> 00:05:49,070
+Back when he was at CentroMotion, that's where I got my inspiration.
+
+172
+00:05:49,070 --> 00:05:50,428
+Wait, what's it called again?
+
+173
+00:05:50,428 --> 00:05:53,320
+Just search for Linux. Linux.
+

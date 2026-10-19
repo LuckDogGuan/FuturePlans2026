@@ -1,0 +1,252 @@
+﻿1
+00:00:00,120 --> 00:00:03,770
+Dia bilang, apakah saya mengambil gelar master akan membantu meningkatkan gaji saya?
+
+2
+00:00:03,770 --> 00:00:06,370
+Apakah mengikuti ujian pascasarjana setelah bekerja dapat membantu meningkatkan gaji?
+
+3
+00:00:06,370 --> 00:00:08,130
+Jika Anda mengambil ujian masuk pascasarjana dan masuk ke universitas 985 atau 211
+
+4
+00:00:08,130 --> 00:00:09,590
+Tentu saja akan membantu.
+
+5
+00:00:09,590 --> 00:00:11,150
+Kuliah di universitas 985/211 itu membantu
+
+6
+00:00:11,150 --> 00:00:12,860
+92 tidak berguna.
+
+7
+00:00:12,860 --> 00:00:15,660
+Non-92, lebih baik Anda merekrut sarjana.
+
+8
+00:00:15,660 --> 00:00:18,730
+Oke, apakah berguna untuk mengikuti ujian non-gelar setelah bekerja?
+
+9
+00:00:18,730 --> 00:00:20,530
+Paruh waktu, tidak perlu mengikuti ujian.
+
+10
+00:00:20,530 --> 00:00:21,329
+Benar-benar buang-buang waktu.
+
+11
+00:00:21,329 --> 00:00:24,000
+Kecuali, kecuali kamu mau, tidak bisa dibilang buang-buang waktu
+
+12
+00:00:24,000 --> 00:00:25,239
+Anda bisa meningkatkan diri Anda
+
+13
+00:00:25,239 --> 00:00:26,760
+Tapi kalau kamu benar-benar hanya untuk bekerja
+
+14
+00:00:26,760 --> 00:00:29,080
+atau embedded khusus, tidak ada gunanya
+
+15
+00:00:29,080 --> 00:00:31,300
+Apa yang paling dicari perusahaan saat merekrut lulusan baru?
+
+16
+00:00:31,300 --> 00:00:34,440
+Salah satunya adalah kemampuan berbicara
+
+17
+00:00:34,440 --> 00:00:36,659
+Saya juga agak menghargai itu
+
+18
+00:00:36,659 --> 00:00:40,979
+Kedua, kompetisi apa yang dia ikuti di sekolah?
+
+19
+00:00:40,979 --> 00:00:42,900
+Saya akan sedikit tertarik dengan hal-hal seperti itu.
+
+20
+00:00:42,900 --> 00:00:48,900
+Juga apakah dia sendiri pernah menulis sesuatu.
+
+21
+00:00:48,900 --> 00:00:49,780
+Misalnya, saya juga akan tertarik pada blog semacam ini.
+
+22
+00:00:49,780 --> 00:00:51,220
+Terkadang saya juga tertarik
+
+23
+00:00:51,220 --> 00:00:52,659
+Pokoknya, selama itu terkait dengan teknologi dari berbagai aspek.
+
+24
+00:00:52,659 --> 00:00:53,680
+Saya akan tertarik.
+
+25
+00:00:53,680 --> 00:00:55,560
+Tidak akan terbatas pada apa pun.
+
+26
+00:00:55,560 --> 00:00:59,440
+Hmm, sebagai mahasiswa baru, pasti ada hal-hal menonjol darimu.
+
+27
+00:00:59,440 --> 00:01:02,080
+Anda tidak bisa hanya menaruhnya di sana.
+
+28
+00:01:02,610 --> 00:01:04,090
+Apakah MCU masih memiliki masa depan?
+
+29
+00:01:05,370 --> 00:01:05,890
+MCU
+
+30
+00:01:05,890 --> 00:01:10,860
+MCU, Anda pasti harus berkembang ke industri seperti yang baru saja saya sebutkan, bukan industri yang hanya untuk bersenang-senang.
+
+31
+00:01:10,860 --> 00:01:13,780
+Industri kendaraan pasti akan menjadi salah satu industri yang berkembang.
+
+32
+00:01:13,780 --> 00:01:18,850
+Saya juga tidak bisa mengatakan itu seperti sebelumnya, um, tidak ada apa-apa.
+
+33
+00:01:18,850 --> 00:01:20,490
+Anda pasti harus memiliki standar industri.
+
+34
+00:01:20,490 --> 00:01:24,260
+Yaitu, dengan pengembangan yang sangat spesifik untuk industri tersebut.
+
+35
+00:01:24,260 --> 00:01:26,080
+Kalau kamu benar-benar hanya ingin melakukan MCU
+
+36
+00:01:26,080 --> 00:01:28,800
+Juga, apa yang Anda maksud dengan standar industri?
+
+37
+00:01:28,800 --> 00:01:31,640
+Seperti fungsionalitas otomotif dan industri keselamatan.
+
+38
+00:01:31,640 --> 00:01:32,959
+sangat ketat dalam standar
+
+39
+00:01:32,959 --> 00:01:37,400
+Bukan berarti siapa pun bisa langsung melakukannya.
+
+40
+00:01:37,400 --> 00:01:39,760
+yaitu, terlepas dari standar kodenya
+
+41
+00:01:39,760 --> 00:01:40,520
+Spesifikasi pengujian
+
+42
+00:01:40,520 --> 00:01:43,780
+dan proses pengembangannya sangat ketat, ya.
+
+43
+00:01:44,060 --> 00:01:49,280
+Itu berarti semua proses ini adalah nilai tambah untuk pekerjaan.
+
+44
+00:01:49,280 --> 00:01:55,370
+Ya, Anda melamar di industri otomotif semacam ini, dan jika Anda bisa masuk, mungkin
+
+45
+00:01:55,370 --> 00:01:57,940
+Dia merekrut elit dengan pengalaman 1-3 tahun
+
+46
+00:01:57,940 --> 00:01:58,860
+Anda mungkin masih bisa masuk.
+
+47
+00:01:58,860 --> 00:02:01,300
+Anda tidak dapat masuk jika Anda melamar untuk posisi 5-10 tahun.
+
+48
+00:02:01,300 --> 00:02:02,680
+Eh, menurutmu teman sekelasnya ini bertanya padamu
+
+49
+00:02:02,680 --> 00:02:04,320
+Apakah menurut Anda Anda memiliki krisis usia 35 tahun?
+
+50
+00:02:04,320 --> 00:02:07,330
+Berapa lama lagi saya bisa bekerja?
+
+51
+00:02:08,010 --> 00:02:09,250
+Ya, santai saja.
+
+52
+00:02:09,250 --> 00:02:10,450
+Jika Anda menyukai industri ini, maka selesai.
+
+53
+00:02:10,450 --> 00:02:11,490
+Krisis seperti ini tidak perlu dipertimbangkan.
+
+54
+00:02:11,490 --> 00:02:14,690
+Pokoknya, kalau waktunya tiba, ya sudahlah.
+
+55
+00:02:14,690 --> 00:02:16,550
+Saya adalah orang yang sangat terbuka.
+
+56
+00:02:16,550 --> 00:02:17,430
+Apakah perusahaan Anda memiliki pekerjaan
+
+57
+00:02:17,430 --> 00:02:22,190
+insinyur yang berusia di atas 35 tahun?
+
+58
+00:02:22,190 --> 00:02:26,090
+Apakah ada banyak?
+
+59
+00:02:26,090 --> 00:02:30,669
+Tidak banyak, tapi dulu di perusahaan lain tempat saya bekerja, banyak sekali.
+
+60
+00:02:32,200 --> 00:02:34,460
+yaitu produsen chip asli
+
+61
+00:02:34,460 --> 00:02:39,930
+Toleransi usianya terhadap insinyur ini, eh, sangat tinggi.
+
+62
+00:02:39,930 --> 00:02:42,050
+Betul, orang yang kuat dalam teknologi sungguh-sungguh
+
+63
+00:02:42,050 --> 00:02:43,880
+Anda tidak perlu khawatir akan pekerjaan.
+

@@ -1,0 +1,20 @@
+{
+  "checked_on": "2026-10-19",
+  "learning_weeks": 40,
+  "stage_files": 8,
+  "subtitle_sets": 10,
+  "distillation_files": 6,
+  "markdown_files": 101,
+  "local_links_checked": 432,
+  "broken_local_links": [],
+  "holiday_overlaps": 0,
+  "utf8_replacement_characters": 0,
+  "core_end": "2027-04-25",
+  "all_end": "2027-10-24",
+  "checks_scope": "文档结构、UTF8、相对链接、日程一致性；未运行学习实验，未逐集验证视频播放/字幕",
+  "cleanup_planned_files": 111,
+  "cleanup_remaining_files": 0,
+  "cleanup_logged_deleted_files": 111,
+  "cleanup_logged_deleted_bytes": 215513330,
+  "cleanup_status": "completed_with_file_log"
+}

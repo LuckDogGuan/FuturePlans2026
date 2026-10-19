@@ -1,0 +1,642 @@
+[
+  {
+    "file": "01_方向选择\\我的条件与边界.md",
+    "bytes": 8513,
+    "sha256": "d6ae63e595ea382e6138e1bf0ab6b0709d9c0afd7609114ec772a91053ea112e"
+  },
+  {
+    "file": "01_方向选择\\职业规划要求汇总.md",
+    "bytes": 10561,
+    "sha256": "5261e2c859a9c6e03e34e5cc6480dee473a9f771b8b699bae959d8f8e7a556ba"
+  },
+  {
+    "file": "03_学习路线\\岗位与投递记录.md",
+    "bytes": 2315,
+    "sha256": "9f090ea2c4ceb63eb5785bd5021261a800fbf37640b27752ae5a8b8c342f1af6"
+  },
+  {
+    "file": "04_参考资料\\半导体大厂岗位地图_2026-10-05补充.md",
+    "bytes": 20506,
+    "sha256": "3a5c55aad1a601d7928afac45be06153077477cf3929c8ef66618d4def186861"
+  },
+  {
+    "file": "04_参考资料\\半导体研究_AMD_Intel_NVIDIA岗位.md",
+    "bytes": 17112,
+    "sha256": "1c5337fb0809f5af8bda9c32955765a8695c68f7fb8bbec12645f96e13750465"
+  },
+  {
+    "file": "04_参考资料\\半导体研究_国内公司与转行岗位.md",
+    "bytes": 18581,
+    "sha256": "a7ede05675a749fac52d872a6bab99f46ae1dc8914f9803a66f9956d13017769"
+  },
+  {
+    "file": "04_参考资料\\当前条件简明复核.md",
+    "bytes": 3114,
+    "sha256": "f7d1713023692874f994aa2c74a994e19af3fbddd6571cf545c10ea585e8cafc"
+  },
+  {
+    "file": "04_参考资料\\怎样找职业证据.md",
+    "bytes": 2160,
+    "sha256": "0fa5e4dd5c41790c9b11d98d81d3fb4a8d6e8b8bf01ee030c7d31113d816074c"
+  },
+  {
+    "file": "04_参考资料\\研究附录_B站课程与关键词.md",
+    "bytes": 470,
+    "sha256": "e0201fe8722c37249f3b13787af83c36bebe1803286e1b1987e2ca0ef6cd9c68"
+  },
+  {
+    "file": "05_历史记录\\修订记录.md",
+    "bytes": 1389,
+    "sha256": "e17b6797930129dd8fb4c4e809491af0121a1b1aa7f5ff76338e50dec31197ef"
+  },
+  {
+    "file": "README.md",
+    "bytes": 723,
+    "sha256": "22be261022f2c4cd5f6d4f1a4921c547bfb8574f9ed13c4f0c1db4fa3d5e76ee"
+  },
+  {
+    "file": "规划\\后续安排\\00_从这里开始.md",
+    "bytes": 1380,
+    "sha256": "9e40a930040a555b65178f96e2af698f02c76833c2bbfd31b19467d0a8eed8bf"
+  },
+  {
+    "file": "规划\\后续安排\\01_总路线与能力优先级.md",
+    "bytes": 3613,
+    "sha256": "6a99805b367cfb14a39600ffc858b86954708122e296035d68c7ede4c9bc860d"
+  },
+  {
+    "file": "规划\\后续安排\\02_日历与中国假期.md",
+    "bytes": 6532,
+    "sha256": "2530286c52c86dda3a4ff3900fc5c73cb0df6bc958efa08b876bb8786c993247"
+  },
+  {
+    "file": "规划\\后续安排\\03_逐周目录.md",
+    "bytes": 6158,
+    "sha256": "74fb9b893ac66e4edc50b5f938833e925bc4fe3dee5a2cbffbd8ee9d3ee941b0"
+  },
+  {
+    "file": "规划\\后续安排\\04_阶段总结与晋级门槛.md",
+    "bytes": 3172,
+    "sha256": "d35147ece627c1642ac8b8657b70bedeb9df7931bb984dc9781df1598c48144f"
+  },
+  {
+    "file": "规划\\后续安排\\05_工作结合与开源项目.md",
+    "bytes": 4068,
+    "sha256": "141b6c3fd5d365e735196678923db34dc1d4623ee996ebc10504797cf66792bb"
+  },
+  {
+    "file": "规划\\后续安排\\06_C与调试必查清单.md",
+    "bytes": 5117,
+    "sha256": "caa407d57bc5e055576f77c3ae327ed7544473762f0b3a31447df62a645b6113"
+  },
+  {
+    "file": "规划\\后续安排\\07_PCIe专项路线.md",
+    "bytes": 7038,
+    "sha256": "2339c2d5809bc8f96be388de9897f5a08d7b196e732f66b488d0ed64cd798051"
+  },
+  {
+    "file": "规划\\后续安排\\08_来源继承与冲突记录.md",
+    "bytes": 4184,
+    "sha256": "ceda0c94fef7cb1e349fcce7749cf5e953f43ad075c3621415ace80109766f0c"
+  },
+  {
+    "file": "规划\\后续安排\\09_执行记录模板.md",
+    "bytes": 1700,
+    "sha256": "ca13b7b4f122c182c79283549fe45576a5bb43fffe4b4835a10042b5b215cb5c"
+  },
+  {
+    "file": "规划\\后续安排\\10_交付核查与修订记录.md",
+    "bytes": 4762,
+    "sha256": "e9347c330659706e97507165e9cd5de3b11e69583773e618e8516d4787b84cdb"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\README.md",
+    "bytes": 1048,
+    "sha256": "4237f531aed4b759a347bf3ba0d852c62616627870d85ddacba70add3d9b70e8"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\清理审计_参考与历史.md",
+    "bytes": 7455,
+    "sha256": "590ad01b85f9dffc3caa39a1630a611cfb6420b93450d9e2fb1823f2c999dfe7"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\清理审计_字幕与工具.md",
+    "bytes": 14086,
+    "sha256": "dbd7750db5930a57e4595cab9386da0c7df08702d51db0bc1e64e63f1df3a0ea"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\清理审计_旧路线.md",
+    "bytes": 6337,
+    "sha256": "1a7ebda3f783e300fa033accbec955870977237b32bb27ddca2c96261a5cc9a1"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\清理记录\\清理结果.md",
+    "bytes": 3100,
+    "sha256": "97ccd4c7641e28f38082eb558e4b8e7ae501c389eb3ca05c607d94bdf3e6cf84"
+  },
+  {
+    "file": "规划\\后续安排\\资料\\00_资料使用说明.md",
+    "bytes": 561,
+    "sha256": "cbe357cf17c49ffe5ebaf02c95018e49a968258c5296c8862fd8d9506b9aa133"
+  },
+  {
+    "file": "规划\\后续安排\\资料\\01_C与系统课程章节核查.md",
+    "bytes": 23855,
+    "sha256": "bf12902fe6d00bc4519041071ff19de212ac616a8d893d32d5e6c48065858d91"
+  },
+  {
+    "file": "规划\\后续安排\\资料\\02_外设架构QEMU与PCIe核查.md",
+    "bytes": 24730,
+    "sha256": "779dbc50c4c60ade877a4179476e06d6b4dbfa1fb13714017cf324841cadccaf"
+  },
+  {
+    "file": "规划\\后续安排\\资料\\03_实验环境入口与视频备选.md",
+    "bytes": 3186,
+    "sha256": "d00b0f8d38a58b15b8000c698d0945540ded80db27857da6444785c5c7bdd34a"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第01周_C起步_编译类型与内存.md",
+    "bytes": 3786,
+    "sha256": "89c23618b299441cc83bd8f4b48b255f844ea030ba7607faa2151d1ec9b534ad"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第02周_字符字节_整数与位操作.md",
+    "bytes": 3728,
+    "sha256": "b4f44ed775b9f53c894ede0e0aaaf74c974fdcbfb0f49afeead7f69ef52f57d9"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第03周_一级指针_对象与访问范围.md",
+    "bytes": 3693,
+    "sha256": "6cd48f98cf5f99d2cbb97cfde4ecc61f9ffbd9dab10a040fab60cfd805cea1db"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第04周_二级指针_数组与输出参数.md",
+    "bytes": 3836,
+    "sha256": "272897807d8bc4d6ed549e6ae6dece861cd46d46d85688be55f312134aa4cdf7"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第05周_结构体联合体_位域与布局.md",
+    "bytes": 3909,
+    "sha256": "eb11fb4fe27fbb9099eeb0f0cd92149f3ff1a6928c30094e493cfbb3a680be41"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第06周_动态内存_生命周期与所有权.md",
+    "bytes": 3726,
+    "sha256": "1a4206e2a9bbfb5e14e06cdfcafda4fde341bebc60206479c298a9b52da4df5a"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第07周_对齐别名_半字与SIGBUS调试.md",
+    "bytes": 3956,
+    "sha256": "6c8fb2646bca4aae374d420afa33d1c70ecae015035a3c0a44e68eab930de792"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第08周_链接ABI_调用栈与反汇编.md",
+    "bytes": 3782,
+    "sha256": "5afc0b3021c35728eb4e52114b25f995c8c03d1fda957d3007eb40829e10f3a5"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第09周_环形缓冲_回调与状态机.md",
+    "bytes": 3619,
+    "sha256": "db5a105e4351ae2b0690ab8429cb900b5614efeb31bcc9e37343bc33ef152bd0"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第10周_C阶段实战_陌生故障与验收.md",
+    "bytes": 3846,
+    "sha256": "fb9d3c1a79b7ad496c8d717f72f3ec26fd60eacd122088df0a29512545723dfb"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第11周_GPIO与引脚复用_从程序到电平.md",
+    "bytes": 3844,
+    "sha256": "a3cef79cc2c7967f5cc27ad4efd3a840618dcf30e91d16c2d707d036238aac5d"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第12周_PWM与时钟_背光输出闭环.md",
+    "bytes": 3698,
+    "sha256": "f7865b43ea56296fb79a59aebb08af20b5c1c30d7cbcba248a692578aec5d8b2"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第13周_驱动模型与设备树_资源从哪里来.md",
+    "bytes": 3789,
+    "sha256": "86df1d824c54e494ea6856e7824fc98613cb1e56e4cdf713511a5812c4325935"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第14周_I2C传感器_原始数据与有效性.md",
+    "bytes": 3824,
+    "sha256": "8b95c06b0267209540d621a73b4e71b1489735989174da29271b08c15237a066"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第15周_SPI与缓冲_数据怎样到引脚.md",
+    "bytes": 3655,
+    "sha256": "1a6da1644b89b074772f4d0d8c583dd5036f9f00f5be47a98afb25193e154185"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第16周_UART16550冲刺_寄存器与错误恢复.md",
+    "bytes": 4245,
+    "sha256": "c64f0907cc0c97eaa57a8af9dd7356ad0401035d486f9803c89f0dec35c83505"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第17周_中断与延后工作_不丢事件.md",
+    "bytes": 3933,
+    "sha256": "e3b35c0d5e0334acfe1aa785e86802dd393db272fadd6ad927930244cf66dd09"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第18周_进程信号IPC_停止与恢复.md",
+    "bytes": 3758,
+    "sha256": "1112b296c358077d95c17d1564931d38456551963bd543cf9ea21f6ef08dbd54"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第19周_线程同步背压_系统内如何协调.md",
+    "bytes": 3592,
+    "sha256": "bf96c0e1581831b33b5474e0ad77fbcf8db1f336acca13b24f6d8a6ceb1a4a00"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第20周_六个月核心验收_设备诊断作品.md",
+    "bytes": 3689,
+    "sha256": "0dc44c0d15f7caeed5c85520e681e4c941bdba49a94d9654da24011c9c9f3de1"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第21周_AArch64基础_指令与ABI迁移.md",
+    "bytes": 4378,
+    "sha256": "09eff9058955fa2f2c26ba790bded2039adff1c84dcbc2547ff646cf40b61e45"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第22周_AArch64启动_链接异常与GIC概览.md",
+    "bytes": 4421,
+    "sha256": "1c82b1f3fdcbbaa866a4b2706e98248a30bf496de407ae3cb154ef487e03ebc4"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第23周_MMU与cache_内存属性和屏障.md",
+    "bytes": 4441,
+    "sha256": "2401c70eb0f1b64425c82675164d352a083e49562608f5190e0b04a4aa4a9a2f"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第24周_Linux启动链与BSP_版本和资源闭环.md",
+    "bytes": 4303,
+    "sha256": "c9394fe5a97fef9938c0a831ff9d322725bb1f83810ef9b294ee03e1489df0a2"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第25周_RV64指令与ABI_第二种架构比较.md",
+    "bytes": 4519,
+    "sha256": "77509a47e39c0d89b983f7a0f6bc495cc67c2d18b092729ef874dcdc3e77d7c7"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第26周_CSR与trap_页表和异常定位.md",
+    "bytes": 4554,
+    "sha256": "c270e8996660a328a4361ffa88a03062d0108e2a7ceb0e44da603c5a29624948"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第27周_xv6锁与调度_sleep和wakeup.md",
+    "bytes": 4040,
+    "sha256": "997802a8e0d935b9a720cc08a86496f8b372c7d5a2e8d51bffd4fe6800c31d54"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第28周_Virtio设备模型_虚拟数据路径阅读.md",
+    "bytes": 4290,
+    "sha256": "b0e8f3a53af1c8c365b987345a972d503eaebc15a69539cae092ed95ced61f45"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第29周_DMA所有权_DMAengine与总线主设备.md",
+    "bytes": 4265,
+    "sha256": "1afadc9b7a2617469d90daa64bd894e0a8695cc8f0e4377fc5ccd7bb4031b223"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第30周_PCI入门_x86EDU的probe与BAR.md",
+    "bytes": 4308,
+    "sha256": "519ee340661ab212717ccb0b4193e64d74dc8eff6f5a7a4a08049dc0e56db638"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第31周_MMIO与IRQ_轮询INTx和MSI.md",
+    "bytes": 4155,
+    "sha256": "626019252a22d1ba9a969fd5f847f1d2f64928e9b5efa944918ac42c0066f20b"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第32周_EDUDMA_超时取消与安全释放.md",
+    "bytes": 4290,
+    "sha256": "c9fef2d4eb1fe207fc637f68cb4e612c4097ef54adc16dc05bd987279917f792"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第33周_PCIe配置_ECAM和RC_EP边界.md",
+    "bytes": 4195,
+    "sha256": "2c53ff7a621fd23b7b02abfe1de3018c85ee9f663127a5d3deff3a253ce6ad69"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第34周_复位与teardown_MSIX和IOMMU边界.md",
+    "bytes": 4320,
+    "sha256": "786b0710546cfaaa4eac3a1cd2365338a7c9a98d893bda7056ebcd97707ffeeb"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第35周_内核并发_workqueue上下文与锁.md",
+    "bytes": 4385,
+    "sha256": "1ea710fbc1e47389d54def06bae1f106b4164a0fc625933a883d25b2b1f43e6a"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第36周_性能与延迟_ftrace和perf证据.md",
+    "bytes": 4339,
+    "sha256": "ff1b48f5033212badc920f263ac7581051ce92769c022d28acb54fdc6c483887"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第37周_RTOS任务与优先级_上下文和反转.md",
+    "bytes": 4397,
+    "sha256": "539097d215090995d44518e1b54b8a51e7fb903cc1e3d770b10c556458950fe6"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第38周_系统恢复_故障矩阵与回滚.md",
+    "bytes": 4472,
+    "sha256": "d557bff0bad5930aacce40ed869c30408ef608f80a55dcd9b2cdc6a13d47918c"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第39周_作品整理_可复现版本与贡献边界.md",
+    "bytes": 4272,
+    "sha256": "550f373eb9e17ca4d69b7da43a950d511c14da2744a5431a560b0e5a6bcdd62f"
+  },
+  {
+    "file": "规划\\后续安排\\逐周\\第40周_闭卷综合验收_长期分支与晋级.md",
+    "bytes": 4419,
+    "sha256": "a6f5e26b0568efe3bb47ab878657255a6d0b1fc2e5aac692f6b70bcc1e1e05e3"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\A_C对象与数据表示.md",
+    "bytes": 1335,
+    "sha256": "74c77b6eece1065d2577edea6dfc022ebdbf5ab51ce510594966e7ae61449d12"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\B_C工程与独立排错.md",
+    "bytes": 1236,
+    "sha256": "cdd627012b8f4d015e5e6a3f1ccce4ff0443bce627610fa85f0f5db3b1acb119"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\C_板上外设与资源.md",
+    "bytes": 1223,
+    "sha256": "dc85c734e6c5b42198b3d6d49ec45ea82226bd1178f1287dd1187a141428e671"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\D_中断与系统协作.md",
+    "bytes": 1263,
+    "sha256": "8f612d48b597ec030a8a51616c8800f8acaf9a1ae01a90c619d151581781f60e"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\E_ARMv8A基础.md",
+    "bytes": 1152,
+    "sha256": "5bf6e3ecf0fe15e09e97552aef8fad9c60e9f692f5ce2662175b4077f0497338"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\F_RISCV迁移.md",
+    "bytes": 1163,
+    "sha256": "1a81e111c202294c379af67b729de03507d6884cadb4dd729b2ba4c1f4139eb3"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\G_DMA与PCIe.md",
+    "bytes": 1264,
+    "sha256": "14125f70c6399c05bb091713171fa2efc7dcd5be89a9ad61ead413a8a8c5635a"
+  },
+  {
+    "file": "规划\\后续安排\\阶段总结\\H_系统深度与作品.md",
+    "bytes": 1520,
+    "sha256": "15f884af97df486792d78442419f1596844b4a12a1d7ab19eb5cd8ab6559db01"
+  },
+  {
+    "file": "规划\\字幕下载\\下载清单.md",
+    "bytes": 1645,
+    "sha256": "2b1ba9296101f77953bec47d208ab988926eda02b551bea1b44f3af40bc1f897"
+  },
+  {
+    "file": "规划\\蒸馏\\00_蒸馏索引与取舍.md",
+    "bytes": 9881,
+    "sha256": "86590c9b8e4a10d1a7f47ed1246c97fa64170ba043834822866fccd30635099b"
+  },
+  {
+    "file": "规划\\蒸馏\\01_字幕技术主张与证据.md",
+    "bytes": 12690,
+    "sha256": "24bb7e78792621a7d94c60139f1c940f81165e2c5ec10361fac2a172bae97391"
+  },
+  {
+    "file": "规划\\蒸馏\\02_面向本人工作的学习约束.md",
+    "bytes": 11763,
+    "sha256": "01580820b6e8fdb303b4eb7450096b9a9ce5f6863f6170090b83f9bd72dd5f31"
+  },
+  {
+    "file": "规划\\蒸馏\\03_女娲方法蒸馏_工程判断框架.md",
+    "bytes": 3932,
+    "sha256": "87ac59af86b7e68fa195dc410b5cb32e3282c26929b6a090f25e8181569994ec"
+  },
+  {
+    "file": "规划\\蒸馏\\04_女娲框架到周计划的落点.md",
+    "bytes": 2616,
+    "sha256": "70c496b8d83d79c24d887ec5fa65b6955d6d6a2ebbe5435e238f974801f86d29"
+  },
+  {
+    "file": "规划\\蒸馏\\05_教程总库.md",
+    "bytes": 24001,
+    "sha256": "ec7a0cbf1d124a686357186bb7aa9f7ea1ab4cc3849820c79390d9d0556141bf"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\research\\01-writings.md",
+    "bytes": 1411,
+    "sha256": "eaf5a8e0ea4a3a30bd6dd809f4f31f4797c491820e356b0e56d0f2150065d7d8"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\research\\02-conversations.md",
+    "bytes": 3146,
+    "sha256": "55bcbf7bc6b99042d6550db8d8593a45e586b223974682d7f3aa6ac4983df75c"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\research\\03-expression-dna.md",
+    "bytes": 3449,
+    "sha256": "5fe420913b432a0ca01320e24e238e57ca204405e533628ba8184fcdb710d446"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\research\\04-external-views.md",
+    "bytes": 3880,
+    "sha256": "8b74cda6639b65b31e3e1dcada6496287e7a82e3d390d78c46cb1df5c370e164"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\research\\05-decisions.md",
+    "bytes": 2500,
+    "sha256": "ed8d2d0444aca2a6c900581a80cf78c3f71d5f19833403f3f090ef1635f6b9d3"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\research\\06-timeline.md",
+    "bytes": 1323,
+    "sha256": "0b5e101f0e792e5572ef6046ac9fb3980c9f0e1188a976d0ee5f210f8493c3de"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\reviewed\\C与系统官方资料核查.md",
+    "bytes": 23682,
+    "sha256": "b977a698695e733fa77b2b9b028301bf7e15ad26675aaa5dc28204c2c08d6bda"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\reviewed\\外设架构官方资料核查.md",
+    "bytes": 24366,
+    "sha256": "d01957e105ba018a2c77cfb289f54441c15bbb7e93e42b17f77152a6c408d05c"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\reviewed\\字幕证据_女娲处理前.md",
+    "bytes": 12690,
+    "sha256": "24bb7e78792621a7d94c60139f1c940f81165e2c5ec10361fac2a172bae97391"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\研究与质量说明.md",
+    "bytes": 3445,
+    "sha256": "4a35f619491e68d11e3fe31d1467a7dc149942e3eb6979aa87806a25cc4522f8"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\语料清单.md",
+    "bytes": 6346,
+    "sha256": "fa25a2b69cd8a57c4f49e6b871e526eb638da95046456b4885ff35a753fa736f"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\验证_结构精炼.md",
+    "bytes": 6328,
+    "sha256": "a011810befdf8d6d68dcb40a7fce03b0e37d9ac92676ca91c6cf9c17341d38e4"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\验证_行为样例.md",
+    "bytes": 7674,
+    "sha256": "7cc43d6042300b93c06bf3537cae6c2241969cb76d814824c20125f6febce3cf"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\验证_触发与边界.md",
+    "bytes": 3918,
+    "sha256": "3725b8d24709105ca140fc823f1f33f4b859f2a4854be2b2b90adef60deaf23e"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\SKILL.md",
+    "bytes": 9551,
+    "sha256": "6a374193ef71976f01c3302b1befc31c6116995ce88ed98e6688e30dbca776e0"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\核对交付.py",
+    "bytes": 7675,
+    "sha256": "b55344d462e57265686cc45c652132ae94fb71664177d6678ad06ba2435f8b01"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\深化周.py",
+    "bytes": 37415,
+    "sha256": "530419490aeb7e8f081d503fa6ea3640572aea5139925813171433d3c3c1d193"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\生成周计划.py",
+    "bytes": 34695,
+    "sha256": "e1971bcea30e76bb29684c63ef604397b1bad377495fbbd910fc04d747f2c6d7"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\日程核对.json",
+    "bytes": 6086,
+    "sha256": "1e3b805dd444498b31817a53a4a1b59a41d805f14d3025269a89893fd7076491"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\输入来源快照.json",
+    "bytes": 6044,
+    "sha256": "165bb72732889e2b7212947e1ca4db8ff1df427df895f7798003467659d7f773"
+  },
+  {
+    "file": "规划\\后续安排\\_维护\\检查结果.json",
+    "bytes": 674,
+    "sha256": "dacb3bf7c0ae16369a96ce87315af1b3684ef0c7b208e49e959c56264949e875"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\28岁68W年薪很迷茫，嵌入式人该何去何从？ [BV1pdto6uEcR].ai-zh.srt",
+    "bytes": 5893,
+    "sha256": "eafbd76030b9be233627316737e275266cdb63b23daa597687f1bbe825bad15c"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\28岁68W年薪很迷茫，嵌入式人该何去何从？ [BV1pdto6uEcR].ai-zh.txt",
+    "bytes": 2915,
+    "sha256": "d23b8d0c577013eee2e681c40068d22229bdc28f31c302469168e5957054ab29"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\29岁双非本68W年薪大佬说出嵌入式薪资顶尖 的三个方向，内容太硬核必须看完！ [BV1yFtE6AE6o].ai-zh.srt",
+    "bytes": 12744,
+    "sha256": "899deb2866c5b20a5bf7f9eab0acbcf33bee097549ac200806ebbf753b0630aa"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\29岁双非本68W年薪大佬说出嵌入式薪资顶尖 的三个方向，内容太硬核必须看完！ [BV1yFtE6AE6o].ai-zh.txt",
+    "bytes": 6219,
+    "sha256": "0686d61102c21eb1e14423313d024e31f4f3ce4827a6095eaace2eac59d8af96"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非68年薪大佬道破现在最高薪学习技术栈必看 [BV1PCbP6hEXF].ai-zh.srt",
+    "bytes": 7744,
+    "sha256": "db3806901a8cac753849d910c3db7a72014b693032d0cf8ee232dbe3668e4fb8"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非68年薪大佬道破现在最高薪学习技术栈必看 [BV1PCbP6hEXF].ai-zh.txt",
+    "bytes": 4216,
+    "sha256": "97e861d0e3cead4967721a68e8430b85a7f5bebbb3beec17212d95b12a708023"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非大佬实习一天300简历怎么写，AI这么强，嵌入式怎么学？ [BV12nhb6gE3Y].ai-zh.srt",
+    "bytes": 12188,
+    "sha256": "e6b65224694d24e5cc5da22413af3d21543dbda8a4f4e4f441e279689f0695a4"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非大佬实习一天300简历怎么写，AI这么强，嵌入式怎么学？ [BV12nhb6gE3Y].ai-zh.txt",
+    "bytes": 5904,
+    "sha256": "a6721c861fb8bdb23ae24178f592c65a7c0dcd1d070d2b3e2eaf82a207fb3324"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非本五年拿68W年薪！嵌入式靠技术能破学历歧视吗？ [BV1gJ4Q6vEnM].ai-zh.srt",
+    "bytes": 14493,
+    "sha256": "a50354130a66a29f3b0f8a6ef07b4e0d3ccbfcb8c6fc58c37ec218d72c3561f0"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非本五年拿68W年薪！嵌入式靠技术能破学历歧视吗？ [BV1gJ4Q6vEnM].ai-zh.txt",
+    "bytes": 6985,
+    "sha256": "de3ec6f964ca039b873c364ea393935393e2b9f11e8becdbcb2ab4e295e7c5a5"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非本五年经验月43K被质疑吹牛结果是真大佬 [BV1tFtF6nECV].ai-zh.srt",
+    "bytes": 12866,
+    "sha256": "fb018e6b5f7ec2b3a5c6e401bc1a310ff6dd270f40027860734d05cbfd13712d"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\双非本五年经验月43K被质疑吹牛结果是真大佬 [BV1tFtF6nECV].ai-zh.txt",
+    "bytes": 5726,
+    "sha256": "460424adb94e813cd5200326f8b6a341cc6875c510029b6bc12b2a4ef3d73456"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\嵌入式做技术做不到五十万？5年双非本的68w年薪大佬感觉被侮辱 [BV1Hr4k6bEpv].ai-zh.srt",
+    "bytes": 9957,
+    "sha256": "2bd07767d5fbb60fab15da7a2a7c0e28f67d3bc53a43bbc2fef309c54929cbda"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\嵌入式做技术做不到五十万？5年双非本的68w年薪大佬感觉被侮辱 [BV1Hr4k6bEpv].ai-zh.txt",
+    "bytes": 4818,
+    "sha256": "3439b9d93ddd1b4e953adbe14e1aa93d7d8dde3e99bf894e216a7b076485c0f6"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\嵌入式双非本29岁68w年薪直播间300人分享学习路线 [BV1eHt86mEQe].ai-zh.srt",
+    "bytes": 13305,
+    "sha256": "4ab378370d430143a2bf0a3c664ea953442e42ea23cf4c4ce3a205a9b8b5d2c8"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\嵌入式双非本29岁68w年薪直播间300人分享学习路线 [BV1eHt86mEQe].ai-zh.txt",
+    "bytes": 6398,
+    "sha256": "51c214034c0096c2f3fe41b68a5f9d5f1c1c3c11048f4b55dd289cf667ee1457"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\嵌入式双非本应届25k已经嫌低，具身智能已经魔幻 [BV1JWhe6CERk].ai-zh.srt",
+    "bytes": 11004,
+    "sha256": "86ddb2965cb9fcc617af16c8feaa0175ed7c3197c8d4c9fd76264c3d11cf7ae4"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\嵌入式双非本应届25k已经嫌低，具身智能已经魔幻 [BV1JWhe6CERk].ai-zh.txt",
+    "bytes": 4972,
+    "sha256": "a275d41901196e2d01e4d3bb2af4de412962d650916bfccf0a7c945a3b13a6ba"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\考研是否有用_应届生看重什么_35岁危机、双非本68W年薪大佬全说透了 [BV1UMbG64EZa].ai-zh.srt",
+    "bytes": 4638,
+    "sha256": "61e09e93ed22d4ab20fcf5c1214cb716723974d73735f26e1120c95224fa680b"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\sources\\transcripts\\考研是否有用_应届生看重什么_35岁危机、双非本68W年薪大佬全说透了 [BV1UMbG64EZa].ai-zh.txt",
+    "bytes": 2435,
+    "sha256": "62fb090899e03bf95da6088063a9777bc740e01c1a9cc24ca11c2734a2f3f3a4"
+  },
+  {
+    "file": "规划\\蒸馏\\chip-software-framework\\references\\语料哈希.json",
+    "bytes": 5467,
+    "sha256": "2d3ee6e1746469ed2a91eabd9cbdf93c5fde5dd57c62bae9b5b9acbac5ad1192"
+  }
+]

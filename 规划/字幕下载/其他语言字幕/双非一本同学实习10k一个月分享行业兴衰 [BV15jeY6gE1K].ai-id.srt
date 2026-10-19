@@ -1,0 +1,332 @@
+﻿1
+00:00:00,120 --> 00:00:02,060
+Bahkan babi pun bisa terbang jika berada di atas angin.
+
+2
+00:00:02,060 --> 00:00:04,720
+Teman sekelas, saya sudah membuktikannya untukmu, dia tidak bermaksud menghinamu sebagai babi.
+
+3
+00:00:04,720 --> 00:00:05,600
+Bisa dengar?
+
+4
+00:00:05,600 --> 00:00:07,290
+Bisa dengar, Jie Ge? Bisa dengar?
+
+5
+00:00:07,290 --> 00:00:11,910
+Maksudmu, waktu semester 4 (tahun kedua semester 2) kamu pergi cari magang *embodied AI*?
+
+6
+00:00:11,910 --> 00:00:12,690
+Magang di Shenzhen
+
+7
+00:00:12,690 --> 00:00:18,260
+Tunggu sebentar, tunggu sebentar, semester dua tahun kedua kamu sudah dapat magang di bidang *embodied AI*?
+
+8
+00:00:18,260 --> 00:00:19,220
+Sekolah apa kamu
+
+9
+00:00:19,220 --> 00:00:20,340
+Kamu jangan-jangan kena *ghosting* lagi?
+
+10
+00:00:20,340 --> 00:00:22,620
+Saya waktu itu dari daerah Wuhan.
+
+11
+00:00:22,620 --> 00:00:23,640
+Oh, kamu dari universitas swasta atau negeri mana? (atau: Kampus mana?)
+
+12
+00:00:23,640 --> 00:00:27,280
+Mahasiswa tingkat dua dari universitas non-985/211 (tier-2) semester akhir yang mencari magang di bidang *embodied AI* itu bagus.
+
+13
+00:00:27,280 --> 00:00:28,880
+Bagaimana levelnya sekarang
+
+14
+00:00:28,880 --> 00:00:30,160
+Kamu sebutkan dulu berapa puluhan ribu (penghasilanmu).
+
+15
+00:00:30,160 --> 00:00:31,300
+Bukan, bukan, saya... bulan lalu lembur sekitar...
+
+16
+00:00:31,300 --> 00:00:35,690
+11.122/11.130 (Sekitar 11 ribu / 11 ribu lebih sedikit)
+
+17
+00:00:35,690 --> 00:00:37,850
+Kamu magang lembur sebulan dapat 10 ribu?
+
+18
+00:00:37,850 --> 00:00:40,420
+Karena kami dibayar 300.000 rupiah sehari
+
+19
+00:00:40,420 --> 00:00:42,310
+Lembur di akhir pekan dihitung dua kali lipat.
+
+20
+00:00:42,310 --> 00:00:44,510
+Uangmu sekarang benar-benar tidak habis-habis ya.
+
+21
+00:00:44,510 --> 00:00:47,330
+Atau apakah paket tahunannya mau 300.000, tapi tidak tercapai
+
+22
+00:00:47,330 --> 00:00:49,709
+Pokoknya, aku merasa film Hong Kong sekarang
+
+23
+00:00:49,709 --> 00:00:56,840
+Apakah dia membuat stasiun utama di Jetson NVIDIA, merangkum SDK untuk digunakan oleh algoritma di atas?
+
+24
+00:00:56,840 --> 00:01:00,319
+Setara dengan Anda harus membuat satu lapisan lagi seperti node ROS.
+
+25
+00:01:00,319 --> 00:01:04,559
+Saya tadinya mengira itu adalah posisi yang lebih condong ke level bawah (low-level) dan BSP.
+
+26
+00:01:04,559 --> 00:01:08,620
+Saya hanya ingin bilang, apakah posisi seperti ini kedalamannya akan kurang?
+
+27
+00:01:08,620 --> 00:01:12,240
+Tidak, tidak sama sekali, Embodied AI tidak memiliki persyaratan apa pun untuk driver.
+
+28
+00:01:12,240 --> 00:01:16,870
+Maksudnya, driver Linux dalam *embodied AI* itu hampir tidak ada apa-apanya, tidak akan merekrut banyak orang.
+
+29
+00:01:16,870 --> 00:01:20,090
+Ah, jangan fokus ke arah sana.
+
+30
+00:01:20,090 --> 00:01:22,840
+Karena driver sudah tidak terlalu berhubungan denganembodied AI.
+
+31
+00:01:22,840 --> 00:01:24,959
+Karena saya bertanya kepada mentor saya
+
+32
+00:01:24,959 --> 00:01:28,360
+Dia bilang papan BSP buatan kita sendiri hampir, hampir
+
+33
+00:01:28,360 --> 00:01:31,330
+Semuanya sudah diurus oleh pabriknya.
+
+34
+00:01:31,330 --> 00:01:33,709
+Ya, betul. Dari pabrik biasanya sudah hampir jadi semua.
+
+35
+00:01:33,709 --> 00:01:35,450
+Terutama saat saya masuk dan melihat pengontrol utamanya,
+
+36
+00:01:35,450 --> 00:01:38,490
+Lalu di terminal akan muncul sedikit teks.
+
+37
+00:01:38,490 --> 00:01:39,890
+Katanya itu ditulis sendiri oleh perusahaan kami
+
+38
+00:01:39,890 --> 00:01:41,990
+Jangan sembarangan mengubah device tree atau semacamnya.
+
+39
+00:01:41,990 --> 00:01:44,940
+Lalu saya bilang apakah posisi seperti itu akan tapi
+
+40
+00:01:44,940 --> 00:01:46,060
+Tidak, PT Jushang Intelligent untuk ini
+
+41
+00:01:46,060 --> 00:01:49,460
+Anda di Jusar Intelligence tidak terlalu menuntut untuk driver Linux ini
+
+42
+00:01:49,460 --> 00:01:50,220
+Coba jelaskan dengan benar tentang situasi Anda saat ini.
+
+43
+00:01:50,220 --> 00:01:53,110
+Rasanya seperti tidak sedang mengerjakan pekerjaan embedded system.
+
+44
+00:01:53,110 --> 00:01:56,140
+Rasanya karena dia lebih banyak menggunakan C++ dan ROS.
+
+45
+00:01:56,140 --> 00:01:58,100
+Ya, embodied AI mereka menggunakan solusi ini.
+
+46
+00:01:58,100 --> 00:02:00,970
+Tapi untuk perangkat pengumpulan data cerdas embodied kamu, driver Linux-nya relatif
+
+47
+00:02:00,970 --> 00:02:02,350
+Sangat berpengaruh, saya paham.
+
+48
+00:02:02,350 --> 00:02:04,850
+Gaji perusahaan kami 10 ribu sebulan, bagaimana cara kamu menghabiskannya?
+
+49
+00:02:04,850 --> 00:02:07,330
+Saya harus membuka ini, yang kering semakin kering, teman-teman.
+
+50
+00:02:07,330 --> 00:02:09,709
+Sekarang di posisi mana *embodied AI* itu?
+
+51
+00:02:09,709 --> 00:02:11,349
+Embodied AI seharusnya berada di posisi ini
+
+52
+00:02:11,349 --> 00:02:12,788
+Modal masuk dengan intensif
+
+53
+00:02:12,788 --> 00:02:14,829
+Jendela bonus insinyur
+
+54
+00:02:14,829 --> 00:02:16,389
+Kenapa gaji kamu cuma 6K?
+
+55
+00:02:16,389 --> 00:02:20,710
+Karena kamu harus menonjolkan tingkat gaji anak magang lain yang 10.000.
+
+56
+00:02:20,710 --> 00:02:22,690
+Jadi, untuk kamu yang digaji 6K, teman.
+
+57
+00:02:22,690 --> 00:02:25,079
+Kamu benar-benar seperti yang dikatakan teman ini
+
+58
+00:02:25,079 --> 00:02:27,299
+Bahkan babi pun bisa terbang jika berada di angin topan
+
+59
+00:02:27,299 --> 00:02:30,220
+Teman, saya sudah bantu klarifikasikan untukmu, dia tidak bermaksud menghinamu sebagai babi.
+
+60
+00:02:30,220 --> 00:02:31,580
+Kamu pasti bukan babi
+
+61
+00:02:31,580 --> 00:02:34,419
+Huwu awalnya mulai berinvestasi di Wuhan.
+
+62
+00:02:34,419 --> 00:02:36,400
+Tapi di Wuhan tidak ketemu
+
+63
+00:02:36,400 --> 00:02:38,760
+Di sini persaingannya terlalu ketat, kamu benar-benar mengamuk.
+
+64
+00:02:38,760 --> 00:02:39,680
+Kamu berhasil keluar dari Wuhan dan langsung
+
+65
+00:02:39,680 --> 00:02:42,930
+Pekerjaan di Shenzhen direbut orang lain
+
+66
+00:02:42,930 --> 00:02:45,070
+Bagaimana kamu bisa mendapatkan magang seperti itu?
+
+67
+00:02:45,070 --> 00:02:47,169
+Awalnya, saya melamar sekitar hampir 700 lebih posisi.
+
+68
+00:02:47,169 --> 00:02:53,260
+Wah, dapat *Huaqin* tapi malah di-ghosting ya.
+
+69
+00:02:53,260 --> 00:02:56,820
+Di Wuhan ada perusahaan yang bergerak di bidang pemantauan air pintar.
+
+70
+00:02:56,820 --> 00:02:58,120
+perusahaan energi surya seperti itu
+
+71
+00:02:58,120 --> 00:03:00,440
+Saya dapat tawaran lagi dari perusahaan robotik di Shenzhen ini.
+
+72
+00:03:00,440 --> 00:03:02,450
+Akhirnya pergi ke Shenzhen
+
+73
+00:03:02,450 --> 00:03:04,930
+Wah, yang ini keterlaluan banget sih.
+
+74
+00:03:04,930 --> 00:03:09,270
+Kenapa malam ini kamu terus-menerus membuatku terkejut?
+
+75
+00:03:09,270 --> 00:03:10,550
+Kepala saya sekarang berdengung.
+
+76
+00:03:10,550 --> 00:03:11,350
+Tahu kan kamu
+
+77
+00:03:11,350 --> 00:03:14,110
+Rasanya uang sekarang sudah bukan seperti uang lagi, kawan-kawan.
+
+78
+00:03:14,110 --> 00:03:16,690
+Saya terutama takut kedalaman *tech stack*-nya kurang.
+
+79
+00:03:16,690 --> 00:03:18,570
+Saya merasa pengerjaan arah seperti ini
+
+80
+00:03:18,570 --> 00:03:22,469
+Wah, sekarang anak magang aja udah gampang dapet 10 juta (10.000 RMB) sebulan ya.
+
+81
+00:03:22,469 --> 00:03:29,520
+Banyak orang bahkan tidak bisa mendapatkan 10.000 (yuan) sebulan saat mencari pekerjaan di kota-kota besar untuk rekrutmen musim gugur lulusan baru.
+
+82
+00:03:29,520 --> 00:03:31,020
+Perusahaan kami memberikan gaji yang lebih tinggi.
+
+83
+00:03:31,020 --> 00:03:33,419
+Karena sekarang jumlah orangnya masih sedikit
+

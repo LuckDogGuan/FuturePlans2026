@@ -1,0 +1,332 @@
+﻿1
+00:00:00,120 --> 00:00:02,060
+When you're in the eye of the storm, even a pig can fly.
+
+2
+00:00:02,060 --> 00:00:04,720
+Hey, I can confirm for you, he wasn't calling you a pig.
+
+3
+00:00:04,720 --> 00:00:05,600
+Can you hear me?
+
+4
+00:00:05,600 --> 00:00:07,290
+Hey Jie Ge, can you hear me? Yeah, I can hear you.
+
+5
+00:00:07,290 --> 00:00:11,910
+So you're saying you found an internship in Embodied Intelligence in your second semester of sophomore year.
+
+6
+00:00:11,910 --> 00:00:12,690
+An internship in Shenzhen.
+
+7
+00:00:12,690 --> 00:00:18,260
+Hold on, hold on. So, in the second semester of your sophomore year, you landed an internship in Embodied Intelligence?
+
+8
+00:00:18,260 --> 00:00:19,220
+What school are you at?
+
+9
+00:00:19,220 --> 00:00:20,340
+Don't tell me you're using vocal processing again.
+
+10
+00:00:20,340 --> 00:00:22,620
+But I'm from Wuhan.
+
+11
+00:00:22,620 --> 00:00:23,640
+Oh, so you're from a non-985/211 university? What tier?
+
+12
+00:00:23,640 --> 00:00:27,280
+I'm a sophomore from a non-985/211 university, and I just landed a great internship in Embodied Intelligence.
+
+13
+00:00:27,280 --> 00:00:28,880
+So what's your skill level now?
+
+14
+00:00:28,880 --> 00:00:30,160
+Alright, just tell us, how many 'tens of thousands' are we talking?
+
+15
+00:00:30,160 --> 00:00:31,300
+No, no, I mean, I worked overtime last month...
+
+16
+00:00:31,300 --> 00:00:35,690
+Ten thousand... a little bit over ten thousand.
+
+17
+00:00:35,690 --> 00:00:37,850
+So, 10k a month for an internship with overtime?
+
+18
+00:00:37,850 --> 00:00:40,420
+Yeah, because we get 300 a day.
+
+19
+00:00:40,420 --> 00:00:42,310
+And weekends are double time.
+
+20
+00:00:42,310 --> 00:00:44,510
+So you're just rolling in cash now, huh? Can't even spend it all.
+
+21
+00:00:44,510 --> 00:00:47,330
+Or is it that you can't even get a 300k annual package?
+
+22
+00:00:47,330 --> 00:00:49,709
+It's mainly because I feel like with Hong Kong films nowadays...
+
+23
+00:00:49,709 --> 00:00:56,840
+So, is he developing the main station on NVIDIA's JSON, packaging an SDK for the algorithms to use on top of it?
+
+24
+00:00:56,840 --> 00:01:00,319
+So it's like you have to build another layer of ROS nodes on top of that.
+
+25
+00:01:00,319 --> 00:01:04,559
+Oh, I originally thought it was a more low-level position, something closer to BSP.
+
+26
+00:01:04,559 --> 00:01:08,620
+So, what I'm wondering is, for a position like this, is the technical depth a bit lacking?
+
+27
+00:01:08,620 --> 00:01:12,240
+No, no, no, Embodied Intelligence has no requirements for drivers whatsoever.
+
+28
+00:01:12,240 --> 00:01:16,870
+Yeah, Linux drivers are basically a non-issue in Embodied Intelligence. They're not really a focus, so they won't be hiring many people for that.
+
+29
+00:01:16,870 --> 00:01:20,090
+Hey, don't get too bogged down in that.
+
+30
+00:01:20,090 --> 00:01:22,840
+Because drivers don't really have much to do with Embodied Intelligence.
+
+31
+00:01:22,840 --> 00:01:24,959
+Because I asked my mentor about it.
+
+32
+00:01:24,959 --> 00:01:28,360
+He said the BSP for the board we use is pretty much...
+
+33
+00:01:28,360 --> 00:01:31,330
+The manufacturer has already set everything up for you.
+
+34
+00:01:31,330 --> 00:01:33,709
+Yeah, yeah, the manufacturer provides it. It's pretty much the same deal.
+
+35
+00:01:33,709 --> 00:01:35,450
+The main thing is, when I took a look inside their main controller,
+
+36
+00:01:35,450 --> 00:01:38,490
+And then, a line of text would just pop up on the terminal.
+
+37
+00:01:38,490 --> 00:01:39,890
+They said it was written by our company.
+
+38
+00:01:39,890 --> 00:01:41,990
+and not to just randomly modify the device tree or anything like that.
+
+39
+00:01:41,990 --> 00:01:44,940
+So I was wondering, for a role like this, is it possible that... but...
+
+40
+00:01:44,940 --> 00:01:46,060
+No, that won't happen. For Jushan Intelligence, for this...
+
+41
+00:01:46,060 --> 00:01:49,460
+Right, for embodied AI, the requirements for Linux drivers aren't that high.
+
+42
+00:01:49,460 --> 00:01:50,220
+Just tell us about your current situation.
+
+43
+00:01:50,220 --> 00:01:53,110
+It feels like what I'm doing isn't really embedded development.
+
+44
+00:01:53,110 --> 00:01:56,140
+Yeah, it feels that way because it's mostly about C++ and ROS stuff.
+
+45
+00:01:56,140 --> 00:01:58,100
+Yeah, their Embodied Intelligence solution is based on that.
+
+46
+00:01:58,100 --> 00:02:00,970
+But for your Embodied Intelligence, the smart data acquisition device is more about Linux drivers.
+
+47
+00:02:00,970 --> 00:02:02,350
+Oh, it's a huge part of it. I get it now.
+
+48
+00:02:02,350 --> 00:02:04,850
+So, with a 10,000-a-month salary from our company, how would you even spend it?
+
+49
+00:02:04,850 --> 00:02:07,330
+I gotta open this up. It's a real 'haves and have-nots' situation, guys.
+
+50
+00:02:07,330 --> 00:02:09,709
+So, where does Embodied Intelligence stand right now?
+
+51
+00:02:09,709 --> 00:02:11,349
+Embodied Intelligence should be right here.
+
+52
+00:02:11,349 --> 00:02:12,788
+Capital is pouring in.
+
+53
+00:02:12,788 --> 00:02:14,829
+The engineer dividend window.
+
+54
+00:02:14,829 --> 00:02:16,389
+So why are you only making 6K?
+
+55
+00:02:16,389 --> 00:02:20,710
+Because you're just there to make that other intern, the one making 10k, look good.
+
+56
+00:02:20,710 --> 00:02:22,690
+That's why they're only paying you 6K, my friend.
+
+57
+00:02:22,690 --> 00:02:25,079
+You're exactly what that student was talking about.
+
+58
+00:02:25,079 --> 00:02:27,299
+When you're in the eye of the storm, even a pig can fly.
+
+59
+00:02:27,299 --> 00:02:30,220
+Hey, I can confirm for you, he wasn't insulting you by calling you a pig.
+
+60
+00:02:30,220 --> 00:02:31,580
+You're definitely not a pig.
+
+61
+00:02:31,580 --> 00:02:34,419
+So, at first, I was applying for jobs in Wuhan.
+
+62
+00:02:34,419 --> 00:02:36,400
+But I couldn't find anything in Wuhan.
+
+63
+00:02:36,400 --> 00:02:38,760
+The competition here is insane. You're literally on a killing spree.
+
+64
+00:02:38,760 --> 00:02:39,680
+So you basically fought your way out of Wuhan and just...
+
+65
+00:02:39,680 --> 00:02:42,930
+The job in Shenzhen was snatched up by someone else.
+
+66
+00:02:42,930 --> 00:02:45,070
+How on earth did you land an internship like this?
+
+67
+00:02:45,070 --> 00:02:47,169
+I started out by applying to, like, almost 700 different places.
+
+68
+00:02:47,169 --> 00:02:53,260
+Wow, so you got an offer from Huaqin Technology Co., Ltd. but they're just keeping you on the hook, huh?
+
+69
+00:02:53,260 --> 00:02:56,820
+There was one in Wuhan that did, like, smart water monitoring.
+
+70
+00:02:56,820 --> 00:02:58,120
+a company that does solar energy stuff.
+
+71
+00:02:58,120 --> 00:03:00,440
+And then I got another offer, this one from a robotics company in Shenzhen.
+
+72
+00:03:00,440 --> 00:03:02,450
+So in the end, I went to Shenzhen.
+
+73
+00:03:02,450 --> 00:03:04,930
+Whoa, that's insane!
+
+74
+00:03:04,930 --> 00:03:09,270
+Dude, why is everything you're telling me tonight just blowing my mind?
+
+75
+00:03:09,270 --> 00:03:10,550
+My head is spinning right now.
+
+76
+00:03:10,550 --> 00:03:11,350
+You know?
+
+77
+00:03:11,350 --> 00:03:14,110
+I feel like money isn't even money anymore these days, guys.
+
+78
+00:03:14,110 --> 00:03:16,690
+My main worry is that my Technology Stack knowledge isn't deep enough.
+
+79
+00:03:16,690 --> 00:03:18,570
+I just feel like, going in this direction...
+
+80
+00:03:18,570 --> 00:03:22,469
+Damn, you're making 10k a month from an internship just like that?
+
+81
+00:03:22,469 --> 00:03:29,520
+A lot of people, even in first-tier cities, can't even land a 10k-a-month job through the regular campus recruitment for fresh graduates.
+
+82
+00:03:29,520 --> 00:03:31,020
+Yeah, my company's pay is pretty good.
+
+83
+00:03:31,020 --> 00:03:33,419
+Because there aren't a lot of people in this field yet.
+

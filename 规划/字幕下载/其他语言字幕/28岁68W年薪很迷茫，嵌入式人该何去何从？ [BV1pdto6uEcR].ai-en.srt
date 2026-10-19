@@ -1,0 +1,316 @@
+﻿1
+00:00:00,080 --> 00:00:01,880
+So I'm almost 29 now.
+
+2
+00:00:01,880 --> 00:00:05,519
+I'm almost 29, making 43k a month with 16 months' salary.
+
+3
+00:00:05,519 --> 00:00:07,960
+The people in the chat can't believe you're making that much.
+
+4
+00:00:07,960 --> 00:00:09,520
+Because they think embedded...
+
+5
+00:00:09,520 --> 00:00:17,720
+Honestly, for someone who's 29, you should be making 20K at most. But if you had jumped ship during that wave in '22 or '23...
+
+6
+00:00:18,040 --> 00:00:20,680
+You'd definitely be making more than 20K.
+
+7
+00:00:20,680 --> 00:00:22,360
+He works at a chip-maker.
+
+8
+00:00:22,360 --> 00:00:24,440
+So, what's your take on all the people questioning you?
+
+9
+00:00:24,440 --> 00:00:25,739
+Your salary is so high.
+
+10
+00:00:25,739 --> 00:00:28,540
+Is it because people around you have salaries this high?
+
+11
+00:00:28,540 --> 00:00:31,200
+Actually, didn't you just... I thought you opened BOSS Zhipin?
+
+12
+00:00:31,200 --> 00:00:32,000
+Or Liepin.
+
+13
+00:00:32,000 --> 00:00:33,920
+Go on, take a look. You think the industry is...
+
+14
+00:00:33,920 --> 00:00:35,020
+Because I'm not logged in.
+
+15
+00:00:35,020 --> 00:00:37,340
+So you feel like the industry is a huge boost for your career, right?
+
+16
+00:00:37,340 --> 00:00:38,680
+Yeah, the industry... it's definitely because of the industry.
+
+17
+00:00:38,680 --> 00:00:42,070
+If you were to work on, say, industrial control products,
+
+18
+00:00:42,070 --> 00:00:44,470
+I think it's basically around 150k to 200k.
+
+19
+00:00:44,470 --> 00:00:46,890
+If you're in the motor field, that's a bit better.
+
+20
+00:00:46,890 --> 00:00:48,879
+But for motors, it's all about experience.
+
+21
+00:00:48,879 --> 00:00:52,950
+If he's in algorithms, he could probably make around 30 to 40.
+
+22
+00:00:52,950 --> 00:00:55,270
+And the ones doing performance evaluations, that's a bit better too.
+
+23
+00:00:55,270 --> 00:00:57,590
+So, do you feel like the chip sector is cooling down right now?
+
+24
+00:00:57,590 --> 00:01:00,710
+Compared to '22 and '23, it's definitely cooled down.
+
+25
+00:01:00,710 --> 00:01:03,610
+But the intern salaries are still kinda insane, though.
+
+26
+00:01:03,610 --> 00:01:07,430
+So, are interns really making 700 to 900 a day now?
+
+27
+00:01:07,430 --> 00:01:09,150
+I'm not getting that right now.
+
+28
+00:01:09,150 --> 00:01:10,310
+I mean, look at ByteDance, for example.
+
+29
+00:01:10,310 --> 00:01:12,660
+Even ByteDance only offers between 300 to 600, right?
+
+30
+00:01:12,660 --> 00:01:15,400
+So, is your company one of those top-tier, major corporations?
+
+31
+00:01:15,400 --> 00:01:18,000
+Or just a regular one that's about to go public?
+
+32
+00:01:18,000 --> 00:01:19,240
+I'm at a very ordinary startup.
+
+33
+00:01:19,240 --> 00:01:21,330
+So for me,
+
+34
+00:01:21,330 --> 00:01:22,810
+I'm basically just waiting for this wave to come.
+
+35
+00:01:22,810 --> 00:01:24,610
+All I can say is, I'm just waiting for the right moment.
+
+36
+00:01:24,610 --> 00:01:26,699
+But at the same time, I'm also keeping an eye out for opportunities.
+
+37
+00:01:26,699 --> 00:01:27,899
+But I'm still keeping an eye out.
+
+38
+00:01:27,899 --> 00:01:29,039
+That's just how it is.
+
+39
+00:01:29,039 --> 00:01:31,659
+So, you see how hot fields like robotics are right now?
+
+40
+00:01:31,659 --> 00:01:33,650
+Have you considered getting into robotics?
+
+41
+00:01:33,650 --> 00:01:35,350
+Robotics isn't really my thing.
+
+42
+00:01:35,350 --> 00:01:38,580
+Robotics is more for people who work on algorithms.
+
+43
+00:01:38,580 --> 00:01:43,180
+So, with 5.5 years of experience, you're already at 43K times 16 salaries.
+
+44
+00:01:43,180 --> 00:01:45,640
+So, what are your future career goals?
+
+45
+00:01:45,640 --> 00:01:46,980
+So, what specific area are you more interested in?
+
+46
+00:01:46,980 --> 00:01:48,660
+I'm kinda lost right now.
+
+47
+00:01:48,660 --> 00:01:49,980
+Actually, what I'd really like to do is...
+
+48
+00:01:49,980 --> 00:01:52,200
+What I really want to get into is System Architecture.
+
+49
+00:01:52,200 --> 00:01:55,140
+But right now... you want to go into System Architecture.
+
+50
+00:01:55,140 --> 00:01:56,940
+Why is that?
+
+51
+00:01:57,070 --> 00:01:58,950
+Because I'm really passionate about the technology itself.
+
+52
+00:01:58,950 --> 00:02:01,630
+So, how is that in conflict with becoming a System Architect?
+
+53
+00:02:01,630 --> 00:02:02,550
+You need to be in the right environment.
+
+54
+00:02:02,550 --> 00:02:05,290
+You need someone to put you in that software architecture position.
+
+55
+00:02:05,290 --> 00:02:07,490
+and then eventually become a System Architect.
+
+56
+00:02:07,490 --> 00:02:10,590
+Right, coordinating the software and hardware.
+
+57
+00:02:10,590 --> 00:02:16,130
+Yeah, and for someone like that, their salary is another thing... they have a really comprehensive and deep technical skillset.
+
+58
+00:02:16,130 --> 00:02:19,090
+This person is usually the company's top tech guru.
+
+59
+00:02:19,090 --> 00:02:22,490
+Usually, a company will only have one person like this, even if you're not talking about those massive companies with thousands of employees.
+
+60
+00:02:22,490 --> 00:02:25,605
+If you're talking about a company with just three or four hundred people...
+
+61
+00:02:25,620 --> 00:02:27,860
+Usually, a company will only hire one person for that role.
+
+62
+00:02:27,860 --> 00:02:31,120
+So, for someone like that, what's the typical salary range per year?
+
+63
+00:02:31,120 --> 00:02:35,200
+The highest I've ever seen was in the 1.5 to 2 million range.
+
+64
+00:02:35,200 --> 00:02:37,320
+Well, I haven't really looked into any others, anyway.
+
+65
+00:02:37,320 --> 00:02:41,639
+How old was he? He must have been, at least fifty-eight or fifty-nine at the time, right?
+
+66
+00:02:41,639 --> 00:02:43,050
+So, around 50 years old.
+
+67
+00:02:43,050 --> 00:02:45,130
+Forty-eight... fifty years old.
+
+68
+00:02:45,130 --> 00:02:48,740
+Right. So, software architecture is definitely the direction I'm looking at.
+
+69
+00:02:48,740 --> 00:02:51,780
+So, for the software SDK package from your chip-maker...
+
+70
+00:02:51,780 --> 00:02:54,270
+So, are those also designed by the software architects?
+
+71
+00:02:54,270 --> 00:02:56,490
+Are you talking about the package of the chip?
+
+72
+00:02:56,490 --> 00:02:58,510
+Right, the SDK, not the chip's package.
+
+73
+00:02:58,510 --> 00:03:00,110
+So, how do you write the software SDK?
+
+74
+00:03:00,110 --> 00:03:01,389
+Is this for the client to use?
+
+75
+00:03:01,389 --> 00:03:03,790
+Right, that's also a version written by the BSP department.
+
+76
+00:03:03,790 --> 00:03:07,300
+The software architect will set some rules, you know.
+
+77
+00:03:07,300 --> 00:03:08,160
+So, how are you going to do it?
+
+78
+00:03:08,160 --> 00:03:12,180
+The rest is basically left for the leaders of each module to write themselves.
+
+79
+00:03:12,180 --> 00:03:13,580
+And everyone's in the middle of a code review.
+

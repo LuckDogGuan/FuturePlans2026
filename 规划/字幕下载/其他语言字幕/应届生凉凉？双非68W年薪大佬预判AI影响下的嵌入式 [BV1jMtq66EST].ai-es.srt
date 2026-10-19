@@ -1,0 +1,244 @@
+﻿1
+00:00:00,000 --> 00:00:02,330
+Sientes que, con la llegada de la IA,
+
+2
+00:00:02,330 --> 00:00:04,490
+Es posible que algunas empresas ya no contraten recién graduados.
+
+3
+00:00:04,490 --> 00:00:06,650
+Yo creo que este es el mayor impacto.
+
+4
+00:00:06,650 --> 00:00:10,230
+La verdad es que lo de la IA ahora mismo es una auténtica locura.
+
+5
+00:00:10,230 --> 00:00:12,030
+Bueno, en mi caso, fue en diciembre de 2022.
+
+6
+00:00:12,030 --> 00:00:13,070
+Fue en esa época cuando empecé a usar la IA.
+
+7
+00:00:13,070 --> 00:00:14,590
+En aquel entonces, las opciones de IA eran muy limitadas.
+
+8
+00:00:14,590 --> 00:00:16,829
+Si le pedías que te escribiera un 'bench' o un 'makefile', le costaba bastante.
+
+9
+00:00:16,829 --> 00:00:19,280
+y tardaba un montón en escribirlo.
+
+10
+00:00:19,280 --> 00:00:20,680
+Pero ahora no, es completamente diferente.
+
+11
+00:00:20,680 --> 00:00:22,680
+En cualquier caso, parece que está progresando muy rápido.
+
+12
+00:00:22,680 --> 00:00:23,160
+Es una locura, ¿verdad?
+
+13
+00:00:23,160 --> 00:00:27,030
+Yo, por mi parte, creo que los ingenieros de la capa de aplicación...
+
+14
+00:00:27,030 --> 00:00:29,210
+Sobre todo, los ingenieros que se dedican a la calibración de motores.
+
+15
+00:00:29,210 --> 00:00:31,270
+Sospecho que en el futuro podrían ser reemplazados porque...
+
+16
+00:00:31,270 --> 00:00:34,620
+Es que siempre está ajustando esos tres parámetros.
+
+17
+00:00:34,620 --> 00:00:36,800
+Básicamente, en el futuro, esos tres parámetros se los encargarás a la IA.
+
+18
+00:00:36,800 --> 00:00:39,940
+Por ejemplo, el bus CAN, antes se usaba un bus CAN.
+
+19
+00:00:39,940 --> 00:00:42,260
+En programas como MATLAB, hay una retroalimentación de parámetros, ¿no?
+
+20
+00:00:42,260 --> 00:00:43,440
+modificando constantemente esos valores.
+
+21
+00:00:43,440 --> 00:00:44,220
+y luego se lo dejas a la IA.
+
+22
+00:00:44,220 --> 00:00:45,340
+Mientras estas cosas, o sea, la IA,
+
+23
+00:00:45,340 --> 00:00:47,100
+Seguro que lo hace mucho más rápido que una persona.
+
+24
+00:00:47,100 --> 00:00:52,040
+Así que, en fin, creo que algunos puestos sí que corren cierto riesgo.
+
+25
+00:00:52,040 --> 00:00:53,080
+Veo que siguen por aquí.
+
+26
+00:00:53,080 --> 00:00:54,920
+En cualquier caso, cada uno debe pensárselo bien.
+
+27
+00:00:54,920 --> 00:00:57,800
+Crees que, tras el impacto de la IA,
+
+28
+00:00:57,800 --> 00:01:02,420
+Para este compañero nuestro que quiere entrar en el sector, ¿será más difícil o más fácil dedicarse al bastidor integrado empotrado?
+
+29
+00:01:02,420 --> 00:01:03,480
+Si lo que quieres es aprender,
+
+30
+00:01:03,480 --> 00:01:04,319
+Definitivamente será más fácil.
+
+31
+00:01:04,319 --> 00:01:05,140
+Pero si quieres entrar en el sector...
+
+32
+00:01:05,140 --> 00:01:07,770
+La verdad es que para entrar en el sector, estos dos últimos años no ha habido mucha diferencia.
+
+33
+00:01:07,770 --> 00:01:10,270
+Pero creo que en un par de años la cosa podría cambiar.
+
+34
+00:01:10,270 --> 00:01:12,190
+por el impacto de la IA.
+
+35
+00:01:12,190 --> 00:01:13,780
+¿Y qué crees que pasará dentro de dos años?
+
+36
+00:01:13,780 --> 00:01:16,569
+¿Y qué tipo de impacto va a tener esto?
+
+37
+00:01:16,569 --> 00:01:18,730
+Es posible que algunas empresas ya no contraten a recién graduados.
+
+38
+00:01:18,730 --> 00:01:21,250
+Yo creo que el impacto más grande será precisamente este.
+
+39
+00:01:21,250 --> 00:01:24,990
+En el futuro, es probable que las empresas busquen perfiles que sean muy experimentados y, además, sepan usar la IA.
+
+40
+00:01:24,990 --> 00:01:28,910
+Una sola persona puede controlar a cuatro o cinco IA que le ayudan a realizar su trabajo.
+
+41
+00:01:28,910 --> 00:01:31,130
+Al final, solo se encargarán de hacer el code review y cosas por el estilo.
+
+42
+00:01:31,130 --> 00:01:32,730
+Es muy probable.
+
+43
+00:01:32,730 --> 00:01:35,569
+Eso quiere decir que para los recién graduados, será muy difícil entrar en el sector de los sistemas embebidos.
+
+44
+00:01:35,569 --> 00:01:38,050
+Todos serán reemplazados por gente como tú, que con solo 5 años de experiencia ya gana 43.000.
+
+45
+00:01:38,050 --> 00:01:42,890
+y son reemplazados por personas con salarios altos que utilizan la IA.
+
+46
+00:01:42,890 --> 00:01:45,359
+ya no contratarán a gente sin experiencia.
+
+47
+00:01:45,359 --> 00:01:46,279
+Es muy probable que en el futuro...
+
+48
+00:01:46,279 --> 00:01:48,959
+Pero, quién sabe, tal vez en el futuro, debido a la gran potencia de la IA...
+
+49
+00:01:48,959 --> 00:01:51,159
+También puede ayudar a cualquier recién graduado a empezar a trabajar rápidamente.
+
+50
+00:01:51,159 --> 00:01:54,420
+Pero bueno, para cada tipo de trabajo, siempre se necesitará a la persona adecuada.
+
+51
+00:01:54,420 --> 00:01:55,940
+Lo que quiero decir es que es posible que no haya tantos puestos de trabajo.
+
+52
+00:01:55,940 --> 00:01:57,080
+Bueno, al menos esa es mi forma de verlo.
+
+53
+00:01:57,080 --> 00:02:00,940
+En realidad, en este tipo de puestos, los de nivel inicial se reducirán masivamente.
+
+54
+00:02:00,940 --> 00:02:03,990
+Entonces, ¿aumentarán los puestos de nivel superior?
+
+55
+00:02:03,990 --> 00:02:05,890
+Los puestos de alto nivel podrían...
+
+56
+00:02:05,890 --> 00:02:07,630
+Pero es posible que los puestos intermedios aumenten.
+
+57
+00:02:07,630 --> 00:02:09,450
+Pero es posible que los puestos intermedios aumenten.
+
+58
+00:02:09,450 --> 00:02:11,810
+Porque los puestos intermedios aumentarán.
+
+59
+00:02:11,810 --> 00:02:13,169
+Una persona puede hacer el trabajo de una.
+
+60
+00:02:13,169 --> 00:02:15,169
+En el futuro, una sola persona podrá controlar a dos o tres IAs.
+
+61
+00:02:15,169 --> 00:02:17,340
+y podrás hacer el trabajo de dos o tres personas.
+

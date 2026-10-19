@@ -1,0 +1,788 @@
+﻿1
+00:00:00,040 --> 00:00:02,900
+No seu trabalho, alguém já te discriminou por causa da sua formação?
+
+2
+00:00:02,900 --> 00:00:05,680
+Sua universidade de primeira linha, mesmo não sendo das mais prestigiadas, não seria uma como a Academia Chinesa de Ciências, né?
+
+3
+00:00:05,680 --> 00:00:07,960
+Não, é que naquela época eu era muito ruim.
+
+4
+00:00:07,960 --> 00:00:09,539
+Para vocês, pode parecer um lixo.
+
+5
+00:00:09,539 --> 00:00:10,200
+Como posso dizer...
+
+6
+00:00:10,200 --> 00:00:11,800
+Minha primeira impressão ao entrar em uma empresa de chips
+
+7
+00:00:11,800 --> 00:00:13,400
+É que eles simplesmente não têm esse tipo de preconceito.
+
+8
+00:00:13,400 --> 00:00:15,880
+Até o chefe vai conversar com você numa boa.
+
+9
+00:00:15,880 --> 00:00:18,440
+Principalmente aquelas pessoas que já trabalharam em empresas estrangeiras.
+
+10
+00:00:18,440 --> 00:00:19,660
+Eles são bem abertos.
+
+11
+00:00:19,660 --> 00:00:21,000
+Eles só olham
+
+12
+00:00:21,000 --> 00:00:24,280
+Mesmo que você não saiba, tipo, na época, quando a gente desenvolvia um chip...
+
+13
+00:00:24,280 --> 00:00:26,180
+Especialmente ao desenvolver aqueles SoCs para carros.
+
+14
+00:00:26,180 --> 00:00:27,920
+Para desenvolver um único chip, são basicamente umas trezentas a quatrocentas pessoas.
+
+15
+00:00:27,920 --> 00:00:29,260
+Todos estão envolvidos nesse tipo de pesquisa e desenvolvimento.
+
+16
+00:00:29,260 --> 00:00:31,260
+Talvez umas duzentas ou trezentas pessoas, todas no mesmo grupo, porque...
+
+17
+00:00:31,260 --> 00:00:33,670
+Afinal, todo mundo está desenvolvendo o mesmo produto.
+
+18
+00:00:33,670 --> 00:00:34,670
+Se você tiver alguma dúvida, é só perguntar.
+
+19
+00:00:34,670 --> 00:00:36,030
+Eles ficam felizes em te ajudar a resolver.
+
+20
+00:00:36,030 --> 00:00:37,150
+Ninguém vai falar assim, ó:
+
+21
+00:00:37,150 --> 00:00:39,150
+É que eu tenho alguns colegas que também fazem esse tipo de trabalho.
+
+22
+00:00:39,150 --> 00:00:40,830
+Tipo, quem foi para empresas como a Inovance, essas coisas, sabe?
+
+23
+00:00:40,830 --> 00:00:41,990
+Mas o jeito deles é diferente.
+
+24
+00:00:41,990 --> 00:00:43,930
+Não é que eu esteja reclamando da Inovance.
+
+25
+00:00:43,930 --> 00:00:46,409
+O que eu quero dizer é que, de pessoa para pessoa, a cultura da empresa é diferente.
+
+26
+00:00:46,409 --> 00:00:48,729
+A comunicação entre as pessoas é um pouco diferente, sabe?
+
+27
+00:00:48,729 --> 00:00:50,420
+Enfim, tem gente que trata as pessoas como gente.
+
+28
+00:00:50,420 --> 00:00:51,540
+enquanto outras pessoas são tratadas como máquinas.
+
+29
+00:00:51,540 --> 00:00:52,560
+Enfim, é essa a minha ideia.
+
+30
+00:00:52,560 --> 00:00:53,760
+Então, na sua opinião,
+
+31
+00:00:53,760 --> 00:00:57,690
+Na verdade, ganhar 500 mil por ano na área de sistemas embarcados não é nada difícil.
+
+32
+00:00:57,690 --> 00:00:59,270
+Isso é só o nível de entrada.
+
+33
+00:00:59,270 --> 00:01:01,710
+Se a sua graduação for de uma universidade de segundo escalão ou melhor,
+
+34
+00:01:01,710 --> 00:01:03,070
+Com certeza não é difícil.
+
+35
+00:01:03,070 --> 00:01:04,729
+Desde que você queira realmente aprender.
+
+36
+00:01:04,729 --> 00:01:07,049
+Então, você acha que, para quem é de uma faculdade de terceiro escalão, depende um pouco de sorte.
+
+37
+00:01:07,049 --> 00:01:09,069
+Porque, para quem vem de faculdades menos prestigiadas, o currículo acaba sendo descartado.
+
+38
+00:01:09,069 --> 00:01:10,700
+Para quem vem de uma faculdade mais básica, é um pouco mais difícil.
+
+39
+00:01:10,700 --> 00:01:11,740
+É meio que eliminam no currículo.
+
+40
+00:01:11,740 --> 00:01:12,980
+O principal não é que a pessoa não tenha a habilidade técnica.
+
+41
+00:01:12,980 --> 00:01:13,660
+O problema é que o currículo é descartado.
+
+42
+00:01:13,660 --> 00:01:16,300
+Eles filtram os currículos porque, na verdade, para sistemas embarcados, você não precisa de muito conhecimento específico.
+
+43
+00:01:16,300 --> 00:01:17,240
+Hoje em dia tem a IA.
+
+44
+00:01:17,240 --> 00:01:17,860
+Se o seu inglês não for bom, você tem a IA.
+
+45
+00:01:17,860 --> 00:01:20,500
+A documentação daquele tipo, com todos os detalhes, é toda em inglês.
+
+46
+00:01:20,500 --> 00:01:21,940
+Você pode ler qualquer coisa.
+
+47
+00:01:21,940 --> 00:01:23,380
+Depois de um ou dois anos lendo, seu próprio inglês...
+
+48
+00:01:23,380 --> 00:01:25,289
+Seu nível vai subir na hora.
+
+49
+00:01:25,289 --> 00:01:27,089
+Mas a questão da formação acadêmica pode ser um filtro.
+
+50
+00:01:27,089 --> 00:01:27,909
+É o que eu posso dizer.
+
+51
+00:01:27,909 --> 00:01:29,390
+E as faculdades de segundo escalão?
+
+52
+00:01:29,390 --> 00:01:30,630
+Para quem veio de uma faculdade de segundo escalão, também há muitas oportunidades.
+
+53
+00:01:30,630 --> 00:01:31,910
+Eu já contratei várias pessoas de universidades consideradas medianas.
+
+54
+00:01:31,910 --> 00:01:32,870
+Mas a capacidade deles é muito forte.
+
+55
+00:01:32,870 --> 00:01:35,980
+Ele perguntou se eu tinha algum conselho para dar para as pessoas comuns.
+
+56
+00:01:35,980 --> 00:01:37,220
+Enfim, foi o que eu disse pra ele.
+
+57
+00:01:37,220 --> 00:01:39,120
+Nos seus primeiros 5 anos após a formatura, eu já recomendo que você troque de emprego.
+
+58
+00:01:39,120 --> 00:01:40,900
+A não ser que você vá para um lugar como a Huawei.
+
+59
+00:01:40,900 --> 00:01:43,150
+Porque o pagamento das horas extras deles é realmente um absurdo.
+
+60
+00:01:43,150 --> 00:01:45,190
+Além disso, a política de lá é muito boa.
+
+61
+00:01:45,190 --> 00:01:46,290
+Quando você entra,
+
+62
+00:01:46,290 --> 00:01:48,110
+Desde que você não seja muito fora da curva,
+
+63
+00:01:48,110 --> 00:01:49,270
+Se você trabalhar por uns dez anos nessa área,
+
+64
+00:01:49,270 --> 00:01:52,230
+O salário vai ser realmente absurdamente alto.
+
+65
+00:01:52,230 --> 00:01:53,870
+Cem ou duzentos mil, com certeza tem.
+
+66
+00:01:53,870 --> 00:01:54,750
+Falando de quem trabalha com chips,
+
+67
+00:01:54,750 --> 00:01:55,630
+Agora, quem trabalha com produtos, eu já não sei.
+
+68
+00:01:55,630 --> 00:01:56,470
+Eu trabalho com chips.
+
+69
+00:01:56,470 --> 00:01:59,070
+Porque eu me lembro das pessoas ao meu redor, na minha empresa, que vieram da Huawei...
+
+70
+00:01:59,070 --> 00:02:00,480
+De qualquer forma, o salário base é basicamente de duzentos a trezentos mil.
+
+71
+00:02:00,480 --> 00:02:02,560
+Isso, uns duzentos a trezentos por volta de 2015.
+
+72
+00:02:02,560 --> 00:02:03,920
+A frequência de troca de emprego
+
+73
+00:02:03,920 --> 00:02:07,570
+Hmm, eu recomendo no mínimo 3 trocas de emprego em 5 anos.
+
+74
+00:02:07,570 --> 00:02:08,510
+Isso.
+
+75
+00:02:08,510 --> 00:02:10,490
+Claro, a premissa para você mudar de emprego é que você precisa aprender.
+
+76
+00:02:10,490 --> 00:02:11,570
+Nos meus três primeiros anos depois de formado, eu...
+
+77
+00:02:11,570 --> 00:02:13,110
+Eu me lembro que, no meu primeiro ano depois da faculdade,
+
+78
+00:02:13,110 --> 00:02:14,990
+De qualquer forma, nos três primeiros anos depois de se formar, o foco é estudar.
+
+79
+00:02:14,990 --> 00:02:15,910
+De qualquer forma, quando você aprende uma coisa,
+
+80
+00:02:15,910 --> 00:02:19,430
+Você sente que cresceu uns 30% em relação ao ano anterior.
+
+81
+00:02:19,430 --> 00:02:20,230
+Aí você já pode mudar de emprego.
+
+82
+00:02:20,230 --> 00:02:22,270
+Pelo menos é assim que eu vejo.
+
+83
+00:02:22,270 --> 00:02:25,389
+Você folga dois dias por semana aí na fabricante de chips?
+
+84
+00:02:25,710 --> 00:02:27,830
+Faz muito tempo que eu não faço hora extra no sábado.
+
+85
+00:02:27,830 --> 00:02:28,930
+É o que eu posso dizer.
+
+86
+00:02:28,930 --> 00:02:32,169
+Ok, vocês geralmente começam a trabalhar às 9 da manhã.
+
+87
+00:02:32,169 --> 00:02:33,210
+E que horas vocês saem à tarde?
+
+88
+00:02:33,210 --> 00:02:34,450
+No meu caso, por exemplo...
+
+89
+00:02:34,450 --> 00:02:36,010
+É que eu moro um pouco longe da empresa.
+
+90
+00:02:36,010 --> 00:02:38,690
+Eu costumo chegar na empresa entre 9 e 9 e meia, sabe?
+
+91
+00:02:38,690 --> 00:02:40,389
+À noite, se não tenho nada pra fazer, eu saio às seis e meia.
+
+92
+00:02:40,389 --> 00:02:41,508
+saio às 6:30.
+
+93
+00:02:41,508 --> 00:02:43,269
+Se tiver algum trabalho, eu fico até as 9.
+
+94
+00:02:43,269 --> 00:02:45,749
+A cultura da sua empresa é mais de uma empresa estrangeira, né?
+
+95
+00:02:45,749 --> 00:02:49,549
+As empresas de chips em que eu trabalhei, basicamente todas tinham um pezinho nisso.
+
+96
+00:02:49,549 --> 00:02:51,389
+De qualquer forma, eu nunca trabalhei em empresa estrangeira.
+
+97
+00:02:51,389 --> 00:02:52,660
+Eu acho que é uma boa, sim.
+
+98
+00:02:52,660 --> 00:02:54,780
+Falando por exemplo dos meus amigos que trabalham com produtos,
+
+99
+00:02:54,780 --> 00:02:55,340
+no caso dos meus colegas,
+
+100
+00:02:55,340 --> 00:02:56,740
+Quando você sente que está recebendo um aumento de salário,
+
+101
+00:02:56,740 --> 00:03:00,389
+Seu chefe vai usar o fato de você ter se formado em uma universidade comum pra te reprimir? Depois de 5 anos, não.
+
+102
+00:03:00,389 --> 00:03:01,350
+Quando eu entrei na empresa,
+
+103
+00:03:01,350 --> 00:03:03,190
+De qualquer forma, em todos os empregos que eu tive até hoje...
+
+104
+00:03:03,190 --> 00:03:05,740
+Ninguém nunca me perguntou sobre meu diploma.
+
+105
+00:03:05,740 --> 00:03:06,980
+Se eu consigo passar para a entrevista, o que importa mesmo é o desempenho na entrevista.
+
+106
+00:03:06,980 --> 00:03:07,700
+Ponto.
+
+107
+00:03:07,700 --> 00:03:09,020
+Eu só respondia o que ele perguntava, sabe?
+
+108
+00:03:09,020 --> 00:03:10,620
+Como você se sentiu durante a sua entrevista?
+
+109
+00:03:10,620 --> 00:03:12,780
+O entrevistador consegue te intimidar?
+
+110
+00:03:13,010 --> 00:03:14,410
+Na segunda entrevista, ele me superou.
+
+111
+00:03:14,410 --> 00:03:15,810
+Porque, pra ser sincero, naquela época...
+
+112
+00:03:15,810 --> 00:03:19,480
+Eu sabia fazer esse tipo de desenvolvimento no kernel do Linux, eu sabia desenvolver.
+
+113
+00:03:19,480 --> 00:03:22,840
+Mas, naquela época, eu só sabia desenvolver alguns módulos de forma bem básica.
+
+114
+00:03:22,840 --> 00:03:23,960
+Porque na minha primeira empresa,
+
+115
+00:03:23,960 --> 00:03:26,020
+Eu só tinha desenvolvido UART.
+
+116
+00:03:26,020 --> 00:03:27,120
+e também desenvolvi o CAN.
+
+117
+00:03:27,120 --> 00:03:31,220
+De resto, o que eu fazia era testar um IP de uma plataforma da Arm.
+
+118
+00:03:31,220 --> 00:03:33,300
+para verificar os aspectos dele,
+
+119
+00:03:33,300 --> 00:03:35,420
+se as funcionalidades e os sinais atendem às expectativas,
+
+120
+00:03:35,420 --> 00:03:37,880
+E também a performance, se ela atende aos requisitos de desempenho.
+
+121
+00:03:37,880 --> 00:03:39,060
+mas raramente se aprofundam nisso.
+
+122
+00:03:39,060 --> 00:03:40,520
+E também já desenvolvi em U-BOOT.
+
+123
+00:03:40,520 --> 00:03:42,320
+Mas na parte do Linux, eu não me aprofundei muito, só o básico mesmo.
+
+124
+00:03:42,320 --> 00:03:44,310
+Hum... alguns tipos de IPs, sabe?
+
+125
+00:03:44,310 --> 00:03:45,030
+Porque fui eu que peguei esse projeto.
+
+126
+00:03:45,030 --> 00:03:46,910
+Então, por isso, eu também vou fazer a portabilidade do driver dele.
+
+127
+00:03:46,910 --> 00:03:49,110
+É que hoje em dia, no mercado, quem desenvolve SoCs...
+
+128
+00:03:49,110 --> 00:03:50,820
+Muitos dos IPs que eles usam não são desenvolvidos por eles mesmos.
+
+129
+00:03:50,820 --> 00:03:52,300
+A base deles, ou eles compram da Synopsis,
+
+130
+00:03:52,300 --> 00:03:53,180
+ou então compram da Cadence, dessas duas empresas.
+
+131
+00:03:53,180 --> 00:03:55,620
+Então, você sobe lá e muda o número do dispositivo.
+
+132
+00:03:55,620 --> 00:03:57,030
+É só alterar o endereço base e pronto.
+
+133
+00:03:57,030 --> 00:03:58,950
+Eu não cheguei a estudar essas coisas a fundo.
+
+134
+00:03:58,950 --> 00:04:00,150
+Mas na segunda empresa, foi diferente.
+
+135
+00:04:00,150 --> 00:04:02,810
+Na segunda empresa, quando entrei, eu trabalhava na área de segurança funcional e complexidade.
+
+136
+00:04:02,810 --> 00:04:06,370
+Comecei a me dedicar àquele manual do ARMv8, aquele com mais de 10.000 páginas.
+
+137
+00:04:06,370 --> 00:04:07,950
+Eu estava me matando para estudar aquele manual de mais de 12.000 páginas.
+
+138
+00:04:07,950 --> 00:04:09,610
+Nessa época, o meu progresso foi enorme.
+
+139
+00:04:09,610 --> 00:04:12,840
+Nessa época, eu comecei a olhar o código aberto que outras pessoas escreviam,
+
+140
+00:04:12,840 --> 00:04:14,900
+Enquanto eu segurava aquele manual, ia testando um por um.
+
+141
+00:04:14,900 --> 00:04:16,399
+Como é que essa função funciona, afinal?
+
+142
+00:04:16,399 --> 00:04:17,999
+Como é que esses sinais deveriam fluir, afinal?
+
+143
+00:04:17,999 --> 00:04:19,359
+Para mim, tudo isso...
+
+144
+00:04:19,359 --> 00:04:22,440
+De qualquer forma, aquele foi o período em que eu mais cresci na vida.
+
+145
+00:04:22,440 --> 00:04:28,560
+Então, tanto antes quanto agora, você trabalha principalmente com esse núcleo M, certo?
+
+146
+00:04:28,560 --> 00:04:35,850
+Então, você também já teve contato com as IPs da ARM, como as séries MV7 e MV8, e também com o design de SoC, certo?
+
+147
+00:04:35,850 --> 00:04:41,580
+Isso. Meu trabalho anterior era principalmente com a série Cortex-M.
+
+148
+00:04:41,580 --> 00:04:43,420
+Ah, e também tem a série R5.
+
+149
+00:04:43,420 --> 00:04:46,240
+Além dos A7, A8 e A9, e estes aqui agora...
+
+150
+00:04:46,240 --> 00:04:49,779
+Então, eu foquei totalmente em RISC-V.
+
+151
+00:04:49,779 --> 00:04:55,460
+Na sua opinião, o RISC-V, em comparação com o nosso ARM atualmente...
+
+152
+00:04:55,460 --> 00:04:57,000
+Quais são as vantagens?
+
+153
+00:04:57,000 --> 00:04:58,120
+Eu digo o seguinte.
+
+154
+00:04:58,120 --> 00:05:00,660
+Primeiramente, ele é um conjunto de instruções de código aberto.
+
+155
+00:05:00,660 --> 00:05:02,320
+Desde que você siga o acordo de código aberto,
+
+156
+00:05:02,320 --> 00:05:04,130
+você pode usá-lo para fins comerciais.
+
+157
+00:05:04,130 --> 00:05:06,370
+Em segundo lugar, ele não é como a ARM.
+
+158
+00:05:06,370 --> 00:05:08,130
+Isso porque, naquela época, a ARM se dividia em dois tipos.
+
+159
+00:05:08,130 --> 00:05:09,570
+Não sei se vocês já ouviram falar sobre isso,
+
+160
+00:05:09,570 --> 00:05:10,570
+Um deles é a versão padrão.
+
+161
+00:05:10,570 --> 00:05:13,080
+Um deles, o que tinha um conjunto de instruções completo, era mais caro.
+
+162
+00:05:13,080 --> 00:05:15,279
+Mas a dificuldade de desenvolvimento dele é bem maior.
+
+163
+00:05:15,279 --> 00:05:17,240
+Exige que o seu sistema...
+
+164
+00:05:17,240 --> 00:05:21,140
+Para o arquiteto, existe também uma base, onde você mesmo pode pegar esses conjuntos de instruções e as funções que deseja.
+
+165
+00:05:21,140 --> 00:05:23,659
+Você pode continuar expandindo com base nisso.
+
+166
+00:05:23,659 --> 00:05:27,700
+Mas, no final das contas, os direitos de propriedade, ou seja, o direito de especificação, ainda pertencem à ARM.
+
+167
+00:05:27,700 --> 00:05:29,300
+E tem também aquele modelo público que eu acabei de mencionar.
+
+168
+00:05:29,300 --> 00:05:30,220
+A ARM já desenvolveu e entregou para você.
+
+169
+00:05:30,220 --> 00:05:31,520
+Você pega e usa diretamente.
+
+170
+00:05:31,520 --> 00:05:32,380
+Mas é uma caixa preta.
+
+171
+00:05:32,380 --> 00:05:33,390
+Você não consegue ver.
+
+172
+00:05:33,390 --> 00:05:36,950
+Então, empresas melhores, com um desenvolvimento mais próprio,
+
+173
+00:05:36,950 --> 00:05:37,830
+Como a Huawei, por exemplo.
+
+174
+00:05:37,830 --> 00:05:40,390
+O que ele compra é a licença do conjunto de instruções.
+
+175
+00:05:40,390 --> 00:05:43,380
+Mas eles não vão comprar diretamente o que já está pronto e bem-feito por eles.
+
+176
+00:05:44,460 --> 00:05:46,540
+Mas o RISC-V, antes de tudo, é uma plataforma de código aberto.
+
+177
+00:05:46,540 --> 00:05:47,770
+É como eu acabei de dizer.
+
+178
+00:05:47,770 --> 00:05:50,930
+Você pode fazer suas próprias extensões e instruções com base nele,
+
+179
+00:05:50,930 --> 00:05:56,500
+Por exemplo, se você acha que o MMU, o SMMU do RISC-V não são bons de usar,
+
+180
+00:05:56,500 --> 00:05:57,960
+ou a PMU não for boa de usar,
+
+181
+00:05:57,960 --> 00:06:01,430
+Você pode fazer suas próprias extensões com base nele, criar uma versão sua.
+
+182
+00:06:01,430 --> 00:06:03,570
+E além disso, ao fazer isso, você pode combinar os componentes como quiser.
+
+183
+00:06:03,570 --> 00:06:07,970
+Você não é afetado de forma alguma por aqueles, sabe, aqueles acordos comerciais. E em segundo lugar,
+
+184
+00:06:07,970 --> 00:06:10,940
+Tem muita gente fazendo isso.
+
+185
+00:06:10,940 --> 00:06:11,700
+E qual é a vantagem disso?
+
+186
+00:06:11,700 --> 00:06:13,460
+Nos últimos dois anos, muitas pessoas têm se dedicado ao RISC-V e tecnologias relacionadas.
+
+187
+00:06:13,460 --> 00:06:15,740
+Ele é um pouco como o Linux naquela época.
+
+188
+00:06:15,740 --> 00:06:18,120
+Muitas pessoas estão entrando nessa área para explorar.
+
+189
+00:06:18,120 --> 00:06:21,360
+Então, por isso, o QEMU dele, o QEMU é atualizado muito rápido.
+
+190
+00:06:21,360 --> 00:06:23,460
+Ou seja, a sua empresa de chips...
+
+191
+00:06:23,460 --> 00:06:26,660
+Quando você está fazendo essa extensão com base em RISC-V,
+
+192
+00:06:26,660 --> 00:06:29,500
+Pode ser que o seu design e a sua arquitetura ainda não tenham implementado essa funcionalidade.
+
+193
+00:06:29,500 --> 00:06:31,500
+Eles apenas propuseram como essa função deveria ser implementada.
+
+194
+00:06:31,500 --> 00:06:34,010
+Você já pode usar o QEMU para adiantar esse processo.
+
+195
+00:06:34,010 --> 00:06:35,529
+Dá pra começar a validar o software e tudo mais.
+
+196
+00:06:35,529 --> 00:06:36,450
+É tudo muito bom, ele é melhor que
+
+197
+00:06:36,450 --> 00:06:41,420
+De qualquer forma, é melhor do que qualquer outra arquitetura de conjunto de instruções que existe no mercado atualmente.
+

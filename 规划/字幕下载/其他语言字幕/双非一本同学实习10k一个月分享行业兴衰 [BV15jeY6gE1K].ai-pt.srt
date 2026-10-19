@@ -1,0 +1,332 @@
+﻿1
+00:00:00,120 --> 00:00:02,060
+Nesse mercado em alta, até porco voa.
+
+2
+00:00:02,060 --> 00:00:04,720
+Amigo, eu confirmo pra você, ele não te insultou chamando você de porco.
+
+3
+00:00:04,720 --> 00:00:05,600
+Você está me ouvindo?
+
+4
+00:00:05,600 --> 00:00:07,290
+Está me ouvindo, Jie? Estou ouvindo, sim.
+
+5
+00:00:07,290 --> 00:00:11,910
+Então você está dizendo que, no segundo ano da faculdade, você conseguiu um estágio em inteligência artificial corpórea?
+
+6
+00:00:11,910 --> 00:00:12,690
+Um estágio em Shenzhen.
+
+7
+00:00:12,690 --> 00:00:18,260
+Peraí, peraí. No segundo semestre do segundo ano, você conseguiu um estágio em inteligência artificial corporificada?
+
+8
+00:00:18,260 --> 00:00:19,220
+Qual a sua faculdade?
+
+9
+00:00:19,220 --> 00:00:20,340
+Você não está me trollando de novo, né?
+
+10
+00:00:20,340 --> 00:00:22,620
+Mas eu sou de Wuhan.
+
+11
+00:00:22,620 --> 00:00:23,640
+Ah, você é de uma universidade comum? De que nível?
+
+12
+00:00:23,640 --> 00:00:27,280
+Então, eu sou de uma universidade comum, do segundo ano, e consegui um estágio muito bom em inteligência artificial incorporada.
+
+13
+00:00:27,280 --> 00:00:28,880
+E qual é o seu nível agora?
+
+14
+00:00:28,880 --> 00:00:30,160
+Primeiro, me diz aí, quanto você ganha?
+
+15
+00:00:30,160 --> 00:00:31,300
+Não, não, eu fiz hora extra, tipo, no mês passado.
+
+16
+00:00:31,300 --> 00:00:35,690
+Dez mil, um pouco mais que dez mil.
+
+17
+00:00:35,690 --> 00:00:37,850
+Você ganha 10 mil por mês no estágio com hora extra.
+
+18
+00:00:37,850 --> 00:00:40,420
+É que a gente ganha 300 por dia.
+
+19
+00:00:40,420 --> 00:00:42,310
+E as horas extras no fim de semana são em dobro.
+
+20
+00:00:42,310 --> 00:00:44,510
+Agora você tem dinheiro que não acaba mais, né?
+
+21
+00:00:44,510 --> 00:00:47,330
+Ou será que é impossível conseguir um pacote de 300 mil por ano?
+
+22
+00:00:47,330 --> 00:00:49,709
+É que eu sinto que os filmes de Hong Kong de hoje em dia...
+
+23
+00:00:49,709 --> 00:00:56,840
+Ele está desenvolvendo na plataforma principal do NVIDIA Jetson, encapsulando um SDK para que o algoritmo possa ser utilizado na camada superior?
+
+24
+00:00:56,840 --> 00:01:00,319
+É como se você ainda tivesse que criar uma camada de nós do ROS, esse tipo de coisa.
+
+25
+00:01:00,319 --> 00:01:04,559
+Eu achava que era um cargo mais de baixo nível, mais voltado para BSP.
+
+26
+00:01:04,559 --> 00:01:08,620
+O que eu queria dizer é se esse tipo de vaga não seria muito superficial, sem profundidade suficiente.
+
+27
+00:01:08,620 --> 00:01:12,240
+Não, não, não. A inteligência incorporada não tem nenhuma exigência de driver.
+
+28
+00:01:12,240 --> 00:01:16,870
+É que drivers de Linux, na área de inteligência incorporada, não são relevantes. Eles não dependem disso, não vão contratar muita gente pra isso.
+
+29
+00:01:16,870 --> 00:01:20,090
+Ah, não se aprofunde nisso.
+
+30
+00:01:20,090 --> 00:01:22,840
+Porque drivers não têm muita relação com inteligência corporificada.
+
+31
+00:01:22,840 --> 00:01:24,959
+Porque eu perguntei para o meu mentor.
+
+32
+00:01:24,959 --> 00:01:28,360
+Ele disse que o BSP da placa que usamos, basicamente...
+
+33
+00:01:28,360 --> 00:01:31,330
+O fabricante já deixa tudo pronto pra você.
+
+34
+00:01:31,330 --> 00:01:33,709
+Isso, o fabricante já entrega pronto, basicamente é isso.
+
+35
+00:01:33,709 --> 00:01:35,450
+O principal é que eu entrei na controladora principal dele pra dar uma olhada.
+
+36
+00:01:35,450 --> 00:01:38,490
+Aí, no terminal, aparece uma mensagem do nada.
+
+37
+00:01:38,490 --> 00:01:39,890
+Disseram que foi a nossa empresa que desenvolveu.
+
+38
+00:01:39,890 --> 00:01:41,990
+Não modifique a Device Tree nem nada do tipo por conta própria.
+
+39
+00:01:41,990 --> 00:01:44,940
+Aí eu pensei, será que para uma vaga dessas... mas...
+
+40
+00:01:44,940 --> 00:01:46,060
+Não, a sua Jushan Intelligence, para isso...
+
+41
+00:01:46,060 --> 00:01:49,460
+A Jushan Intelligence não exige muito conhecimento em driver de LINUX.
+
+42
+00:01:49,460 --> 00:01:50,220
+Então, fala aí sobre o seu momento atual.
+
+43
+00:01:50,220 --> 00:01:53,110
+Sinto que o que eu faço não parece muito com desenvolvimento embarcado.
+
+44
+00:01:53,110 --> 00:01:56,140
+A sensação que eu tenho é que é mais por causa das coisas de C++ e ROS.
+
+45
+00:01:56,140 --> 00:01:58,100
+Sim, a solução dele para a inteligência corpórea é essa.
+
+46
+00:01:58,100 --> 00:02:00,970
+Mas para a sua área de inteligência incorporada, os dispositivos de coleta de dados inteligentes dependem mais dos drivers do Linux.
+
+47
+00:02:00,970 --> 00:02:02,350
+Ah, faz todo o sentido. Entendi.
+
+48
+00:02:02,350 --> 00:02:04,850
+Como você gastaria os 10 mil por mês que a nossa empresa paga?
+
+49
+00:02:04,850 --> 00:02:07,330
+Eu preciso abrir isso aqui, a seca é tanta que até os rios secam, meus amigos.
+
+50
+00:02:07,330 --> 00:02:09,709
+E qual é a posição da inteligência corporificada no momento?
+
+51
+00:02:09,709 --> 00:02:11,349
+A inteligência incorporada deve estar nesta posição.
+
+52
+00:02:11,349 --> 00:02:12,788
+A entrada massiva de capital
+
+53
+00:02:12,788 --> 00:02:14,829
+A janela de oportunidade para os engenheiros.
+
+54
+00:02:14,829 --> 00:02:16,389
+Por que você só ganha 6 mil?
+
+55
+00:02:16,389 --> 00:02:20,710
+É porque você está ali só pra fazer contraste com o nível daqueles que ganham 10 mil no estágio.
+
+56
+00:02:20,710 --> 00:02:22,690
+É por isso que pagam 6 mil para você, meu caro.
+
+57
+00:02:22,690 --> 00:02:25,079
+É exatamente o que esse colega disse.
+
+58
+00:02:25,079 --> 00:02:27,299
+Quando a oportunidade bate na porta, até os porcos voam.
+
+59
+00:02:27,299 --> 00:02:30,220
+Amigo, eu já te confirmei: ele não estava te insultando, chamando você de porco.
+
+60
+00:02:30,220 --> 00:02:31,580
+Você com certeza não é um porco.
+
+61
+00:02:31,580 --> 00:02:34,419
+No começo, eu estava procurando vagas em Wuhan.
+
+62
+00:02:34,419 --> 00:02:36,400
+Mas não encontrou nada em Wuhan.
+
+63
+00:02:36,400 --> 00:02:38,760
+A concorrência aqui é absurda, você simplesmente dominou tudo!
+
+64
+00:02:38,760 --> 00:02:39,680
+Você saiu de Wuhan e simplesmente atropelou todo mundo.
+
+65
+00:02:39,680 --> 00:02:42,930
+as vagas em Shenzhen já foram todas preenchidas por outros.
+
+66
+00:02:42,930 --> 00:02:45,070
+Como você conseguiu um estágio desses?
+
+67
+00:02:45,070 --> 00:02:47,169
+No começo, eu cheguei a mandar quase, tipo, mais de 700 currículos.
+
+68
+00:02:47,169 --> 00:02:53,260
+Nossa, consegui uma vaga na Huaqin, mas fiquei na geladeira, hein.
+
+69
+00:02:53,260 --> 00:02:56,820
+Em Wuhan, tinha uma empresa que fazia um sistema tipo de monitoramento inteligente de água.
+
+70
+00:02:56,820 --> 00:02:58,120
+uma empresa de energia solar, esse tipo de coisa.
+
+71
+00:02:58,120 --> 00:03:00,440
+E aí consegui outra, essa de robótica em Shenzhen.
+
+72
+00:03:00,440 --> 00:03:02,450
+No final, acabei indo para Shenzhen.
+
+73
+00:03:02,450 --> 00:03:04,930
+Nossa, isso é um exagero!
+
+74
+00:03:04,930 --> 00:03:09,270
+Pô, por que hoje à noite tudo que você me traz é pra me chocar?
+
+75
+00:03:09,270 --> 00:03:10,550
+Minha cabeça tá zumbindo agora.
+
+76
+00:03:10,550 --> 00:03:11,350
+Sabe como é?
+
+77
+00:03:11,350 --> 00:03:14,110
+Sinto que hoje em dia esse dinheiro nem parece mais dinheiro, galera.
+
+78
+00:03:14,110 --> 00:03:16,690
+O meu principal medo é não ter profundidade suficiente no meu conhecimento técnico.
+
+79
+00:03:16,690 --> 00:03:18,570
+Eu sinto que, seguindo por essa área,
+
+80
+00:03:18,570 --> 00:03:22,469
+Caramba, hoje em dia até um estágio já paga 10 mil por mês tranquilamente.
+
+81
+00:03:22,469 --> 00:03:29,520
+Muita gente, mesmo indo para uma cidade de primeiro escalão e participando do processo seletivo de final de ano para recém-formados, não consegue um salário de dez mil por mês.
+
+82
+00:03:29,520 --> 00:03:31,020
+A nossa empresa paga bem mais.
+
+83
+00:03:31,020 --> 00:03:33,419
+É que ainda tem pouca gente nessa área.
+

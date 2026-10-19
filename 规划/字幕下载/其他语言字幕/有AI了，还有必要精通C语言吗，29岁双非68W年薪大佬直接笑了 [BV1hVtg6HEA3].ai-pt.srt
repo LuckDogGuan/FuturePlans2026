@@ -1,0 +1,284 @@
+﻿1
+00:00:00,040 --> 00:00:01,160
+Essa pessoa argumenta que...
+
+2
+00:00:01,160 --> 00:00:03,580
+Ele questiona: na era da IA, para que serve a linguagem Verilog?
+
+3
+00:00:03,580 --> 00:00:04,860
+Eu quero... será que eu... agora?
+
+4
+00:00:04,860 --> 00:00:08,500
+Olha, o que eu quero que você faça é pesquisar na internet a SPEC de um IP.
+
+5
+00:00:08,500 --> 00:00:12,539
+Por exemplo, procure pela especificação mais simples, a de uma UART.
+
+6
+00:00:12,539 --> 00:00:15,179
+É como se fosse para vocês, tipo, alguns registradores do manual de referência.
+
+7
+00:00:15,179 --> 00:00:15,939
+Você joga para a IA.
+
+8
+00:00:15,939 --> 00:00:17,310
+Vamos ver se ele consegue escrever o código.
+
+9
+00:00:17,310 --> 00:00:18,670
+Então, no que diz respeito a drivers,
+
+10
+00:00:18,670 --> 00:00:20,070
+Eu não sei qual é a compreensão de vocês sobre drivers,
+
+11
+00:00:20,070 --> 00:00:22,910
+No nosso caso, em sistemas embarcados, não, quero dizer, no nosso hardware embarcado para desenvolvimento de chips,
+
+12
+00:00:22,910 --> 00:00:25,360
+Qual é a compreensão de um engenheiro sobre drivers?
+
+13
+00:00:25,360 --> 00:00:28,080
+Ou seja, cada um dos bits dele, nós temos que escrever manualmente.
+
+14
+00:00:28,080 --> 00:00:29,720
+Talvez, depois de fazer isso muitas vezes, vocês pensem que...
+
+15
+00:00:29,720 --> 00:00:32,440
+Pedi pra IA me ajudar a escrever uma função de envio.
+
+16
+00:00:32,440 --> 00:00:33,540
+e pronto, já sei escrever drivers.
+
+17
+00:00:33,540 --> 00:00:34,440
+Na verdade, não é bem assim.
+
+18
+00:00:34,440 --> 00:00:35,500
+é que você realmente sabe escrever um driver.
+
+19
+00:00:35,500 --> 00:00:38,080
+Você precisa entender cada bit, como ele realmente funciona por dentro.
+
+20
+00:00:38,080 --> 00:00:40,000
+Você precisa saber de tudo isso. Isso sim é saber escrever um driver.
+
+21
+00:00:40,000 --> 00:00:41,720
+e não que eu simplesmente implementei uma função de envio.
+
+22
+00:00:41,720 --> 00:00:43,120
+Aí você pensa: "Pronto, já sei fazer". Mas não é assim.
+
+23
+00:00:43,120 --> 00:00:45,370
+Ele diz que driver é coisa do fabricante.
+
+24
+00:00:45,370 --> 00:00:47,129
+Para mim, que desenvolvo produtos,
+
+25
+00:00:47,129 --> 00:00:48,449
+Não é você que desenvolve o produto.
+
+26
+00:00:48,449 --> 00:00:49,249
+É como eu acabei de dizer, você não...
+
+27
+00:00:49,249 --> 00:00:50,329
+Você não desenvolve produtos.
+
+28
+00:00:50,329 --> 00:00:51,609
+No desenvolvimento de produtos, também existem engenheiros de drivers.
+
+29
+00:00:51,609 --> 00:00:53,589
+Mas esse tipo de trabalho é basicamente só fazer a portabilidade.
+
+30
+00:00:53,589 --> 00:00:54,209
+Como eu acabei de dizer,
+
+31
+00:00:54,209 --> 00:00:58,460
+Não se limite a isso. Você é uma pessoa, tem que usar a cabeça.
+
+32
+00:00:58,460 --> 00:00:59,900
+Se você ficar sempre repetindo
+
+33
+00:00:59,900 --> 00:01:03,360
+Por exemplo, fazer a portabilidade de um Device Tree, esse tipo de coisa não faz o menor sentido pra mim e pra você agora.
+
+34
+00:01:03,360 --> 00:01:07,140
+Ainda mais agora que Linux e IA podem fazer tudo sozinhos.
+
+35
+00:01:07,140 --> 00:01:09,840
+Porque o Linux é extremamente aberto.
+
+36
+00:01:09,840 --> 00:01:12,770
+A IA já leu isso dezenas de milhares de vezes e nem sei quantas mais.
+
+37
+00:01:12,770 --> 00:01:14,050
+Peça pra ele modificar um driver de dispositivo.
+
+38
+00:01:14,050 --> 00:01:15,050
+Você acha que ele não consegue fazer essa alteração?
+
+39
+00:01:15,050 --> 00:01:16,850
+É basicamente isso, ou melhor, vou colocar desta forma:
+
+40
+00:01:16,850 --> 00:01:19,730
+Pede pra IA escrever um driver pro kernel do Linux.
+
+41
+00:01:19,730 --> 00:01:22,390
+é mais simples do que escrever um driver para um MCU.
+
+42
+00:01:22,390 --> 00:01:24,299
+Porque antigamente, toda vez que eu entrava em uma nova empresa,
+
+43
+00:01:24,299 --> 00:01:25,419
+A primeira coisa que eu fazia
+
+44
+00:01:25,419 --> 00:01:28,479
+era dar uma olhada no driver de um GPIO dele.
+
+45
+00:01:28,479 --> 00:01:30,139
+e também o driver de PWM.
+
+46
+00:01:30,139 --> 00:01:32,619
+Com esses dois, eu consigo entender rapidamente o funcionamento do sistema.
+
+47
+00:01:32,619 --> 00:01:33,859
+Como eu faço para...
+
+48
+00:01:33,859 --> 00:01:35,059
+Porque, para configurar qualquer função,
+
+49
+00:01:35,059 --> 00:01:36,729
+Você não consegue escapar dessas duas coisas.
+
+50
+00:01:36,729 --> 00:01:38,609
+Então, é algo que vocês podem e devem aprender.
+
+51
+00:01:38,609 --> 00:01:39,369
+Mas não precisa ir muito a fundo.
+
+52
+00:01:39,369 --> 00:01:42,250
+Porque, na verdade, ele é só um pouco irritante.
+
+53
+00:01:42,250 --> 00:01:44,490
+Mas não tem muita coisa, pode-se dizer assim.
+
+54
+00:01:44,490 --> 00:01:47,370
+Depois disso, vocês já podem pegar o manual de referência do UART dele.
+
+55
+00:01:47,370 --> 00:01:50,080
+criar um registrador UART do zero, bit por bit.
+
+56
+00:01:50,080 --> 00:01:52,240
+Atualmente, no mercado, eu já desenvolvi vários modelos.
+
+57
+00:01:52,240 --> 00:01:54,970
+Todos eles são expansões baseadas no 16050.
+
+58
+00:01:54,970 --> 00:01:57,930
+É aquele conjunto que uma pessoa, há muitos anos, tornou de código aberto.
+
+59
+00:01:57,930 --> 00:02:02,139
+Então, o número de registradores dele fica, no máximo, entre 20 e 30.
+
+60
+00:02:02,139 --> 00:02:04,959
+Alguns têm só 30.
+
+61
+00:02:04,959 --> 00:02:08,199
+Por exemplo, se você usar o IP de um soft-processor, talvez sejam uns trinta ou quarenta.
+
+62
+00:02:08,199 --> 00:02:10,839
+Dedique uma semana para fazer isso,
+
+63
+00:02:10,839 --> 00:02:12,659
+escrevendo ele bit por bit, com calma.
+
+64
+00:02:12,659 --> 00:02:13,599
+e fazer com que ele funcione perfeitamente.
+
+65
+00:02:13,599 --> 00:02:14,639
+Eu acho que o seu progresso seria, no mínimo,
+
+66
+00:02:14,639 --> 00:02:18,719
+vai superar 80% das pessoas da sua turma.
+
+67
+00:02:18,719 --> 00:02:20,538
+Se você aprender apenas isso,
+
+68
+00:02:20,538 --> 00:02:23,589
+Ele disse que já trabalha há 5 anos e só ganha 15 mil.
+
+69
+00:02:23,589 --> 00:02:25,269
+Deixe seu like, siga o canal e comente "666" para receber antecipadamente o plano de estudos resumido pelo mestre. Ele diz sobre essa pessoa: "Nesse caso, por que você ainda não troca de emprego?"
+
+70
+00:02:25,269 --> 00:02:27,469
+Ele falou sobre essa pessoa, e disse que você é o chefe dela.
+
+71
+00:02:27,469 --> 00:02:28,980
+É impossível eu ser o supervisor dele.
+

@@ -1,0 +1,788 @@
+﻿1
+00:00:00,040 --> 00:00:02,900
+At work, has anyone ever looked down on you because of your academic background?
+
+2
+00:00:02,900 --> 00:00:05,680
+Your 'Non-985/211 tier 1 university'... it's not, like, the Central Laboratory Ruins, is it?
+
+3
+00:00:05,680 --> 00:00:07,960
+No, I was just a total nobody back then.
+
+4
+00:00:07,960 --> 00:00:09,539
+So, from your perspective, it's pretty much trash.
+
+5
+00:00:09,539 --> 00:00:10,200
+Well, how should I put this...
+
+6
+00:00:10,200 --> 00:00:11,800
+So, my first impression when I joined the chip company...
+
+7
+00:00:11,800 --> 00:00:13,400
+It's like, they don't have that kind of discrimination at all.
+
+8
+00:00:13,400 --> 00:00:15,880
+Even the bosses, they'll talk to you just fine.
+
+9
+00:00:15,880 --> 00:00:18,440
+This is especially true for those who have worked in a foreign company before.
+
+10
+00:00:18,440 --> 00:00:19,660
+They're very open-minded.
+
+11
+00:00:19,660 --> 00:00:21,000
+All they care about is
+
+12
+00:00:21,000 --> 00:00:24,280
+Even if you don't know how to do something, take it from me, when we were developing a chip...
+
+13
+00:00:24,280 --> 00:00:26,180
+Especially when you're developing something like an automotive SoC.
+
+14
+00:00:26,180 --> 00:00:27,920
+A single chip basically involves a team of three to four hundred people.
+
+15
+00:00:27,920 --> 00:00:29,260
+Everyone's in the same R&D...
+
+16
+00:00:29,260 --> 00:00:31,260
+Maybe two or three hundred people, and they're all in the same group chat, because...
+
+17
+00:00:31,260 --> 00:00:33,670
+I mean, everyone's working on the same product.
+
+18
+00:00:33,670 --> 00:00:34,670
+If you have a question, just ask it.
+
+19
+00:00:34,670 --> 00:00:36,030
+And people are more than happy to help you out.
+
+20
+00:00:36,030 --> 00:00:37,150
+It's not like they're going to say
+
+21
+00:00:37,150 --> 00:00:39,150
+Because I have some classmates who also do that kind of work.
+
+22
+00:00:39,150 --> 00:00:40,830
+Like, for example, those who went to places like Inovance Technology.
+
+23
+00:00:40,830 --> 00:00:41,990
+But their situation is a different story.
+
+24
+00:00:41,990 --> 00:00:43,930
+And I'm not trying to roast Inovance Technology or anything.
+
+25
+00:00:43,930 --> 00:00:46,409
+I mean, it's about the people and the company culture. They're just different.
+
+26
+00:00:46,409 --> 00:00:48,729
+There's just a difference in how people communicate with each other.
+
+27
+00:00:48,729 --> 00:00:50,420
+Anyway, some people just treat people like... well, people.
+
+28
+00:00:50,420 --> 00:00:51,540
+while others just treat them like machines.
+
+29
+00:00:51,540 --> 00:00:52,560
+Anyway, that's the gist of it.
+
+30
+00:00:52,560 --> 00:00:53,760
+So, from your perspective,
+
+31
+00:00:53,760 --> 00:00:57,690
+Actually, earning 500,000 a year in the built-in appliance industry isn't that hard at all.
+
+32
+00:00:57,690 --> 00:00:59,270
+That's just the entry-level.
+
+33
+00:00:59,270 --> 00:01:01,710
+If you went to a university ranked in the second batch or higher,
+
+34
+00:01:01,710 --> 00:01:03,070
+So, it's definitely not hard.
+
+35
+00:01:03,070 --> 00:01:04,729
+As long as you're genuinely willing to learn,
+
+36
+00:01:04,729 --> 00:01:07,049
+So, you think for Age III, it's a bit more about luck and opportunity.
+
+37
+00:01:07,049 --> 00:01:09,069
+Because for Age III, it's a bit of a numbers game, you know, just sending out a ton of resumes.
+
+38
+00:01:09,069 --> 00:01:10,700
+The Age III upgrade is a bit tough.
+
+39
+00:01:10,700 --> 00:01:11,740
+It's a bit of a resume filter.
+
+40
+00:01:11,740 --> 00:01:12,980
+The main point isn't that their technical skills are lacking.
+
+41
+00:01:12,980 --> 00:01:13,660
+It's just that they get screened out by the resume filter.
+
+42
+00:01:13,660 --> 00:01:16,300
+He's just going through the motions with his resume. Because for built-in appliances, you don't really need any specific knowledge, especially for something like Age III.
+
+43
+00:01:16,300 --> 00:01:17,240
+And now we have AI.
+
+44
+00:01:17,240 --> 00:01:17,860
+And if your English is bad, you've got AI for that.
+
+45
+00:01:17,860 --> 00:01:20,500
+All those documents are in English, you know, the ones you just click through.
+
+46
+00:01:20,500 --> 00:01:21,940
+Just read whatever you want.
+
+47
+00:01:21,940 --> 00:01:23,380
+After reading for a year or two, your own English will just...
+
+48
+00:01:23,380 --> 00:01:25,289
+and your skills will just shoot right up.
+
+49
+00:01:25,289 --> 00:01:27,089
+But your academic background might be a barrier.
+
+50
+00:01:27,089 --> 00:01:27,909
+That's all I can say.
+
+51
+00:01:27,909 --> 00:01:29,390
+So what about graduates from the second batch of universities?
+
+52
+00:01:29,390 --> 00:01:30,630
+Even graduates from the second batch of universities have a real shot.
+
+53
+00:01:30,630 --> 00:01:31,910
+I've actually hired a few people from the second batch of universities.
+
+54
+00:01:31,910 --> 00:01:32,870
+But they were really good at their job.
+
+55
+00:01:32,870 --> 00:01:35,980
+So he asked, 'Do you have any advice for, you know, the average person?'
+
+56
+00:01:35,980 --> 00:01:37,220
+Anyway, here's what I told him.
+
+57
+00:01:37,220 --> 00:01:39,120
+So, for the first five years after you graduate, I'd actually recommend you switch jobs.
+
+58
+00:01:39,120 --> 00:01:40,900
+Unless, of course, you're going somewhere like Huawei.
+
+59
+00:01:40,900 --> 00:01:43,150
+Because their overtime pay is just insane.
+
+60
+00:01:43,150 --> 00:01:45,190
+Plus, they have a really great policy.
+
+61
+00:01:45,190 --> 00:01:46,290
+When you first get in,
+
+62
+00:01:46,290 --> 00:01:48,110
+as long as you're not completely out of line.
+
+63
+00:01:48,110 --> 00:01:49,270
+If you stick with it for, say, about ten years,
+
+64
+00:01:49,270 --> 00:01:52,230
+the salary will be ridiculously high.
+
+65
+00:01:52,230 --> 00:01:53,870
+One or two hundred thousand? Yeah, that's a given.
+
+66
+00:01:53,870 --> 00:01:54,750
+I mean, in the chip industry.
+
+67
+00:01:54,750 --> 00:01:55,630
+I'm not sure about the product side, though.
+
+68
+00:01:55,630 --> 00:01:56,470
+I work in the chip industry.
+
+69
+00:01:56,470 --> 00:01:59,070
+Because I remember, like, people around me, those guys in our company who came from Huawei...
+
+70
+00:01:59,070 --> 00:02:00,480
+Anyway, it's usually around two or three hundred.
+
+71
+00:02:00,480 --> 00:02:02,560
+Yeah, around 15 years ago, it was two to three hundred.
+
+72
+00:02:02,560 --> 00:02:03,920
+How often should you job-hop?
+
+73
+00:02:03,920 --> 00:02:07,570
+Yeah, I'd say at least three job hops in five years.
+
+74
+00:02:07,570 --> 00:02:08,510
+Exactly.
+
+75
+00:02:08,510 --> 00:02:10,490
+Of course, the whole point of job-hopping is that you have to be learning.
+
+76
+00:02:10,490 --> 00:02:11,570
+For me, the first three years after I graduated...
+
+77
+00:02:11,570 --> 00:02:13,110
+I remember my first year after graduation...
+
+78
+00:02:13,110 --> 00:02:14,990
+Anyway, for the first three years after you graduate, just focus on learning.
+
+79
+00:02:14,990 --> 00:02:15,910
+Anyway, once you've learned...
+
+80
+00:02:15,910 --> 00:02:19,430
+and you feel like you've only grown by about 30% compared to the year before.
+
+81
+00:02:19,430 --> 00:02:20,230
+that's when you can start looking for a new job.
+
+82
+00:02:20,230 --> 00:02:22,270
+Here's how I see it.
+
+83
+00:02:22,270 --> 00:02:25,389
+So, at the chip-maker you're at now, do you guys get a two-day weekend?
+
+84
+00:02:25,710 --> 00:02:27,830
+I haven't had to work overtime on a Saturday in a long time.
+
+85
+00:02:27,830 --> 00:02:28,930
+That's all I can say.
+
+86
+00:02:28,930 --> 00:02:32,169
+Okay, so you guys usually start work at 9 a.m.
+
+87
+00:02:32,169 --> 00:02:33,210
+And what time do you guys get off in the afternoon?
+
+88
+00:02:33,210 --> 00:02:34,450
+Like me, for example.
+
+89
+00:02:34,450 --> 00:02:36,010
+It's because I live a bit far from the office.
+
+90
+00:02:36,010 --> 00:02:38,690
+I usually get to the office between 9 and 9:30.
+
+91
+00:02:38,690 --> 00:02:40,389
+If I don't have anything going on in the evening, I'll leave at 6:30.
+
+92
+00:02:40,389 --> 00:02:41,508
+So I'm out of there by 6:30.
+
+93
+00:02:41,508 --> 00:02:43,269
+If I have things to do, I'll stay until 9.
+
+94
+00:02:43,269 --> 00:02:45,749
+So your company has more of a foreign company vibe.
+
+95
+00:02:45,749 --> 00:02:49,549
+The few semiconductor companies I've worked for, well, they all had a bit of that vibe.
+
+96
+00:02:49,549 --> 00:02:51,389
+Well, I've never actually worked for a foreign company anyway.
+
+97
+00:02:51,389 --> 00:02:52,660
+I think it's pretty good.
+
+98
+00:02:52,660 --> 00:02:54,780
+Take my bros who are in product management, for example.
+
+99
+00:02:54,780 --> 00:02:55,340
+or for my classmates,
+
+100
+00:02:55,340 --> 00:02:56,740
+So, when you're looking for a pay raise,
+
+101
+00:02:56,740 --> 00:03:00,389
+Do you think your boss will hold it against you, being from a non-985/211 university, or just a regular 'the first batch of universities'? It's been 5 years.
+
+102
+00:03:00,389 --> 00:03:01,350
+When I got into the company,
+
+103
+00:03:01,350 --> 00:03:03,190
+Anyway, throughout all the jobs I've had up to this point,
+
+104
+00:03:03,190 --> 00:03:05,740
+Not a single person has ever asked me about my diploma.
+
+105
+00:03:05,740 --> 00:03:06,980
+If I can get an interview, it all comes down to the interview itself.
+
+106
+00:03:06,980 --> 00:03:07,700
+And that was it.
+
+107
+00:03:07,700 --> 00:03:09,020
+It was just a simple Q&A, you know? Whatever he asked, I answered.
+
+108
+00:03:09,020 --> 00:03:10,620
+So, how do you feel you did during your interviews?
+
+109
+00:03:10,620 --> 00:03:12,780
+Can the interviewer outsmart you?
+
+110
+00:03:13,010 --> 00:03:14,410
+But for the second one, he got the better of me.
+
+111
+00:03:14,410 --> 00:03:15,810
+Because, to be honest, back then...
+
+112
+00:03:15,810 --> 00:03:19,480
+I knew how to do this kind of development on the Linux kernel, I knew how to do it.
+
+113
+00:03:19,480 --> 00:03:22,840
+But back then, I had only done some simple work, you know, just developing a few modules.
+
+114
+00:03:22,840 --> 00:03:23,960
+Because, back at my first company,
+
+115
+00:03:23,960 --> 00:03:26,020
+The only thing I'd ever developed was UART.
+
+116
+00:03:26,020 --> 00:03:27,120
+And I also did some work with CAN.
+
+117
+00:03:27,120 --> 00:03:31,220
+As for everything else, I was just testing an IP from an Amental platform.
+
+118
+00:03:31,220 --> 00:03:33,300
+to verify its...
+
+119
+00:03:33,300 --> 00:03:35,420
+to see if the functionality and signals meet the expectations.
+
+120
+00:03:35,420 --> 00:03:37,880
+And also performance, you know, making sure it meets the performance requirements.
+
+121
+00:03:37,880 --> 00:03:39,060
+But I rarely get into that.
+
+122
+00:03:39,060 --> 00:03:40,520
+I've also done some development on the U-BOOT side.
+
+123
+00:03:40,520 --> 00:03:42,320
+But as for Linux, I haven't really touched on that, I mean...
+
+124
+00:03:42,320 --> 00:03:44,310
+Uh, some of those IPs, you know...
+
+125
+00:03:44,310 --> 00:03:45,030
+Because I was the one who took on that project.
+
+126
+00:03:45,030 --> 00:03:46,910
+So, I would also port its driver at the same time.
+
+127
+00:03:46,910 --> 00:03:49,110
+Because for those developing SoCs in the market today,
+
+128
+00:03:49,110 --> 00:03:50,820
+Most of their IPs are not in-house developed.
+
+129
+00:03:50,820 --> 00:03:52,300
+Basically, for the core IPs, you either buy from Synopsys...
+
+130
+00:03:52,300 --> 00:03:53,180
+or they buy from one of those two, Cadence.
+
+131
+00:03:53,180 --> 00:03:55,620
+So all you have to do is go in and tweak the device count.
+
+132
+00:03:55,620 --> 00:03:57,030
+Just change the base address and you're done.
+
+133
+00:03:57,030 --> 00:03:58,950
+I never really went deep into learning this stuff.
+
+134
+00:03:58,950 --> 00:04:00,150
+But my second company was a different story.
+
+135
+00:04:00,150 --> 00:04:02,810
+So, when I joined the second company, I was working on, uh, the complex area of Functional safety.
+
+136
+00:04:02,810 --> 00:04:06,370
+I started poring over that ARMv8 document, the one from, uh, Arm, you know, the one that's over 10,000 pages long.
+
+137
+00:04:06,370 --> 00:04:07,950
+I was just grinding through that 12,000-plus-page manual.
+
+138
+00:04:07,950 --> 00:04:09,610
+And that's when I really started making huge progress.
+
+139
+00:04:09,610 --> 00:04:12,840
+So that's when I started, you know, looking at the open-source code other people had written.
+
+140
+00:04:12,840 --> 00:04:14,900
+I was poring over that manual, trying things out one by one.
+
+141
+00:04:14,900 --> 00:04:16,399
+What does a feature like this actually look like in practice?
+
+142
+00:04:16,399 --> 00:04:17,999
+How exactly are these signals supposed to flow?
+
+143
+00:04:17,999 --> 00:04:19,359
+From my perspective, all this stuff...
+
+144
+00:04:19,359 --> 00:04:22,440
+Anyway, that was definitely the period where I grew the most.
+
+145
+00:04:22,440 --> 00:04:28,560
+So, for you, both before and now, your main focus has been on the M-series cores?
+
+146
+00:04:28,560 --> 00:04:35,850
+So, you've also worked with ARM's IP and SoC design for the MV7 and MV8 series, is that right?
+
+147
+00:04:35,850 --> 00:04:41,580
+Right, my previous work was mainly with the Cortex-M series.
+
+148
+00:04:41,580 --> 00:04:43,420
+And there's the R5 series, too.
+
+149
+00:04:43,420 --> 00:04:46,240
+And on top of that, there's the A7, A8, and AE series. What about these ones now?
+
+150
+00:04:46,240 --> 00:04:49,779
+So I've gone all-in on RISC-V.
+
+151
+00:04:49,779 --> 00:04:55,460
+So, what do you think? How does RISC-V stack up against ARM right now?
+
+152
+00:04:55,460 --> 00:04:57,000
+So, what are its advantages?
+
+153
+00:04:57,000 --> 00:04:58,120
+Here's what I'd say.
+
+154
+00:04:58,120 --> 00:05:00,660
+First off, it's an open-source instruction set.
+
+155
+00:05:00,660 --> 00:05:02,320
+As long as you follow the open-source license,
+
+156
+00:05:02,320 --> 00:05:04,130
+you can take it and use it for your own commercial purposes.
+
+157
+00:05:04,130 --> 00:05:06,370
+Another thing is, it's not like ARM.
+
+158
+00:05:06,370 --> 00:05:08,130
+Because, back in the day, ARM was actually split into two different types.
+
+159
+00:05:08,130 --> 00:05:09,570
+I'm not sure if you guys have ever looked into this,
+
+160
+00:05:09,570 --> 00:05:10,570
+One of them is the public domain version.
+
+161
+00:05:10,570 --> 00:05:13,080
+One type, the one with the complete instruction set, is more expensive.
+
+162
+00:05:13,080 --> 00:05:15,279
+But the development difficulty is pretty high.
+
+163
+00:05:15,279 --> 00:05:17,240
+what it requires from your system
+
+164
+00:05:17,240 --> 00:05:21,140
+For an architect, there's another fundamental level where you can take those instruction sets and the features you want,
+
+165
+00:05:21,140 --> 00:05:23,659
+You can build upon that foundation and expand it yourself.
+
+166
+00:05:23,659 --> 00:05:27,700
+But in the end, the ownership, or rather, the right to define it, still belongs to a company like ARM.
+
+167
+00:05:27,700 --> 00:05:29,300
+Then there's the other type, the public domain one I just mentioned.
+
+168
+00:05:29,300 --> 00:05:30,220
+ARM has already developed it for you.
+
+169
+00:05:30,220 --> 00:05:31,520
+You just take it and use it directly.
+
+170
+00:05:31,520 --> 00:05:32,380
+But it's a black box.
+
+171
+00:05:32,380 --> 00:05:33,390
+You can't see what's inside.
+
+172
+00:05:33,390 --> 00:05:36,950
+So, for better companies, they tend to be more independent.
+
+173
+00:05:36,950 --> 00:05:37,830
+Take Huawei, for example.
+
+174
+00:05:37,830 --> 00:05:40,390
+What they're buying is the instruction set license.
+
+175
+00:05:40,390 --> 00:05:43,380
+But they won't just go and buy the finished, high-performance chips that they make.
+
+176
+00:05:44,460 --> 00:05:46,540
+But with RISC-V, the first thing is that it's open-source.
+
+177
+00:05:46,540 --> 00:05:47,770
+So, like I was saying,
+
+178
+00:05:47,770 --> 00:05:50,930
+You can build upon its extensions and instructions to create whatever you want.
+
+179
+00:05:50,930 --> 00:05:56,500
+For example, let's say you find that the MMU or SMMU in RISC-V isn't good enough for your needs.
+
+180
+00:05:56,500 --> 00:05:57,960
+or the PMU isn't good enough,
+
+181
+00:05:57,960 --> 00:06:01,430
+You can build upon it and create your own version from scratch.
+
+182
+00:06:01,430 --> 00:06:03,570
+Uh, and on top of that, you can mix and match them yourself.
+
+183
+00:06:03,570 --> 00:06:07,970
+So you're completely unaffected by their, you know, commercial agreements. And secondly,
+
+184
+00:06:07,970 --> 00:06:10,940
+And there are a ton of people doing this.
+
+185
+00:06:10,940 --> 00:06:11,700
+So, what's the upside to all this?
+
+186
+00:06:11,700 --> 00:06:13,460
+So, for the past couple of years, I've been diving into RISC-V and all that stuff.
+
+187
+00:06:13,460 --> 00:06:15,740
+It's kind of like Linux back in the day.
+
+188
+00:06:15,740 --> 00:06:18,120
+A lot of people are jumping on board to play with it.
+
+189
+00:06:18,120 --> 00:06:21,360
+So that's why its QEMU, QEMU is updated incredibly fast.
+
+190
+00:06:21,360 --> 00:06:23,460
+So, for your semiconductor company,
+
+191
+00:06:23,460 --> 00:06:26,660
+So, when you're working on these extensions based on RISC-V,
+
+192
+00:06:26,660 --> 00:06:29,500
+Maybe your design and architecture teams haven't even finished building that feature yet,
+
+193
+00:06:29,500 --> 00:06:31,500
+They've only just proposed the feature and how it should be implemented.
+
+194
+00:06:31,500 --> 00:06:34,010
+So you can use QEMU to get a head start on that.
+
+195
+00:06:34,010 --> 00:06:35,529
+So you can start validating the software and everything.
+
+196
+00:06:35,529 --> 00:06:36,450
+It's just so much better than...
+
+197
+00:06:36,450 --> 00:06:41,420
+In any case, it's better than any other instruction set architecture you can find on the market right now.
+

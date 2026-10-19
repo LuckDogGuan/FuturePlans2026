@@ -1,0 +1,684 @@
+﻿1
+00:00:00,040 --> 00:00:03,279
+Menurut Anda, baik dari segi gaji maupun prospek pengembangan
+
+2
+00:00:03,279 --> 00:00:05,600
+yang tertinggi adalah level 1 yang paling keren.
+
+3
+00:00:05,600 --> 00:00:07,240
+level1 uh
+
+4
+00:00:07,240 --> 00:00:08,380
+Eh, itu adalah arsitektur perangkat lunak.
+
+5
+00:00:08,380 --> 00:00:11,289
+Yang kedua, eh, fungsional keselamatan
+
+6
+00:00:12,420 --> 00:00:14,280
+Yang ketiga agak sedikit berisiko.
+
+7
+00:00:14,280 --> 00:00:16,560
+menuliskan protokol sumber terbuka dan tumpukan protokol
+
+8
+00:00:16,560 --> 00:00:17,579
+Agak, agak berisiko.
+
+9
+00:00:17,579 --> 00:00:19,940
+Itu benar-benar dilakukan dengan mentalitas berjudi
+
+10
+00:00:19,940 --> 00:00:21,920
+Itu mungkin seperti memulai bisnis.
+
+11
+00:00:21,920 --> 00:00:23,300
+Awalnya saya punya kesempatan untuk melakukannya
+
+12
+00:00:23,300 --> 00:00:23,940
+Tapi saya tidak pergi
+
+13
+00:00:23,940 --> 00:00:26,760
+Anda juga telah melakukan keamanan fungsional.
+
+14
+00:00:26,760 --> 00:00:30,460
+Ya, menurut Anda apakah fungsional keselamatan punya masa depan?
+
+15
+00:00:30,460 --> 00:00:32,340
+Sejujurnya, jika Anda belajar keselamatan fungsional dengan baik,
+
+16
+00:00:32,340 --> 00:00:34,260
+Itu yang paling, itu yang paling menjanjikan kedua, ya.
+
+17
+00:00:34,260 --> 00:00:36,589
+Tidak bisa dibilang kedua, ini cukup menjanjikan
+
+18
+00:00:36,589 --> 00:00:37,469
+Karena hal itu tidak lagi dibedakan menjadi nomor satu atau dua.
+
+19
+00:00:37,469 --> 00:00:38,668
+Saya pikir hal ini sudah
+
+20
+00:00:38,668 --> 00:00:41,149
+Karena di masa depan, Anda membuat produk apa pun
+
+21
+00:00:41,149 --> 00:00:43,120
+Itu harus memiliki keamanan fungsional.
+
+22
+00:00:43,120 --> 00:00:47,000
+Menurutmu begitu, tapi soal fungsional safety, mereka semua bilang tidak perlu menulis kode.
+
+23
+00:00:47,320 --> 00:00:49,220
+Siapa bilang keamanan fungsional tidak perlu menulis kode?
+
+24
+00:00:49,220 --> 00:00:50,600
+Keamanan fungsional, Anda tidak menulis kode
+
+25
+00:00:50,600 --> 00:00:53,080
+Bagaimana Anda tahu apakah itu aman atau tidak?
+
+26
+00:00:53,080 --> 00:00:56,720
+Menurut Anda, mana yang paling menjanjikan sekarang, dibandingkan dengan fungsional safety?
+
+27
+00:00:56,720 --> 00:00:58,580
+Apa yang lebih menjanjikan daripada keamanan fungsional?
+
+28
+00:00:58,580 --> 00:01:01,240
+Menurut saya, fungsional safety dan arsitek sistem
+
+29
+00:01:01,240 --> 00:01:02,940
+Mereka berdua tidak terpisah satu sama lain
+
+30
+00:01:02,940 --> 00:01:03,680
+Anda benar-benar melakukan pekerjaan yang baik
+
+31
+00:01:03,680 --> 00:01:05,360
+Karena Anda sungguh, arsitektur sistem
+
+32
+00:01:05,360 --> 00:01:08,819
+Arsitektur sistem apa yang Anda bicarakan?
+
+33
+00:01:08,819 --> 00:01:10,420
+Sistem adalah arsitektur sistem perangkat lunak
+
+34
+00:01:10,420 --> 00:01:12,860
+Bukan jenis produk, jenis posisi.
+
+35
+00:01:12,860 --> 00:01:15,110
+Arsitektur seperti apa yang Anda bicarakan?
+
+36
+00:01:15,110 --> 00:01:16,870
+Arsitektur juga dibagi menjadi banyak jenis.
+
+37
+00:01:16,870 --> 00:01:20,950
+Misalnya Anda menjadi seorang arsitek OS (sistem operasi), atau seorang arsitek kepala.
+
+38
+00:01:20,950 --> 00:01:23,190
+Arsitek kepala, di sisi pelanggan produk
+
+39
+00:01:23,190 --> 00:01:27,340
+atau penjualan Anda, yang melaporkan kembali beberapa persyaratan
+
+40
+00:01:27,340 --> 00:01:28,810
+Setelah integrasi ini
+
+41
+00:01:28,810 --> 00:01:31,830
+Anda harus tahu bagaimana menerapkan fungsi ini
+
+42
+00:01:31,830 --> 00:01:33,850
+Seperti arsitektur chip saya sebelumnya
+
+43
+00:01:33,850 --> 00:01:36,430
+Setelah mengintegrasikan semua persyaratan ini
+
+44
+00:01:36,430 --> 00:01:39,450
+Pertama, dia harus memikirkan keselamatan fungsional, bagaimana cara membuatnya...
+
+45
+00:01:39,450 --> 00:01:41,090
+Keselamatan fungsional juga disertakan.
+
+46
+00:01:41,090 --> 00:01:44,360
+Akhirnya membentuk fungsi yang diinginkan pelanggan.
+
+47
+00:01:44,360 --> 00:01:47,360
+Misalnya, fungsi yang kami lakukan sebelumnya
+
+48
+00:01:47,360 --> 00:01:48,420
+membuat EMU
+
+49
+00:01:48,420 --> 00:01:51,300
+Hal ini juga merupakan chip dari banyak perusahaan, yang diinginkan pelanggan saat itu.
+
+50
+00:01:51,300 --> 00:01:52,180
+Perusahaan tidak memiliki fungsi
+
+51
+00:01:52,180 --> 00:01:55,280
+Dia mengambil semua, eh, sinyal kesalahan itu
+
+52
+00:01:55,280 --> 00:01:58,160
+Terintegrasi ke dalam sebuah EMU.
+
+53
+00:01:58,160 --> 00:01:59,539
+dalam sebuah EMU
+
+54
+00:01:59,539 --> 00:02:04,910
+EMU ini dirancang agar Anda dapat mengontrol apakah kesalahan dilaporkan ke CPU
+
+55
+00:02:04,910 --> 00:02:07,230
+Atau apakah itu hanya menghasilkan interupsi perangkat lunak?
+
+56
+00:02:07,230 --> 00:02:09,810
+tidak melakukan pemrosesan yang sangat rumit
+
+57
+00:02:09,810 --> 00:02:10,970
+bisa dikontrol untuk memprosesnya atau tidak
+
+58
+00:02:10,970 --> 00:02:13,150
+mengelola beberapa izin kesalahan ini
+
+59
+00:02:13,150 --> 00:02:14,410
+Setelah hal ini dibuat
+
+60
+00:02:14,410 --> 00:02:16,880
+Sebenarnya, ini sangat bagus untuk mobil.
+
+61
+00:02:16,880 --> 00:02:19,000
+Pelanggan dapat mengontrol sendiri mana yang sebenarnya penting.
+
+62
+00:02:19,000 --> 00:02:19,639
+mana yang tidak penting
+
+63
+00:02:19,639 --> 00:02:21,900
+Tidak seperti sekarang, semuanya harus dilaporkan secara seragam.
+
+64
+00:02:21,900 --> 00:02:23,900
+Interupsi akan berada pada satu interupsi
+
+65
+00:02:23,900 --> 00:02:27,280
+Dalam satu interupsi, ada banyak peringatan dan kesalahan.
+
+66
+00:02:27,280 --> 00:02:28,440
+Jadi itu tidak baik
+
+67
+00:02:28,440 --> 00:02:30,460
+Menurutmu, arsitektur sistem ini
+
+68
+00:02:30,460 --> 00:02:34,580
+Dia mengubah kebutuhan pelanggan menjadi
+
+69
+00:02:34,580 --> 00:02:38,220
+secara bertahap dijelaskan sebagai sesuatu yang dapat diimplementasikan
+
+70
+00:02:38,220 --> 00:02:41,780
+Mungkin teknis, dan desain arsitektur
+
+71
+00:02:41,780 --> 00:02:43,560
+Desain arsitektur perangkat lunak
+
+72
+00:02:43,560 --> 00:02:46,440
+Tapi hal-hal ini sepertinya semua dia tulis dalam dokumen.
+
+73
+00:02:46,440 --> 00:02:49,130
+Bagaimana dia bisa menunjukkannya, tanpa benar-benar menulis kode?
+
+74
+00:02:49,130 --> 00:02:49,850
+Seperti yang Anda lakukan
+
+75
+00:02:49,850 --> 00:02:51,650
+Lalu bagaimana dia bisa menunjukkan kehebatannya?
+
+76
+00:02:51,650 --> 00:02:53,579
+lebih cenderung menulis dokumen
+
+77
+00:02:53,579 --> 00:02:56,139
+Tapi jika kemampuan coding Anda tidak cukup
+
+78
+00:02:56,139 --> 00:02:57,299
+Anda hanya menulis dokumen kosong di sana
+
+79
+00:02:57,299 --> 00:02:58,419
+Anda tidak akan bisa menulisnya.
+
+80
+00:02:58,419 --> 00:03:00,379
+Atau jika kamu menulis sesuatu, tanpa memahami hal tersebut,
+
+81
+00:03:00,379 --> 00:03:05,240
+Yang kamu tulis akan membuat orang berpikir, kamu sangat, sangat, sangat tidak berguna.
+
+82
+00:03:05,240 --> 00:03:07,700
+Saya tidak tahu bagaimana mendeskripsikan kata sifat seperti ini
+
+83
+00:03:07,700 --> 00:03:11,330
+Maksudmu, untuk menulis yang seperti ini
+
+84
+00:03:11,330 --> 00:03:14,490
+Misalnya kebutuhan perangkat lunak, untuk menstandarisasi antarmuka dan arsitektur perangkat lunak ini kepada orang lain.
+
+85
+00:03:14,490 --> 00:03:19,200
+Di pabrik chip ini sangat populer, ya
+
+86
+00:03:19,200 --> 00:03:22,600
+Tetapi mereka bilang arsitektur perangkat lunak sangat mudah digantikan oleh AI.
+
+87
+00:03:22,600 --> 00:03:23,800
+Sebenarnya Anda harus mengatakannya seperti ini
+
+88
+00:03:23,800 --> 00:03:25,860
+Di masa depan, apa pun akan digantikan oleh AI.
+
+89
+00:03:25,860 --> 00:03:29,419
+Berapa gaji arsitek perangkat lunak di perusahaan Anda?
+
+90
+00:03:30,540 --> 00:03:33,940
+Entahlah, perusahaan kami tidak punya arsitek perangkat lunak sekarang.
+
+91
+00:03:34,220 --> 00:03:35,380
+Nah, bagaimana dengan arsitektur perangkat lunak?
+
+92
+00:03:35,380 --> 00:03:36,060
+Yang kamu temui
+
+93
+00:03:36,060 --> 00:03:38,780
+Menurut Anda, di bidang apa kemampuannya sangat kuat?
+
+94
+00:03:38,780 --> 00:03:40,120
+Selain menulis kode
+
+95
+00:03:40,120 --> 00:03:44,270
+Dia bisa menganalisis modul-modul di dalam chip
+
+96
+00:03:44,270 --> 00:03:46,410
+Dia bisa menjelaskan kepadamu, eh, modul apa saja.
+
+97
+00:03:46,410 --> 00:03:46,850
+Anda berbicara dengannya
+
+98
+00:03:46,850 --> 00:03:48,860
+Dia pada dasarnya bisa menjelaskan semuanya dengan jelas kepada Anda.
+
+99
+00:03:48,860 --> 00:03:50,800
+Saya paling ingat waktu itu orang tersebut sangat luar biasa.
+
+100
+00:03:50,800 --> 00:03:51,980
+Apakah begitu
+
+101
+00:03:51,980 --> 00:03:53,860
+Misalnya, kunci-kunci di dalam kernel.
+
+102
+00:03:53,860 --> 00:03:54,860
+Bagaimana cara menggunakannya?
+
+103
+00:03:55,900 --> 00:03:58,240
+Dan juga beberapa set instruksi
+
+104
+00:03:58,240 --> 00:03:59,900
+Mengapa melakukan ini? Tapi saya
+
+105
+00:03:59,900 --> 00:04:02,850
+membuat saya berbicara tentang m BST itu
+
+106
+00:04:02,850 --> 00:04:03,670
+Itu adalah m beast
+
+107
+00:04:03,670 --> 00:04:05,050
+Dan juga MMU itu
+
+108
+00:04:05,050 --> 00:04:08,370
+Bagaimana benda ini dipetakan?
+
+109
+00:04:08,370 --> 00:04:09,570
+Mengapa hanya ada beberapa register?
+
+110
+00:04:09,570 --> 00:04:11,000
+bisa melakukan fungsi sekuat itu
+
+111
+00:04:11,000 --> 00:04:12,800
+Itu dapat dengan cepat menggambar diagram
+
+112
+00:04:12,800 --> 00:04:14,120
+satu per satu akan dijelaskan kepadamu
+
+113
+00:04:14,120 --> 00:04:15,440
+Pokoknya sangat kuat
+
+114
+00:04:15,440 --> 00:04:16,820
+memungkinkan Anda untuk memahami dengan cepat
+
+115
+00:04:16,820 --> 00:04:18,140
+Dia pasti sudah melakukan hal-hal ini.
+
+116
+00:04:18,140 --> 00:04:19,940
+Dia baru bisa mengatakan hal seperti ini
+
+117
+00:04:19,940 --> 00:04:23,110
+Jadi menurut Anda saat ini, dibandingkan dengan keamanan fungsional,
+
+118
+00:04:23,110 --> 00:04:26,310
+Menurut Anda, arah yang paling menjanjikan adalah arsitektur perangkat lunak ini.
+
+119
+00:04:26,310 --> 00:04:27,700
+selalu benar
+
+120
+00:04:27,700 --> 00:04:29,520
+dibandingkan dengan fungsional keamanan
+
+121
+00:04:29,520 --> 00:04:33,839
+Yang paling hebat adalah arsitektur perangkat lunak.
+
+122
+00:04:33,839 --> 00:04:37,600
+Dan fungsional keamanan dapat dipelajari, yang disebut beberapa fungsi industri.
+
+123
+00:04:37,600 --> 00:04:39,430
+definisi keamanan fungsional
+
+124
+00:04:39,430 --> 00:04:41,510
+Misalnya untuk sistem di mobil Anda
+
+125
+00:04:41,510 --> 00:04:43,230
+Definisi keamanan fungsional ini sebenarnya sangat kompleks
+
+126
+00:04:43,230 --> 00:04:45,110
+Dokumen-dokumennya sangat banyak.
+
+127
+00:04:45,110 --> 00:04:46,589
+Anda dapat meluangkan waktu untuk mempelajarinya
+
+128
+00:04:46,589 --> 00:04:48,650
+Biasanya perusahaan yang lebih besar
+
+129
+00:04:48,650 --> 00:04:50,810
+Dia secara khusus membangun yang seperti ini
+
+130
+00:04:50,810 --> 00:04:52,490
+Departemen yang menyuruhnya untuk mempelajari manual-manual tersebut
+
+131
+00:04:52,490 --> 00:04:55,210
+Karena perangkat lunak Anda tidak memenuhi persyaratan tersebut.
+
+132
+00:04:55,210 --> 00:04:56,460
+Sertifikasi Anda juga tidak akan lulus.
+
+133
+00:04:56,460 --> 00:05:00,420
+Menurut Anda, bagaimana caranya agar di masa depan, kita bisa menjadi arsitek perangkat lunak?
+
+134
+00:05:00,420 --> 00:05:01,820
+Ini yang ingin dilakukan banyak orang.
+
+135
+00:05:01,820 --> 00:05:02,779
+Tapi rasanya sulit.
+
+136
+00:05:02,779 --> 00:05:04,140
+Tidak semua orang bisa melakukannya
+
+137
+00:05:04,140 --> 00:05:08,039
+Menurut saya sekarang, dibandingkan dengan dua tahun lalu, belajar sudah tidak sesulit itu.
+
+138
+00:05:08,039 --> 00:05:09,639
+Apa metode belajar Anda?
+
+139
+00:05:09,639 --> 00:05:11,750
+Apakah Anda mengerjakan arsitektur perangkat lunak sekarang?
+
+140
+00:05:11,750 --> 00:05:12,890
+Saya tidak sedang melakukannya.
+
+141
+00:05:12,890 --> 00:05:14,529
+Saya belum mencapai level itu.
+
+142
+00:05:14,529 --> 00:05:16,089
+Menurutmu, arsitektur perangkat lunak ini
+
+143
+00:05:16,089 --> 00:05:17,870
+Kemampuan apa yang perlu dimiliki
+
+144
+00:05:17,870 --> 00:05:20,029
+Anda bersedia, Anda bersedia membaca manual dengan sabar
+
+145
+00:05:20,029 --> 00:05:22,320
+Karena sebenarnya pengetahuan-pengetahuan itu sudah tetap / kaku.
+
+146
+00:05:22,320 --> 00:05:24,200
+Mengapa saya mengatakan sekarang akan lebih mudah daripada dua tahun lalu
+
+147
+00:05:24,200 --> 00:05:25,180
+Karena sekarang sudah ada AI
+
+148
+00:05:25,180 --> 00:05:27,039
+AI sudah sangat kenyang dicegat data
+
+149
+00:05:27,039 --> 00:05:27,999
+Dia sudah bisa
+
+150
+00:05:27,999 --> 00:05:29,119
+Kalau kamu tidak paham manualnya, tanyakan saja padanya.
+
+151
+00:05:29,119 --> 00:05:30,880
+Dia akan menjelaskannya secara rinci kepadamu.
+
+152
+00:05:30,880 --> 00:05:35,260
+Menurutmu, bagaimana dia bisa menguraikan kebutuhan menjadi setiap modul fungsional?
+
+153
+00:05:35,260 --> 00:05:37,140
+Bagaimana cara melatih kemampuan itu?
+
+154
+00:05:37,140 --> 00:05:39,120
+Menurut saya, kemampuan ini
+
+155
+00:05:39,120 --> 00:05:43,290
+Pokoknya, dulu prinsip saya adalah mempelajari modul manual.
+
+156
+00:05:43,290 --> 00:05:45,070
+Tapi saya tidak tahu bagaimana AI terintegrasi sekarang
+
+157
+00:05:45,070 --> 00:05:46,029
+Apa ada metode pembelajaran yang baik?
+
+158
+00:05:46,029 --> 00:05:48,759
+Tapi menurut saya, pengetahuan yang kita pelajari adalah milik kita sendiri.
+
+159
+00:05:48,759 --> 00:05:50,639
+Jadi, sejujurnya saya tentang AI
+
+160
+00:05:50,639 --> 00:05:52,199
+Saya juga sangat mengaguminya akhir-akhir ini
+
+161
+00:05:52,199 --> 00:05:54,069
+Tapi saya tidak begitu pandai menggunakannya.
+
+162
+00:05:54,069 --> 00:05:55,789
+Jadi, saya masih di level "menggulung tangan" secara manual.
+
+163
+00:05:55,789 --> 00:05:58,988
+Kalau begitu, menurutmu, baik dari segi gaji maupun prospek perkembangan,
+
+164
+00:05:58,988 --> 00:06:02,940
+Tertinggi adalah level satu yang paling keren dan meledak.
+
+165
+00:06:02,940 --> 00:06:04,060
+Eh, ini adalah arsitektur perangkat lunak.
+
+166
+00:06:04,060 --> 00:06:06,990
+Yang kedua, um, keselamatan fungsional.
+
+167
+00:06:08,120 --> 00:06:09,980
+Yang ketiga agak sedikit berjudi.
+
+168
+00:06:09,980 --> 00:06:12,260
+Suka, komentar 666, ikuti untuk menonton episode selanjutnya di mana para ahli akan menganalisis berbagai situasi industri, cukup tulis perjanjian sumber terbuka dan tumpukan protokol.
+
+169
+00:06:12,260 --> 00:06:13,279
+Suka, tinggalkan komentar 666, ikuti untuk menonton episode berikutnya di mana para ahli menguraikan situasi industri yang berbeda, sedikit berjudi.
+
+170
+00:06:13,279 --> 00:06:15,640
+Itu sepenuhnya dilakukan dengan mentalitas berjudi.
+
+171
+00:06:15,640 --> 00:06:17,760
+Itu mungkin sedikit mirip dengan merintis usaha sendiri.
+

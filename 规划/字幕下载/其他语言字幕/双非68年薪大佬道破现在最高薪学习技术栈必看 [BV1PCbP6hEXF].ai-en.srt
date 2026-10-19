@@ -1,0 +1,388 @@
+﻿1
+00:00:00,160 --> 00:00:02,720
+So, this student is asking which technology stack is more important.
+
+2
+00:00:02,720 --> 00:00:04,059
+Can you just give me a quick ranking?
+
+3
+00:00:04,059 --> 00:00:05,220
+He seems really lost.
+
+4
+00:00:05,220 --> 00:00:07,720
+Well, it really depends on what path you're interested in.
+
+5
+00:00:07,720 --> 00:00:10,700
+If you're into system architecture,
+
+6
+00:00:10,700 --> 00:00:13,180
+In that case, you'd obviously start with something simple.
+
+7
+00:00:13,180 --> 00:00:16,579
+You should start with a classic RTOS, like FreeRTOS.
+
+8
+00:00:16,579 --> 00:00:19,260
+and uCOS, get some hands-on experience with both of them.
+
+9
+00:00:19,260 --> 00:00:23,710
+And then really dig into how exactly things like time slicing are implemented.
+
+10
+00:00:23,710 --> 00:00:27,750
+And how things like saving/restoring the stack are actually implemented.
+
+11
+00:00:27,750 --> 00:00:29,290
+Once you've done that,
+
+12
+00:00:29,290 --> 00:00:35,019
+Then for sure, your first choice is gonna be the Li-Li-Li-Linux kernel. Yep.
+
+13
+00:00:35,019 --> 00:00:38,459
+And with the Linux kernel, you don't need to buy any special hardware or software for it.
+
+14
+00:00:38,459 --> 00:00:41,130
+You can just set up a platform directly on QEMU.
+
+15
+00:00:41,130 --> 00:00:43,810
+Then get the debugger, GDB, all set up.
+
+16
+00:00:43,810 --> 00:00:45,400
+and step through it debugger, um...
+
+17
+00:00:45,400 --> 00:00:47,800
+And then you can take a look at its linked lists, you know, stuff like that.
+
+18
+00:00:47,800 --> 00:00:49,659
+How exactly are they created?
+
+19
+00:00:49,659 --> 00:00:56,240
+And then, you know, there's this thing a lot of people talk about, like the difference between Linux and FreeRTOS, where one of them is concurrent.
+
+20
+00:00:56,240 --> 00:00:59,360
+One is time-sliced scheduling,
+
+21
+00:00:59,360 --> 00:01:00,300
+Actually, that's just bullshit.
+
+22
+00:01:00,300 --> 00:01:03,379
+Both Linux and FreeRTOS actually use time-slicing for scheduling.
+
+23
+00:01:03,379 --> 00:01:06,339
+Yeah, it's just that the frequency is faster.
+
+24
+00:01:06,339 --> 00:01:11,680
+Well, or to put it another way, those people just don't get how chips work.
+
+25
+00:01:11,680 --> 00:01:13,020
+When it comes to chips, they all...
+
+26
+00:01:13,020 --> 00:01:17,830
+So, apart from that, even though some people have now invented that kind of architecture that can run multiple instructions in a single cycle...
+
+27
+00:01:17,830 --> 00:01:18,990
+an architecture that runs multiple commands.
+
+28
+00:01:18,990 --> 00:01:23,430
+But the mainstream in the market is still, uh, the kind where you have to finish one command before you can execute the next one.
+
+29
+00:01:23,430 --> 00:01:29,440
+Right, it's a single command. So, it's simply impossible for them to run simultaneously.
+
+30
+00:01:29,440 --> 00:01:30,720
+So, we're talking about two different programs here.
+
+31
+00:01:30,720 --> 00:01:33,720
+So, once you've actually gone and learned all this stuff,
+
+32
+00:01:33,720 --> 00:01:37,830
+You'll find that a lot of the bloggers and content creators out there...
+
+33
+00:01:37,830 --> 00:01:40,170
+what some of those tutorial writers are saying is just plain wrong.
+
+34
+00:01:40,170 --> 00:01:41,750
+And that, right there, is how you grow, isn't it?
+
+35
+00:01:41,750 --> 00:01:43,090
+Mhmm.
+
+36
+00:01:43,090 --> 00:01:46,290
+And for the second point, it's just like what that guy mentioned earlier.
+
+37
+00:01:46,290 --> 00:01:47,790
+that is, going into the camera domain.
+
+38
+00:01:47,790 --> 00:01:51,630
+Or, you know, display technology. That's a really promising field with a lot of potential.
+
+39
+00:01:51,630 --> 00:01:54,290
+But the thing is, you absolutely have to pick the right company.
+
+40
+00:01:54,290 --> 00:01:58,230
+So, the prerequisite is, um...
+
+41
+00:01:58,230 --> 00:02:04,370
+And to put it bluntly, the tech stack for this role is pretty much all about Linux.
+
+42
+00:02:04,370 --> 00:02:09,760
+So, you'll definitely need to have a solid understanding of the V4L2 framework.
+
+43
+00:02:09,760 --> 00:02:12,419
+And you need to have a solid grasp of the MIPI protocol as well. Next up is...
+
+44
+00:02:12,419 --> 00:02:15,860
+Right, because right now, MIPI is just its data transmission protocol.
+
+45
+00:02:15,860 --> 00:02:19,120
+But in practical applications, MIPI traces are very short.
+
+46
+00:02:19,120 --> 00:02:21,460
+So, if you're going to use it, you'll definitely have to adapt something.
+
+47
+00:02:21,460 --> 00:02:25,230
+For example, a common one used in automotive applications is JSMAL.
+
+48
+00:02:25,230 --> 00:02:26,130
+It's a protocol.
+
+49
+00:02:26,130 --> 00:02:27,610
+So you definitely need to know
+
+50
+00:02:27,610 --> 00:02:29,090
+and know what to buy.
+
+51
+00:02:29,090 --> 00:02:31,370
+But for an individual just playing around with this stuff, it can get a bit pricey.
+
+52
+00:02:31,370 --> 00:02:32,750
+The camera for it is a bit pricey, though.
+
+53
+00:02:32,750 --> 00:02:34,430
+But if you're spending a thousand or so bucks to learn,
+
+54
+00:02:34,430 --> 00:02:35,630
+I think it's worth it.
+
+55
+00:02:35,630 --> 00:02:38,870
+You could buy an NVIDIA development board to learn from, um...
+
+56
+00:02:39,190 --> 00:02:40,710
+So, what's next after you've learned all that?
+
+57
+00:02:40,710 --> 00:02:44,460
+Or, you could say this is the technical path you'd take within a product company. Hmm.
+
+58
+00:02:44,460 --> 00:02:48,000
+And then, the next step is basically to dive into the specific features of different cameras.
+
+59
+00:02:48,000 --> 00:02:49,480
+It's about figuring out how to configure it for each specific manufacturer.
+
+60
+00:02:49,480 --> 00:02:50,480
+Once you get the hang of that,
+
+61
+00:02:50,480 --> 00:02:52,820
+you'll be able to get up to speed easily no matter which company you go to.
+
+62
+00:02:52,820 --> 00:02:55,780
+Then, for a more advanced path, let's say you're at the chip-maker itself,
+
+63
+00:02:55,780 --> 00:02:58,380
+you should definitely aim to move into the ISP area.
+
+64
+00:02:58,380 --> 00:03:00,980
+That's the real core of the camera.
+
+65
+00:03:00,980 --> 00:03:05,940
+Uh, he's asking if it's necessary to learn Zephyr right now.
+
+66
+00:03:05,940 --> 00:03:11,050
+That thing is definitely going to be huge in the future.
+
+67
+00:03:11,050 --> 00:03:12,030
+That R-I-F-I-N-E...
+
+68
+00:03:12,030 --> 00:03:15,160
+Mhmm, wait, wait, did he say Refine or something else?
+
+69
+00:03:15,160 --> 00:03:20,580
+Oh, right, what you were just saying, that's it, Refine. The one under the Linux Foundation. Yep, I'm pretty sure I heard you right.
+
+70
+00:03:20,580 --> 00:03:24,000
+Hmm, so why do you say it's going to blow up?
+
+71
+00:03:24,000 --> 00:03:28,940
+Yeah, because a couple of years back, it was actually merged into the Linux Foundation.
+
+72
+00:03:28,940 --> 00:03:30,700
+But very few people actually got into it.
+
+73
+00:03:30,700 --> 00:03:33,560
+But in the last couple of years, some people started to notice,
+
+74
+00:03:33,560 --> 00:03:38,400
+And some people realized that the industry is in desperate need of a unified standard.
+
+75
+00:03:38,400 --> 00:03:40,450
+and shorten everyone's development time.
+
+76
+00:03:40,450 --> 00:03:45,250
+And it just so happens that this thing inherited the whole framework from Linux.
+
+77
+00:03:45,250 --> 00:03:47,350
+Basically, it means separating the device drivers.
+
+78
+00:03:47,350 --> 00:03:51,320
+So, that's why a lot of manufacturers started to build it into their systems.
+
+79
+00:03:51,320 --> 00:03:54,260
+And that has significantly lowered the development difficulty for a lot of products and companies.
+
+80
+00:03:54,260 --> 00:03:58,130
+Yeah, and its real-time performance is pretty decent, I'd say.
+
+81
+00:03:58,130 --> 00:03:58,890
+I wouldn't say it's the best, though.
+
+82
+00:03:58,890 --> 00:04:04,240
+But anyway, it's been making a comeback these past couple of years, yeah, from last year to this year.
+
+83
+00:04:08,580 --> 00:04:15,440
+So basically, Zephyr... uh... it's actually a great fit for the AI-assisted development we're seeing now.
+
+84
+00:04:15,440 --> 00:04:19,760
+That's because its software testing and CI/CD pipelines are all very comprehensive.
+
+85
+00:04:19,760 --> 00:04:23,900
+Oh, so it's perfect for a complete, closed-loop AI workflow.
+
+86
+00:04:23,900 --> 00:04:29,529
+So, uh, he's asking if it's worth joining a startup now, you know, an original chip-maker for AI, specifically for on-device AI chips.
+
+87
+00:04:29,529 --> 00:04:30,630
+if you're willing to put in the hard work.
+
+88
+00:04:30,630 --> 00:04:32,130
+I think it's definitely worth it.
+
+89
+00:04:32,130 --> 00:04:34,050
+But the catch is, there has to be a big shot in there.
+
+90
+00:04:34,050 --> 00:04:37,150
+Don't go in just to feel your way around on your own. That's completely pointless.
+
+91
+00:04:37,150 --> 00:04:39,740
+Yeah, you need a big shot to guide you.
+
+92
+00:04:39,740 --> 00:04:43,830
+Right, you gotta, you gotta...
+
+93
+00:04:43,830 --> 00:04:49,029
+You can do some research, or just ask during the interview about the backgrounds of the software team.
+
+94
+00:04:49,029 --> 00:04:50,550
+Just ask about these things.
+
+95
+00:04:53,700 --> 00:04:56,500
+Yeah, it's definitely a bit tough to join a company with no one to mentor you.
+
+96
+00:04:56,500 --> 00:04:57,860
+To be honest,
+
+97
+00:04:59,779 --> 00:05:01,660
+You could be waiting a lifetime for that.
+

@@ -1,0 +1,332 @@
+﻿1
+00:00:00,120 --> 00:00:02,060
+Cuando estás en el ojo del huracán, hasta los cerdos vuelan.
+
+2
+00:00:02,060 --> 00:00:04,720
+Compañero, te lo confirmo, no te estaba insultando llamándote cerdo.
+
+3
+00:00:04,720 --> 00:00:05,600
+¿Me oyes?
+
+4
+00:00:05,600 --> 00:00:07,290
+¿Me oye, Hermano Jie? Sí, se le oye.
+
+5
+00:00:07,290 --> 00:00:11,910
+O sea, estás diciendo que en el segundo año de la carrera encontraste un trabajo en paquete MACH Embodied Intelligence.
+
+6
+00:00:11,910 --> 00:00:12,690
+una prácticas en Shenzhen.
+
+7
+00:00:12,690 --> 00:00:18,260
+Espera, espera, ¿dices que encontraste una pasantía en paquete MACH Embodied Intelligence en tu segundo año de universidad?
+
+8
+00:00:18,260 --> 00:00:19,220
+¿Y tú de qué universidad eres?
+
+9
+00:00:19,220 --> 00:00:20,340
+No me digas que otra vez estás usando algún efecto de voz.
+
+10
+00:00:20,340 --> 00:00:22,620
+Pero yo soy de Wuhan.
+
+11
+00:00:22,620 --> 00:00:23,640
+Ah, ¿y de qué universidad vienes?
+
+12
+00:00:23,640 --> 00:00:27,280
+¡Qué bien! Encontrar una pasantía en inteligencia corpórea en mi segundo año de universidad en una buena institución no perteneciente a la liga de las élites.
+
+13
+00:00:27,280 --> 00:00:28,880
+Y ahora, ¿cuál es tu nivel?
+
+14
+00:00:28,880 --> 00:00:30,160
+Primero dinos, ¿cuánto ganas?
+
+15
+00:00:30,160 --> 00:00:31,300
+No, no, es que el mes pasado hice horas extra.
+
+16
+00:00:31,300 --> 00:00:35,690
+Diez mil... un poquito más de diez mil.
+
+17
+00:00:35,690 --> 00:00:37,850
+Entonces, con las horas extra, ganas 10.000 al mes en las prácticas.
+
+18
+00:00:37,850 --> 00:00:40,420
+Es que nos pagan 300 yuanes al día.
+
+19
+00:00:40,420 --> 00:00:42,310
+Y las horas extra los fines de semana se pagan el doble.
+
+20
+00:00:42,310 --> 00:00:44,510
+O sea, que ahora mismo tienes dinero de sobra.
+
+21
+00:00:44,510 --> 00:00:47,330
+O sea, ¿es que un paquete salarial anual de 300.000 es inalcanzable?
+
+22
+00:00:47,330 --> 00:00:49,709
+Es que siento que las películas de Hong Kong de ahora...
+
+23
+00:00:49,709 --> 00:00:56,840
+Entonces, ¿su trabajo es desarrollar en la estación principal de NVIDIA para el 'Jason', encapsular un SDK y entregárselo al algoritmo para que lo use?
+
+24
+00:00:56,840 --> 00:01:00,319
+Es decir, es como si tuvieras que añadir otra capa de nodos de ROS.
+
+25
+00:01:00,319 --> 00:01:04,559
+Yo pensaba que era un puesto más de bajo nivel, más orientado al BSP.
+
+26
+00:01:04,559 --> 00:01:08,620
+Lo que me pregunto es si este tipo de puesto no será demasiado superficial.
+
+27
+00:01:08,620 --> 00:01:12,240
+No, no, para nada. El paquete MACH Embodied Intelligence no tiene ningún requisito de drivers.
+
+28
+00:01:12,240 --> 00:01:16,870
+Es que los drivers de Linux, en el campo de la inteligencia corpórea, prácticamente no tienen cabida. No es algo en lo que se base, por lo que no van a contratar a mucha gente para eso.
+
+29
+00:01:16,870 --> 00:01:20,090
+¡Ah, no te metas por ahí!
+
+30
+00:01:20,090 --> 00:01:22,840
+Es que los drivers no tienen mucha relación con el paquete MACH Embodied Intelligence.
+
+31
+00:01:22,840 --> 00:01:24,959
+Es que le pregunté a mi mentor.
+
+32
+00:01:24,959 --> 00:01:28,360
+Me dijo que el BSP de la placa que usamos nosotros, prácticamente...
+
+33
+00:01:28,360 --> 00:01:31,330
+El fabricante ya te lo deja todo preparado.
+
+34
+00:01:31,330 --> 00:01:33,709
+Sí, sí, el fabricante ya te lo da todo, así que es prácticamente eso.
+
+35
+00:01:33,709 --> 00:01:35,450
+Lo principal fue que entré en su controlador principal para echar un vistazo.
+
+36
+00:01:35,450 --> 00:01:38,490
+y en la terminal aparecía un mensaje.
+
+37
+00:01:38,490 --> 00:01:39,890
+Me dijeron que lo habían escrito en nuestra propia empresa.
+
+38
+00:01:39,890 --> 00:01:41,990
+No modifiques a la ligera el árbol de dispositivos ni nada por el estilo.
+
+39
+00:01:41,990 --> 00:01:44,940
+Entonces me pregunté si para un puesto como este...
+
+40
+00:01:44,940 --> 00:01:46,060
+No, en Jushen Intelligence no es así para esto.
+
+41
+00:01:46,060 --> 00:01:49,460
+En Jushan Zhineng no se exigen muchos conocimientos sobre los drivers de LINUX.
+
+42
+00:01:49,460 --> 00:01:50,220
+Entonces, cuéntame bien sobre tu situación actual.
+
+43
+00:01:50,220 --> 00:01:53,110
+Siento que lo que hago no se parece en nada a un bastidor integrado empotrado.
+
+44
+00:01:53,110 --> 00:01:56,140
+Es que siento que se enfoca más en C++ y ROS.
+
+45
+00:01:56,140 --> 00:01:58,100
+Sí, su paquete MACH Embodied Intelligence es esa solución.
+
+46
+00:01:58,100 --> 00:02:00,970
+Pero en el caso de la inteligencia corpórea, los dispositivos de adquisición de datos inteligentes requieren más conocimientos sobre drivers de Linux.
+
+47
+00:02:00,970 --> 00:02:02,350
+Tiene mucho que ver, ya entiendo.
+
+48
+00:02:02,350 --> 00:02:04,850
+Si en nuestra empresa te pagan 10.000 al mes, ¿cómo te lo gastas?
+
+49
+00:02:04,850 --> 00:02:07,330
+Tengo que abrir esto. ¡Muchachos, la sequía es tan grande que nos estamos muriendo de sed!
+
+50
+00:02:07,330 --> 00:02:09,709
+Y ahora, ¿en qué punto se encuentra el paquete MACH Embodied Intelligence?
+
+51
+00:02:09,709 --> 00:02:11,349
+El paquete MACH Embodied Intelligence debería estar en esta posición.
+
+52
+00:02:11,349 --> 00:02:12,788
+La inversión de capital está entrando masivamente.
+
+53
+00:02:12,788 --> 00:02:14,829
+Dividendo de ingenieros.
+
+54
+00:02:14,829 --> 00:02:16,389
+¿Por qué a ti solo te pagan 6.000?
+
+55
+00:02:16,389 --> 00:02:20,710
+Es que tú sirves para hacer que los demás que ganan 10.000 en sus prácticas parezcan buenos.
+
+56
+00:02:20,710 --> 00:02:22,690
+Por eso te pagan 6.000, amigo.
+
+57
+00:02:22,690 --> 00:02:25,079
+Es justo lo que decía este compañero.
+
+58
+00:02:25,079 --> 00:02:27,299
+Cuando estás en el ojo del huracán, hasta los cerdos vuelan.
+
+59
+00:02:27,299 --> 00:02:30,220
+Compañero, te lo confirmo, no te está insultando llamándote cerdo.
+
+60
+00:02:30,220 --> 00:02:31,580
+Tú, desde luego, no eres un cerdo.
+
+61
+00:02:31,580 --> 00:02:34,419
+Al principio, este estudiante de Wuhan empezó buscando trabajo en su propia ciudad.
+
+62
+00:02:34,419 --> 00:02:36,400
+Pero en Wuhan no encontraba nada.
+
+63
+00:02:36,400 --> 00:02:38,760
+La competencia aquí es una locura, ¡lo tuyo es una auténtica masacre!
+
+64
+00:02:38,760 --> 00:02:39,680
+¡Viniendo de Wuhan y arrasando con todo!
+
+65
+00:02:39,680 --> 00:02:42,930
+Y los trabajos en Shenzhen se los llevaron otros.
+
+66
+00:02:42,930 --> 00:02:45,070
+¿Cómo encontraste unas prácticas como estas?
+
+67
+00:02:45,070 --> 00:02:47,169
+Pues al principio, llegué a enviar casi más de 700 solicitudes.
+
+68
+00:02:47,169 --> 00:02:53,260
+¡Vaya! Me ofrecieron el puesto en Huaqin Technology Co., Ltd., pero me dejaron en espera.
+
+69
+00:02:53,260 --> 00:02:56,820
+En Wuhan había una empresa que se dedicaba a algo así como a la monitorización inteligente del agua.
+
+70
+00:02:56,820 --> 00:02:58,120
+una empresa de energía solar de ese tipo.
+
+71
+00:02:58,120 --> 00:03:00,440
+Y también conseguí una oferta de una empresa de robótica de Shenzhen.
+
+72
+00:03:00,440 --> 00:03:02,450
+Al final, me fui a Shenzhen.
+
+73
+00:03:02,450 --> 00:03:04,930
+¡Ostras! ¡Qué barbaridad!
+
+74
+00:03:04,930 --> 00:03:09,270
+¡Madre mía! ¿Por qué todo lo que me cuentas esta noche es para dejarme de piedra?
+
+75
+00:03:09,270 --> 00:03:10,550
+Ahora mismo tengo la cabeza que me da vueltas.
+
+76
+00:03:10,550 --> 00:03:11,350
+¿Sabes?
+
+77
+00:03:11,350 --> 00:03:14,110
+Muchachos, siento que hoy en día el dinero ya no es dinero.
+
+78
+00:03:14,110 --> 00:03:16,690
+Mi principal preocupación es que mi conocimiento de la pila tecnológica no sea lo suficientemente profundo.
+
+79
+00:03:16,690 --> 00:03:18,570
+Es que siento que, al dedicarme a esta área...
+
+80
+00:03:18,570 --> 00:03:22,469
+¡No me digas! ¡Ahora hasta las prácticas te dan 10.000 al mes como si nada!
+
+81
+00:03:22,469 --> 00:03:29,520
+Es que mucha gente, incluso en las grandes ciudades, ni siquiera encuentra un trabajo de recién graduado en la campaña de otoño que pague 10.000 al mes.
+
+82
+00:03:29,520 --> 00:03:31,020
+Es que en mi empresa pagan bastante bien.
+
+83
+00:03:31,020 --> 00:03:33,419
+Es que ahora mismo todavía hay poca gente.
+
